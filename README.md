@@ -23,6 +23,7 @@ The raw Vision JSON responses (17 GB) are kept locally and are not in this repos
 - [`inventory/SAMPLING.md`](inventory/SAMPLING.md): quality measures for every page and a 40-page stratified sample.
 - [`inventory/NAMES.md`](inventory/NAMES.md): taxonomic-name accuracy, checked with the [Global Names Verifier](https://verifier.globalnames.org) against WoRMS, Catalogue of Life and GBIF.
 - [`inventory/IIIF.md`](inventory/IIIF.md): how the OCR pages map to the SDR IIIF images, with three names checked against those images.
+- [`docs/session-transcript.md`](docs/session-transcript.md): for transparency, the full working session with Claude Code (Anthropic's AI coding assistant) in which this analysis was planned and carried out. It includes every request, reply and tool call, with long outputs shortened and private details redacted. [`docs/transcript_to_md.py`](docs/transcript_to_md.py) generated it from the session export.
 
 ## Page images
 
