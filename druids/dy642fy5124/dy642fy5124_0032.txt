@@ -1,0 +1,17 @@
+void convert(int inverse)
+
+int mo, box, Chl_convers [13] = (0, 20, 21, 23, 30, 45, 55, 57,
+51, 45, 37, 30, 25);
+
+for (mo=0; mo<12; mo++) {
+
+for (box=1; box<5; box++) {
+
+if (!inverse)
+
+phyto [mo*4 + box] = phyto [mo*4 + box]/((double) Chl_convers [mo+1]);
+else phyto [mo*4 + box] = phyto [mo*4 + box]*((double) Chl_convers [mo+1]);
+
+>
+
+>

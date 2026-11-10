@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>js820zm0945_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2519" HEIGHT="3285" PHYSICAL_IMG_NR="1" PC="0.9812">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2519" HEIGHT="3285">
+        <TextBlock ID="B1" HPOS="449" VPOS="32" WIDTH="482" HEIGHT="38">
+          <TextLine ID="B1_L1" HPOS="449" VPOS="32" WIDTH="482" HEIGHT="38">
+            <String ID="B1_L1_W1" CONTENT="Effects" HPOS="449" VPOS="35" WIDTH="207" HEIGHT="35" WC="0.9833" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="of" HPOS="693" VPOS="34" WIDTH="55" HEIGHT="33" WC="0.9853" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Guano" HPOS="782" VPOS="32" WIDTH="149" HEIGHT="34" WC="0.9904" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B2" TYPE="text" HPOS="350" VPOS="425" WIDTH="129" HEIGHT="296">
+          <TextBlock ID="B2_P1" HPOS="351" VPOS="426" WIDTH="50" HEIGHT="241">
+            <TextLine ID="B2_P1_L1" HPOS="351" VPOS="426" WIDTH="50" HEIGHT="241">
+              <String ID="B2_P1_L1_W1" CONTENT="Guano" HPOS="351" VPOS="426" WIDTH="50" HEIGHT="203" WC="0.9814" />
+              <String ID="B2_P1_L1_W2" CONTENT="?" HPOS="351" VPOS="631" WIDTH="50" HEIGHT="36" WC="0.9349" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B2_P2" HPOS="420" VPOS="429" WIDTH="59" HEIGHT="292">
+            <TextLine ID="B2_P2_L1" HPOS="420" VPOS="429" WIDTH="59" HEIGHT="292">
+              <String ID="B2_P2_L1_W1" CONTENT="Nitrogen" HPOS="420" VPOS="429" WIDTH="59" HEIGHT="280" WC="0.9813" />
+              <String ID="B2_P2_L1_W2" CONTENT="." HPOS="421" VPOS="701" WIDTH="55" HEIGHT="20" WC="0.5074" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B3" HPOS="882" VPOS="335" WIDTH="475" HEIGHT="67">
+          <TextLine ID="B3_L1" HPOS="882" VPOS="335" WIDTH="475" HEIGHT="67">
+            <String ID="B3_L1_W1" CONTENT="Phycoerythrin" HPOS="882" VPOS="335" WIDTH="475" HEIGHT="67" WC="0.9864" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1907" VPOS="9" WIDTH="205" HEIGHT="47">
+          <TextLine ID="B4_L1" HPOS="1907" VPOS="10" WIDTH="206" HEIGHT="46">
+            <String ID="B4_L1_W1" CONTENT="Page" HPOS="1907" VPOS="13" WIDTH="120" HEIGHT="43" WC="0.9870" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="19" HPOS="2063" VPOS="10" WIDTH="50" HEIGHT="39" WC="0.9828" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="2398" VPOS="117" WIDTH="37" HEIGHT="240">
+          <TextLine ID="B5_L1" HPOS="2398" VPOS="117" WIDTH="37" HEIGHT="240">
+            <String ID="B5_L1_W1" CONTENT="FIGURE" HPOS="2398" VPOS="117" WIDTH="36" HEIGHT="178" WC="0.9926" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="7" HPOS="2403" VPOS="330" WIDTH="32" HEIGHT="27" WC="0.9842" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="2170" VPOS="1494" WIDTH="40" HEIGHT="244">
+          <TextLine ID="B6_L1" HPOS="2170" VPOS="1494" WIDTH="40" HEIGHT="244">
+            <String ID="B6_L1_W1" CONTENT="Carrageenan" HPOS="2170" VPOS="1494" WIDTH="40" HEIGHT="244" WC="0.9879" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="2093" VPOS="1492" WIDTH="38" HEIGHT="277">
+          <TextLine ID="B7_L1" HPOS="2093" VPOS="1492" WIDTH="38" HEIGHT="277">
+            <String ID="B7_L1_W1" CONTENT="Phycoerythrin" HPOS="2093" VPOS="1492" WIDTH="38" HEIGHT="277" WC="0.9853" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="891" VPOS="2875" WIDTH="450" HEIGHT="62">
+          <TextLine ID="B8_L1" HPOS="891" VPOS="2875" WIDTH="450" HEIGHT="62">
+            <String ID="B8_L1_W1" CONTENT="Carrageenan" HPOS="891" VPOS="2875" WIDTH="450" HEIGHT="62" WC="0.9799" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

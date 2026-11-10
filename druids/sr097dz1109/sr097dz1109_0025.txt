@@ -1,0 +1,147 @@
+1 **
+
+APPENDIX 4
+
+5 REM
+
+** TIDEPOOL OXYGEN MODEL *
+BY STEVEN MOORE
+JUNE 7, 1989
+
+10 CLS: PRINT "TIDEPOOL
+
+11 PRINT
+
+OXYGEN MODEL"
+
+15 PRINT"THIS MODEL WILL PREDICT DISSOLVED OXYGEN LEVELS IN TIDEPOOLS FROM THE T
+IME OF SEPARATION FROM THE OCEAN TO THE TIME OF RE-INUNDATION."
+
+16 PRINT: FRINT THE MODEL WILL ALSO CONSTRUCT 95% CONFIDENCE LIMITS TO AN ESTIMAT
+E OF pH BASED ON OBSERVED FIELD CORRELATION BETWEEN OXYGEN AND pH LEVELS, SAMPL
+E SIZE = 58."
+
+20 PRINT: PRINT "PLEASE INPUT THE FOLLOWING VALUES TO TRACK OXYGEN AND pH LEVEL 3:"
+
+INPUT"Fish Biomass" : FB
+
+25
+
+INFU
+
+30
+
+ate 310
+
+35 INPUT 'Healthy Algae Biomass': AB
+
+INPUT"Necrotic (Rotting) Algae Biomass" NB
+
+45 INPUT 'Tidepool Volume (cu. meber 1
+46 V=7+1000
+
+50
+
+10 10 10
+
+INPUT Tidepool Surface Area 8Q.
+INPUT" Initial High Tide Oxygen Level
+
+52 0=0*
+
+JT "Time
+
+of Separa
+
+5 IF A "A" AND A$<>
+
+60
+
+65
+67
+
+THEN
+
+กา
+
+J
+
+SA
+
+Fourwinute
+
+INPUT Time of Re-inundation by Ocean (hour, minute, A
+IF AA* "A" AND AA$<> "P" THEN 57
+
+H
+
+INPUT " Time
+
+of Sunrise (hour, minute)">PH.FM
+
+INPUT"Time of Sunset (hour, minute)" 3H,3M
+
+9
+
+1HH MM, AAS
+
+INPUT"Estimate Level of Cloudiness (0)
+(0=Clear, 5=Completely Overcast) "W
+63 IF WAS THEN 67
+
+70 PRINT"Now, Enter the range during the day in which the Tidepool is entirely
+illuminated by Direct Sunlight."
+
+75 INPUT"Beginning Time (hour, minute, A or P)" SH.BM, AB%
+
+30 INPUT"Ending Time (hour, minute.A or P)" EH.EM,AC$
+
+90 INPUT"Local Topography Factor (0=Open,
+
+92 IF TG 2 THEN 90
+
+94 IF TG=0 THEN TF=.07
+
+95 IF TG=1 THEN
+
+TF = .037
+
+96 IF TG=2 THEN TF=.022
+
+1=Semi-Tranch, B-Trench)" ; TG
+
+100 PRINT"Now, enter the time increment you'd wish to have oxygen readings predi
+cted at
+
+110 INPUT I
+
+115
+
+(in minutes)."
+
+INPUT"WOULD YOU LIKE A PRINTOUT MADE OF THE SIMULATION (Y/N)" ; P<
+117 IF P$="Y" THEN PT=1
+
+140. H1=H:M1=M:A1$=A$:GOSUB
+
+5000 : T = T1
+
+145 H1 HH:M1=MM:A1$=AA$:GOSUB 5000:TN=T1
+150 H1=BH:M1=BM:A1$=AB$:GOSUB 5000:TB=T1
+155 H1=EH:M1=EM:A1$=AC$:GOSUB 5000:TE=T1
+160 H1=RH:M1=RM:A1$="A":GOSUB 5000:TR=T1
+165 H1=SH:M1=SM:A1$="P":GOSUB 5000:TS=T1
+
+U $ = " ## . ## "
+
+10 TI=T
+
+200 CLS
+
+205 IF T>TN THEN T6=1
+
+210 PRINT,,"
+
+pH 95% CONFIDENCE LIMITS"
+
+225 PRINT"TIME", "OXYGEN (ppm)","pH", "LOWER", "UPPER"

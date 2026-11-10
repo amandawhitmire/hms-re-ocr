@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pm789bv5122_0008</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2503" HEIGHT="3264" PHYSICAL_IMG_NR="1" PC="0.9345">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2503" HEIGHT="3264">
+        <TextBlock ID="B1" HPOS="1563" VPOS="8" WIDTH="402" HEIGHT="41">
+          <TextLine ID="B1_L1" HPOS="1563" VPOS="8" WIDTH="402" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="T." HPOS="1563" VPOS="9" WIDTH="44" HEIGHT="38" WC="0.9644" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Jeffery" HPOS="1635" VPOS="8" WIDTH="183" HEIGHT="40" WC="0.9926" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="White" HPOS="1838" VPOS="9" WIDTH="127" HEIGHT="40" WC="0.9907" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1230" VPOS="5" WIDTH="54" HEIGHT="62">
+          <TextLine ID="B2_L1" HPOS="1230" VPOS="5" WIDTH="54" HEIGHT="62">
+            <String ID="B2_L1_W1" CONTENT="7" HPOS="1230" VPOS="5" WIDTH="54" HEIGHT="62" WC="0.9045" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="2339" VPOS="146" WIDTH="157" HEIGHT="90">
+          <TextLine ID="B3_L1" HPOS="2339" VPOS="146" WIDTH="157" HEIGHT="90">
+            <String ID="B3_L1_W1" CONTENT="444" HPOS="2339" VPOS="146" WIDTH="157" HEIGHT="90" WC="0.9919" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="927" VPOS="196" WIDTH="406" HEIGHT="36">
+          <TextLine ID="B4_L1" HPOS="927" VPOS="196" WIDTH="406" HEIGHT="35">
+            <String ID="B4_L1_W1" CONTENT="REFERENCES" HPOS="927" VPOS="196" WIDTH="254" HEIGHT="34" WC="0.9721" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="CITED" HPOS="1208" VPOS="199" WIDTH="125" HEIGHT="32" WC="0.9949" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="365" VPOS="339" WIDTH="384" HEIGHT="43">
+          <TextLine ID="B5_L1" HPOS="365" VPOS="338" WIDTH="384" HEIGHT="44">
+            <String ID="B5_L1_W1" CONTENT="Baldwin" HPOS="365" VPOS="339" WIDTH="178" HEIGHT="43" WC="0.9910" />
+            <String ID="B5_L1_W2" CONTENT="," HPOS="546" VPOS="340" WIDTH="14" HEIGHT="41" WC="0.9852" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="Simeon" HPOS="594" VPOS="338" WIDTH="155" HEIGHT="43" WC="0.9885" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="519" VPOS="438" WIDTH="1844" HEIGHT="63">
+          <TextLine ID="B6_L1" HPOS="519" VPOS="438" WIDTH="1844" HEIGHT="63">
+            <String ID="B6_L1_W1" CONTENT="1966." HPOS="519" VPOS="438" WIDTH="121" HEIGHT="46" WC="0.9778" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="Manometric" HPOS="665" VPOS="440" WIDTH="254" HEIGHT="47" WC="0.9660" />
+            <SP />
+            <String ID="B6_L1_W3" CONTENT="measurements" HPOS="946" VPOS="442" WIDTH="306" HEIGHT="48" WC="0.9904" />
+            <SP />
+            <String ID="B6_L1_W4" CONTENT="of" HPOS="1279" VPOS="446" WIDTH="48" HEIGHT="44" WC="0.9915" />
+            <SP />
+            <String ID="B6_L1_W5" CONTENT="respiratory" HPOS="1352" VPOS="446" WIDTH="282" HEIGHT="48" WC="0.9870" />
+            <SP />
+            <String ID="B6_L1_W6" CONTENT="activity" HPOS="1657" VPOS="450" WIDTH="204" HEIGHT="46" WC="0.9901" />
+            <SP />
+            <String ID="B6_L1_W7" CONTENT="in" HPOS="1884" VPOS="452" WIDTH="54" HEIGHT="45" WC="0.9882" />
+            <SP />
+            <String ID="B6_L1_W8" CONTENT="Acmaea" HPOS="1958" VPOS="453" WIDTH="154" HEIGHT="46" WC="0.9802" />
+            <SP />
+            <String ID="B6_L1_W9" CONTENT="digitalis" HPOS="2135" VPOS="454" WIDTH="228" HEIGHT="47" WC="0.9931" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="361" VPOS="648" WIDTH="250" HEIGHT="37">
+          <TextLine ID="B7_L1" HPOS="361" VPOS="648" WIDTH="250" HEIGHT="37">
+            <String ID="B7_L1_W1" CONTENT="Dubois" HPOS="361" VPOS="648" WIDTH="154" HEIGHT="37" WC="0.9916" />
+            <String ID="B7_L1_W2" CONTENT="," HPOS="518" VPOS="648" WIDTH="16" HEIGHT="37" WC="0.9858" />
+            <SP />
+            <String ID="B7_L1_W3" CONTENT="M." HPOS="560" VPOS="648" WIDTH="51" HEIGHT="37" WC="0.9789" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="668" VPOS="547" WIDTH="784" HEIGHT="45">
+          <TextLine ID="B8_L1" HPOS="668" VPOS="547" WIDTH="784" HEIGHT="45">
+            <String ID="B8_L1_W1" CONTENT="and" HPOS="668" VPOS="547" WIDTH="78" HEIGHT="38" WC="0.9919" />
+            <SP />
+            <String ID="B8_L1_W2" CONTENT="Acmaea" HPOS="768" VPOS="548" WIDTH="151" HEIGHT="38" WC="0.9890" />
+            <SP />
+            <String ID="B8_L1_W3" CONTENT="scabra" HPOS="951" VPOS="550" WIDTH="147" HEIGHT="38" WC="0.9880" />
+            <String ID="B8_L1_W4" CONTENT="." HPOS="1112" VPOS="552" WIDTH="14" HEIGHT="36" WC="0.9251" />
+            <SP />
+            <String ID="B8_L1_W5" CONTENT="The" HPOS="1173" VPOS="552" WIDTH="73" HEIGHT="38" WC="0.9871" />
+            <SP />
+            <String ID="B8_L1_W6" CONTENT="Veliger" HPOS="1274" VPOS="553" WIDTH="178" HEIGHT="39" WC="0.9844" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="513" VPOS="741" WIDTH="1720" HEIGHT="61">
+          <TextLine ID="B9_L1" HPOS="513" VPOS="741" WIDTH="1720" HEIGHT="61">
+            <String ID="B9_L1_W1" CONTENT="1956." HPOS="513" VPOS="741" WIDTH="116" HEIGHT="41" WC="0.9613" />
+            <SP />
+            <String ID="B9_L1_W2" CONTENT="Colorimetric" HPOS="662" VPOS="743" WIDTH="304" HEIGHT="44" WC="0.9808" />
+            <SP />
+            <String ID="B9_L1_W3" CONTENT="method" HPOS="991" VPOS="747" WIDTH="156" HEIGHT="42" WC="0.9929" />
+            <SP />
+            <String ID="B9_L1_W4" CONTENT="for" HPOS="1171" VPOS="749" WIDTH="75" HEIGHT="41" WC="0.9902" />
+            <SP />
+            <String ID="B9_L1_W5" CONTENT="the" HPOS="1272" VPOS="751" WIDTH="74" HEIGHT="40" WC="0.9869" />
+            <SP />
+            <String ID="B9_L1_W6" CONTENT="determination" HPOS="1371" VPOS="752" WIDTH="334" HEIGHT="43" WC="0.9884" />
+            <SP />
+            <String ID="B9_L1_W7" CONTENT="of" HPOS="1731" VPOS="757" WIDTH="47" HEIGHT="40" WC="0.9923" />
+            <SP />
+            <String ID="B9_L1_W8" CONTENT="sugar" HPOS="1807" VPOS="757" WIDTH="123" HEIGHT="42" WC="0.9919" />
+            <SP />
+            <String ID="B9_L1_W9" CONTENT="and" HPOS="1954" VPOS="759" WIDTH="78" HEIGHT="41" WC="0.9926" />
+            <SP />
+            <String ID="B9_L1_W10" CONTENT="related" HPOS="2055" VPOS="760" WIDTH="178" HEIGHT="42" WC="0.9942" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="353" VPOS="946" WIDTH="302" HEIGHT="43">
+          <TextLine ID="B10_L1" HPOS="353" VPOS="947" WIDTH="302" HEIGHT="42">
+            <String ID="B10_L1_W1" CONTENT="Hardin" HPOS="353" VPOS="948" WIDTH="154" HEIGHT="41" WC="0.9790" />
+            <String ID="B10_L1_W2" CONTENT="," HPOS="510" VPOS="949" WIDTH="15" HEIGHT="38" WC="0.9117" />
+            <SP />
+            <String ID="B10_L1_W3" CONTENT="Dane" HPOS="555" VPOS="947" WIDTH="100" HEIGHT="39" WC="0.9882" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="665" VPOS="849" WIDTH="806" HEIGHT="43">
+          <TextLine ID="B11_L1" HPOS="665" VPOS="849" WIDTH="806" HEIGHT="43">
+            <String ID="B11_L1_W1" CONTENT="substances" HPOS="665" VPOS="849" WIDTH="250" HEIGHT="37" WC="0.9935" />
+            <String ID="B11_L1_W2" CONTENT="." HPOS="918" VPOS="852" WIDTH="15" HEIGHT="34" WC="0.8301" />
+            <SP />
+            <String ID="B11_L1_W3" CONTENT="Anal" HPOS="989" VPOS="852" WIDTH="103" HEIGHT="36" WC="0.9116" />
+            <String ID="B11_L1_W4" CONTENT="." HPOS="1096" VPOS="854" WIDTH="15" HEIGHT="34" WC="0.8731" />
+            <SP />
+            <String ID="B11_L1_W5" CONTENT="Chem" HPOS="1143" VPOS="854" WIDTH="106" HEIGHT="35" WC="0.9853" />
+            <String ID="B11_L1_W6" CONTENT="." HPOS="1251" VPOS="855" WIDTH="14" HEIGHT="34" WC="0.9636" />
+            <SP />
+            <String ID="B11_L1_W7" CONTENT="28" HPOS="1319" VPOS="856" WIDTH="52" HEIGHT="35" WC="0.9826" />
+            <String ID="B11_L1_W8" CONTENT=":" HPOS="1377" VPOS="856" WIDTH="13" HEIGHT="34" WC="0.9888" />
+            <String ID="B11_L1_W9" CONTENT="350" HPOS="1398" VPOS="857" WIDTH="73" HEIGHT="35" WC="0.9891" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="506" VPOS="1041" WIDTH="1798" HEIGHT="167">
+          <TextLine ID="B12_L1" HPOS="507" VPOS="1042" WIDTH="1797" HEIGHT="64">
+            <String ID="B12_L1_W1" CONTENT="1966." HPOS="507" VPOS="1042" WIDTH="118" HEIGHT="50" WC="0.9045" />
+            <SP />
+            <String ID="B12_L1_W2" CONTENT="A" HPOS="656" VPOS="1044" WIDTH="31" HEIGHT="48" WC="0.9822" />
+            <SP />
+            <String ID="B12_L1_W3" CONTENT="comparative" HPOS="708" VPOS="1044" WIDTH="279" HEIGHT="51" WC="0.9894" />
+            <SP />
+            <String ID="B12_L1_W4" CONTENT="study" HPOS="1017" VPOS="1047" WIDTH="126" HEIGHT="49" WC="0.9875" />
+            <SP />
+            <String ID="B12_L1_W5" CONTENT="of" HPOS="1160" VPOS="1048" WIDTH="67" HEIGHT="50" WC="0.6614" />
+            <SP />
+            <String ID="B12_L1_W6" CONTENT="lethal" HPOS="1241" VPOS="1049" WIDTH="154" HEIGHT="49" WC="0.9669" />
+            <SP />
+            <String ID="B12_L1_W7" CONTENT="temperatures" HPOS="1414" VPOS="1050" WIDTH="308" HEIGHT="52" WC="0.9909" />
+            <SP />
+            <String ID="B12_L1_W8" CONTENT="in" HPOS="1752" VPOS="1054" WIDTH="75" HEIGHT="49" WC="0.4563" />
+            <SP />
+            <String ID="B12_L1_W9" CONTENT="the" HPOS="1844" VPOS="1054" WIDTH="79" HEIGHT="50" WC="0.9863" />
+            <SP />
+            <String ID="B12_L1_W10" CONTENT="limpets" HPOS="1950" VPOS="1055" WIDTH="178" HEIGHT="51" WC="0.9625" />
+            <SP />
+            <String ID="B12_L1_W11" CONTENT="Acmaea" HPOS="2148" VPOS="1057" WIDTH="156" HEIGHT="49" WC="0.9871" />
+          </TextLine>
+          <TextLine ID="B12_L2" HPOS="660" VPOS="1150" WIDTH="1048" HEIGHT="51">
+            <String ID="B12_L2_W1" CONTENT="scabra" HPOS="660" VPOS="1150" WIDTH="147" HEIGHT="42" WC="0.9658" />
+            <SP />
+            <String ID="B12_L2_W2" CONTENT="and" HPOS="833" VPOS="1152" WIDTH="75" HEIGHT="41" WC="0.9938" />
+            <SP />
+            <String ID="B12_L2_W3" CONTENT="Acmaea" HPOS="930" VPOS="1153" WIDTH="156" HEIGHT="42" WC="0.9749" />
+            <SP />
+            <String ID="B12_L2_W4" CONTENT="digitalis" HPOS="1112" VPOS="1154" WIDTH="228" HEIGHT="43" WC="0.9893" />
+            <String ID="B12_L2_W5" CONTENT="." HPOS="1356" VPOS="1157" WIDTH="15" HEIGHT="40" WC="0.8165" />
+            <SP />
+            <String ID="B12_L2_W6" CONTENT="The" HPOS="1414" VPOS="1157" WIDTH="79" HEIGHT="42" WC="0.9812" />
+            <SP />
+            <String ID="B12_L2_W7" CONTENT="Veliger" HPOS="1514" VPOS="1158" WIDTH="181" HEIGHT="43" WC="0.9824" />
+            <String ID="B12_L2_W8" CONTENT="." HPOS="1694" VPOS="1161" WIDTH="14" HEIGHT="40" WC="0.5032" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B13" HPOS="347" VPOS="1251" WIDTH="327" HEIGHT="40">
+          <TextLine ID="B13_L1" HPOS="347" VPOS="1251" WIDTH="327" HEIGHT="39">
+            <String ID="B13_L1_W1" CONTENT="Hewatt" HPOS="347" VPOS="1251" WIDTH="155" HEIGHT="39" WC="0.9849" />
+            <String ID="B13_L1_W2" CONTENT="," HPOS="506" VPOS="1252" WIDTH="13" HEIGHT="37" WC="0.9691" />
+            <SP />
+            <String ID="B13_L1_W3" CONTENT="W." HPOS="548" VPOS="1252" WIDTH="51" HEIGHT="38" WC="0.9193" />
+            <SP />
+            <String ID="B13_L1_W4" CONTENT="G." HPOS="627" VPOS="1253" WIDTH="47" HEIGHT="37" WC="0.9780" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B14" HPOS="501" VPOS="1352" WIDTH="1696" HEIGHT="160">
+          <TextLine ID="B14_L1" HPOS="502" VPOS="1352" WIDTH="1695" HEIGHT="57">
+            <String ID="B14_L1_W1" CONTENT="1935." HPOS="502" VPOS="1352" WIDTH="121" HEIGHT="40" WC="0.9402" />
+            <SP />
+            <String ID="B14_L1_W2" CONTENT="Ecological" HPOS="651" VPOS="1354" WIDTH="253" HEIGHT="42" WC="0.8791" />
+            <SP />
+            <String ID="B14_L1_W3" CONTENT="succession" HPOS="934" VPOS="1357" WIDTH="255" HEIGHT="42" WC="0.9857" />
+            <SP />
+            <String ID="B14_L1_W4" CONTENT="in" HPOS="1210" VPOS="1360" WIDTH="56" HEIGHT="39" WC="0.9881" />
+            <SP />
+            <String ID="B14_L1_W5" CONTENT="the" HPOS="1285" VPOS="1360" WIDTH="74" HEIGHT="40" WC="0.9903" />
+            <SP />
+            <String ID="B14_L1_W6" CONTENT="Mytilus" HPOS="1385" VPOS="1362" WIDTH="177" HEIGHT="40" WC="0.9756" />
+            <SP />
+            <String ID="B14_L1_W7" CONTENT="californianus" HPOS="1590" VPOS="1364" WIDTH="328" HEIGHT="43" WC="0.9881" />
+            <SP />
+            <String ID="B14_L1_W8" CONTENT="habitat" HPOS="1941" VPOS="1368" WIDTH="178" HEIGHT="40" WC="0.9884" />
+            <SP />
+            <String ID="B14_L1_W9" CONTENT="as" HPOS="2146" VPOS="1370" WIDTH="51" HEIGHT="39" WC="0.9931" />
+          </TextLine>
+          <TextLine ID="B14_L2" HPOS="654" VPOS="1453" WIDTH="1392" HEIGHT="56">
+            <String ID="B14_L2_W1" CONTENT="observed" HPOS="654" VPOS="1453" WIDTH="200" HEIGHT="46" WC="0.9859" />
+            <SP />
+            <String ID="B14_L2_W2" CONTENT="in" HPOS="878" VPOS="1455" WIDTH="54" HEIGHT="44" WC="0.9867" />
+            <SP />
+            <String ID="B14_L2_W3" CONTENT="Monterey" HPOS="954" VPOS="1456" WIDTH="204" HEIGHT="46" WC="0.9587" />
+            <SP />
+            <String ID="B14_L2_W4" CONTENT="Bay" HPOS="1180" VPOS="1458" WIDTH="81" HEIGHT="44" WC="0.9929" />
+            <String ID="B14_L2_W5" CONTENT="," HPOS="1263" VPOS="1459" WIDTH="15" HEIGHT="43" WC="0.9874" />
+            <SP />
+            <String ID="B14_L2_W6" CONTENT="California" HPOS="1311" VPOS="1459" WIDTH="254" HEIGHT="46" WC="0.9826" />
+            <String ID="B14_L2_W7" CONTENT="." HPOS="1567" VPOS="1461" WIDTH="15" HEIGHT="43" WC="0.8625" />
+            <SP />
+            <String ID="B14_L2_W8" CONTENT="Ecol" HPOS="1634" VPOS="1461" WIDTH="108" HEIGHT="45" WC="0.9075" />
+            <String ID="B14_L2_W9" CONTENT="." HPOS="1743" VPOS="1463" WIDTH="17" HEIGHT="43" WC="0.9355" />
+            <SP />
+            <String ID="B14_L2_W10" CONTENT="16" HPOS="1791" VPOS="1463" WIDTH="52" HEIGHT="43" WC="0.9912" />
+            <String ID="B14_L2_W11" CONTENT=":" HPOS="1846" VPOS="1464" WIDTH="15" HEIGHT="43" WC="0.9805" />
+            <String ID="B14_L2_W12" CONTENT="244-251" HPOS="1866" VPOS="1464" WIDTH="180" HEIGHT="45" WC="0.9855" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B15" HPOS="343" VPOS="1556" WIDTH="328" HEIGHT="39">
+          <TextLine ID="B15_L1" HPOS="343" VPOS="1556" WIDTH="328" HEIGHT="39">
+            <String ID="B15_L1_W1" CONTENT="Howatt" HPOS="343" VPOS="1556" WIDTH="152" HEIGHT="39" WC="0.8855" />
+            <String ID="B15_L1_W2" CONTENT="," HPOS="501" VPOS="1556" WIDTH="15" HEIGHT="39" WC="0.9510" />
+            <SP />
+            <String ID="B15_L1_W3" CONTENT="W." HPOS="543" VPOS="1556" WIDTH="53" HEIGHT="39" WC="0.8913" />
+            <SP />
+            <String ID="B15_L1_W4" CONTENT="C." HPOS="619" VPOS="1556" WIDTH="52" HEIGHT="39" WC="0.7780" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B16" HPOS="496" VPOS="1653" WIDTH="1523" HEIGHT="61">
+          <TextLine ID="B16_L1" HPOS="496" VPOS="1653" WIDTH="1523" HEIGHT="60">
+            <String ID="B16_L1_W1" CONTENT="1940." HPOS="496" VPOS="1653" WIDTH="122" HEIGHT="45" WC="0.9547" />
+            <SP />
+            <String ID="B16_L1_W2" CONTENT="Observations" HPOS="647" VPOS="1655" WIDTH="303" HEIGHT="47" WC="0.9776" />
+            <SP />
+            <String ID="B16_L1_W3" CONTENT="on" HPOS="979" VPOS="1659" WIDTH="52" HEIGHT="44" WC="0.9862" />
+            <SP />
+            <String ID="B16_L1_W4" CONTENT="the" HPOS="1051" VPOS="1659" WIDTH="77" HEIGHT="45" WC="0.9788" />
+            <SP />
+            <String ID="B16_L1_W5" CONTENT="homing" HPOS="1153" VPOS="1660" WIDTH="154" HEIGHT="46" WC="0.9891" />
+            <SP />
+            <String ID="B16_L1_W6" CONTENT="limpet" HPOS="1331" VPOS="1663" WIDTH="148" HEIGHT="45" WC="0.9291" />
+            <SP />
+            <String ID="B16_L1_W7" CONTENT="Acmaea" HPOS="1508" VPOS="1664" WIDTH="151" HEIGHT="46" WC="0.9724" />
+            <SP />
+            <String ID="B16_L1_W8" CONTENT="Scabra" HPOS="1687" VPOS="1666" WIDTH="149" HEIGHT="46" WC="0.9813" />
+            <SP />
+            <String ID="B16_L1_W9" CONTENT="Gould" HPOS="1860" VPOS="1668" WIDTH="129" HEIGHT="45" WC="0.9912" />
+            <String ID="B16_L1_W10" CONTENT="." HPOS="2002" VPOS="1670" WIDTH="17" HEIGHT="43" WC="0.9328" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B17" HPOS="642" VPOS="1756" WIDTH="635" HEIGHT="44">
+          <TextLine ID="B17_L1" HPOS="642" VPOS="1756" WIDTH="635" HEIGHT="44">
+            <String ID="B17_L1_W1" CONTENT="Amer" HPOS="642" VPOS="1756" WIDTH="104" HEIGHT="37" WC="0.9872" />
+            <String ID="B17_L1_W2" CONTENT="." HPOS="753" VPOS="1758" WIDTH="13" HEIGHT="35" WC="0.9260" />
+            <SP />
+            <String ID="B17_L1_W3" CONTENT="Midl" HPOS="793" VPOS="1758" WIDTH="103" HEIGHT="37" WC="0.9398" />
+            <String ID="B17_L1_W4" CONTENT="." HPOS="902" VPOS="1760" WIDTH="15" HEIGHT="35" WC="0.9331" />
+            <SP />
+            <String ID="B17_L1_W5" CONTENT="Nat" HPOS="945" VPOS="1760" WIDTH="75" HEIGHT="37" WC="0.9520" />
+            <String ID="B17_L1_W6" CONTENT="." HPOS="1029" VPOS="1761" WIDTH="14" HEIGHT="35" WC="0.9281" />
+            <SP />
+            <String ID="B17_L1_W7" CONTENT="24" HPOS="1074" VPOS="1762" WIDTH="53" HEIGHT="36" WC="0.9845" />
+            <String ID="B17_L1_W8" CONTENT=":" HPOS="1129" VPOS="1763" WIDTH="15" HEIGHT="35" WC="0.8307" />
+            <String ID="B17_L1_W9" CONTENT="205-8" HPOS="1153" VPOS="1762" WIDTH="124" HEIGHT="38" WC="0.9819" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B18" HPOS="336" VPOS="1855" WIDTH="450" HEIGHT="43">
+          <TextLine ID="B18_L1" HPOS="336" VPOS="1856" WIDTH="450" HEIGHT="42">
+            <String ID="B18_L1_W1" CONTENT="Jessee" HPOS="336" VPOS="1857" WIDTH="152" HEIGHT="41" WC="0.9850" />
+            <String ID="B18_L1_W2" CONTENT="," HPOS="493" VPOS="1858" WIDTH="14" HEIGHT="39" WC="0.9626" />
+            <SP />
+            <String ID="B18_L1_W3" CONTENT="William" HPOS="536" VPOS="1856" WIDTH="186" HEIGHT="41" WC="0.9777" />
+            <SP />
+            <String ID="B18_L1_W4" CONTENT="F." HPOS="741" VPOS="1856" WIDTH="45" HEIGHT="39" WC="0.9657" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B19" HPOS="490" VPOS="1952" WIDTH="1669" HEIGHT="61">
+          <TextLine ID="B19_L1" HPOS="490" VPOS="1952" WIDTH="1669" HEIGHT="61">
+            <String ID="B19_L1_W1" CONTENT="1966" HPOS="490" VPOS="1952" WIDTH="99" HEIGHT="45" WC="0.9878" />
+            <String ID="B19_L1_W2" CONTENT="," HPOS="595" VPOS="1954" WIDTH="13" HEIGHT="43" WC="0.7727" />
+            <SP />
+            <String ID="B19_L1_W3" CONTENT="Ecological" HPOS="637" VPOS="1954" WIDTH="257" HEIGHT="46" WC="0.9304" />
+            <SP />
+            <String ID="B19_L1_W4" CONTENT="and" HPOS="919" VPOS="1956" WIDTH="78" HEIGHT="45" WC="0.9920" />
+            <SP />
+            <String ID="B19_L1_W5" CONTENT="mechanistic" HPOS="1016" VPOS="1958" WIDTH="280" HEIGHT="46" WC="0.9896" />
+            <SP />
+            <String ID="B19_L1_W6" CONTENT="studies" HPOS="1329" VPOS="1961" WIDTH="174" HEIGHT="46" WC="0.9889" />
+            <SP />
+            <String ID="B19_L1_W7" CONTENT="of" HPOS="1530" VPOS="1963" WIDTH="50" HEIGHT="45" WC="0.9907" />
+            <SP />
+            <String ID="B19_L1_W8" CONTENT="homing" HPOS="1603" VPOS="1964" WIDTH="155" HEIGHT="46" WC="0.9743" />
+            <SP />
+            <String ID="B19_L1_W9" CONTENT="behavior" HPOS="1777" VPOS="1965" WIDTH="207" HEIGHT="46" WC="0.9911" />
+            <SP />
+            <String ID="B19_L1_W10" CONTENT="in" HPOS="2008" VPOS="1968" WIDTH="55" HEIGHT="44" WC="0.9887" />
+            <SP />
+            <String ID="B19_L1_W11" CONTENT="the" HPOS="2082" VPOS="1969" WIDTH="77" HEIGHT="44" WC="0.9942" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B20" HPOS="640" VPOS="2061" WIDTH="886" HEIGHT="49">
+          <TextLine ID="B20_L1" HPOS="640" VPOS="2061" WIDTH="886" HEIGHT="49">
+            <String ID="B20_L1_W1" CONTENT="limpet" HPOS="640" VPOS="2061" WIDTH="148" HEIGHT="42" WC="0.9232" />
+            <String ID="B20_L1_W2" CONTENT="," HPOS="794" VPOS="2063" WIDTH="14" HEIGHT="39" WC="0.9575" />
+            <SP />
+            <String ID="B20_L1_W3" CONTENT="Acmaea" HPOS="841" VPOS="2063" WIDTH="150" HEIGHT="42" WC="0.9817" />
+            <SP />
+            <String ID="B20_L1_W4" CONTENT="scabra" HPOS="1023" VPOS="2065" WIDTH="148" HEIGHT="42" WC="0.9864" />
+            <String ID="B20_L1_W5" CONTENT="." HPOS="1182" VPOS="2067" WIDTH="14" HEIGHT="39" WC="0.9295" />
+            <SP />
+            <String ID="B20_L1_W6" CONTENT="The" HPOS="1244" VPOS="2067" WIDTH="77" HEIGHT="41" WC="0.9864" />
+            <SP />
+            <String ID="B20_L1_W7" CONTENT="Veliger" HPOS="1346" VPOS="2068" WIDTH="180" HEIGHT="42" WC="0.9875" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B21" HPOS="336" VPOS="2159" WIDTH="802" HEIGHT="47">
+          <TextLine ID="B21_L1" HPOS="336" VPOS="2159" WIDTH="802" HEIGHT="46">
+            <String ID="B21_L1_W1" CONTENT="Smith" HPOS="336" VPOS="2159" WIDTH="125" HEIGHT="42" WC="0.9801" />
+            <String ID="B21_L1_W2" CONTENT="," HPOS="464" VPOS="2160" WIDTH="14" HEIGHT="40" WC="0.9877" />
+            <SP />
+            <String ID="B21_L1_W3" CONTENT="Ralph" HPOS="509" VPOS="2160" WIDTH="128" HEIGHT="42" WC="0.9757" />
+            <SP />
+            <String ID="B21_L1_W4" CONTENT="I." HPOS="660" VPOS="2162" WIDTH="47" HEIGHT="40" WC="0.9316" />
+            <SP />
+            <String ID="B21_L1_W5" CONTENT="&amp;" HPOS="732" VPOS="2162" WIDTH="30" HEIGHT="40" WC="0.9610" />
+            <SP />
+            <String ID="B21_L1_W6" CONTENT="Welsh" HPOS="785" VPOS="2162" WIDTH="134" HEIGHT="42" WC="0.9915" />
+            <String ID="B21_L1_W7" CONTENT="," HPOS="918" VPOS="2164" WIDTH="14" HEIGHT="40" WC="0.9662" />
+            <SP />
+            <String ID="B21_L1_W8" CONTENT="John" HPOS="962" VPOS="2163" WIDTH="106" HEIGHT="42" WC="0.9820" />
+            <SP />
+            <String ID="B21_L1_W9" CONTENT="H." HPOS="1089" VPOS="2165" WIDTH="49" HEIGHT="40" WC="0.9797" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B22" HPOS="1848" VPOS="2200" WIDTH="188" HEIGHT="65">
+          <TextLine ID="B22_L1" HPOS="1848" VPOS="2200" WIDTH="188" HEIGHT="65">
+            <String ID="B22_L1_W1" CONTENT="179" HPOS="1848" VPOS="2200" WIDTH="82" HEIGHT="57" WC="0.9494" />
+            <SP />
+            <String ID="B22_L1_W2" CONTENT="PP" HPOS="1947" VPOS="2208" WIDTH="62" HEIGHT="55" WC="0.8216" />
+            <String ID="B22_L1_W3" CONTENT="." HPOS="1995" VPOS="2212" WIDTH="22" HEIGHT="51" WC="0.8236" />
+            <String ID="B22_L1_W4" CONTENT=")" HPOS="2011" VPOS="2213" WIDTH="25" HEIGHT="52" WC="0.4563" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B23" HPOS="2066" VPOS="2186" WIDTH="248" HEIGHT="53">
+          <TextLine ID="B23_L1" HPOS="2066" VPOS="2186" WIDTH="248" HEIGHT="53">
+            <String ID="B23_L1_W1" CONTENT="41" HPOS="2066" VPOS="2186" WIDTH="63" HEIGHT="53" WC="0.7079" />
+            <SP />
+            <String ID="B23_L1_W2" CONTENT="Figsj" HPOS="2155" VPOS="2186" WIDTH="159" HEIGHT="53" WC="0.4437" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B24" HPOS="1857" VPOS="2312" WIDTH="28" HEIGHT="27">
+          <TextLine ID="B24_L1" HPOS="1857" VPOS="2312" WIDTH="28" HEIGHT="27">
+            <String ID="B24_L1_W1" CONTENT="A" HPOS="1857" VPOS="2312" WIDTH="28" HEIGHT="27" WC="0.9250" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B25" HPOS="481" VPOS="2258" WIDTH="1698" HEIGHT="67">
+          <TextLine ID="B25_L1" HPOS="481" VPOS="2258" WIDTH="1698" HEIGHT="67">
+            <String ID="B25_L1_W1" CONTENT="1949." HPOS="481" VPOS="2258" WIDTH="124" HEIGHT="45" WC="0.9153" />
+            <SP />
+            <String ID="B25_L1_W2" CONTENT="Laboratory" HPOS="631" VPOS="2260" WIDTH="260" HEIGHT="47" WC="0.9865" />
+            <SP />
+            <String ID="B25_L1_W3" CONTENT="Exercises" HPOS="908" VPOS="2264" WIDTH="232" HEIGHT="46" WC="0.9823" />
+            <SP />
+            <String ID="B25_L1_W4" CONTENT="in" HPOS="1165" VPOS="2268" WIDTH="58" HEIGHT="43" WC="0.9918" />
+            <SP />
+            <String ID="B25_L1_W5" CONTENT="Invertebrate" HPOS="1241" VPOS="2269" WIDTH="304" HEIGHT="47" WC="0.9896" />
+            <SP />
+            <String ID="B25_L1_W6" CONTENT="Physiology" HPOS="1566" VPOS="2273" WIDTH="260" HEIGHT="47" WC="0.9876" />
+            <String ID="B25_L1_W7" CONTENT="," HPOS="1825" VPOS="2277" WIDTH="16" HEIGHT="42" WC="0.8437" />
+            <SP />
+            <String ID="B25_L1_W8" CONTENT="Minneapolis" HPOS="1893" VPOS="2278" WIDTH="286" HEIGHT="47" WC="0.9889" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B26" HPOS="609" VPOS="2344" WIDTH="741" HEIGHT="79">
+          <TextLine ID="B26_L1" HPOS="609" VPOS="2345" WIDTH="741" HEIGHT="77">
+            <String ID="B26_L1_W1" CONTENT="(" HPOS="609" VPOS="2345" WIDTH="22" HEIGHT="68" WC="0.9308" />
+            <String ID="B26_L1_W2" CONTENT="Burgess" HPOS="627" VPOS="2345" WIDTH="181" HEIGHT="70" WC="0.9875" />
+            <SP />
+            <String ID="B26_L1_W3" CONTENT="Co." HPOS="830" VPOS="2347" WIDTH="73" HEIGHT="70" WC="0.9478" />
+            <String ID="B26_L1_W4" CONTENT=")" HPOS="905" VPOS="2349" WIDTH="23" HEIGHT="68" WC="0.9673" />
+            <SP />
+            <String ID="B26_L1_W5" CONTENT="179pge" HPOS="955" VPOS="2349" WIDTH="170" HEIGHT="71" WC="0.4897" />
+            <String ID="B26_L1_W6" CONTENT="-" HPOS="1114" VPOS="2351" WIDTH="31" HEIGHT="68" WC="0.3070" />
+            <String ID="B26_L1_W7" CONTENT="41figs" HPOS="1154" VPOS="2352" WIDTH="168" HEIGHT="70" WC="0.5378" />
+            <String ID="B26_L1_W8" CONTENT="." HPOS="1317" VPOS="2354" WIDTH="33" HEIGHT="68" WC="0.4943" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

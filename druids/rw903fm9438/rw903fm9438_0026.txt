@@ -1,0 +1,191 @@
+Table 7:
+
+Time of Day vs Wave Height
+
+Anova: Two Factor
+
+Source of Variation
+
+SS
+
+df
+
+MS
+
+F
+
+P - value
+
+Time of Day
+
+4.341
+
+3
+
+1.447 5.252
+
+0.002
+
+Wave Height
+
+4.785
+
+3
+
+1.595
+
+5.790
+
+0.001
+
+Time x Wave
+
+3.470
+
+9
+
+0.386
+
+1.400
+
+0.201
+
+Error
+
+23.418
+
+85
+
+0.276
+
+Total
+
+36.014 100
+
+Tukey HSD Multiple Comparisons
+
+Waves Calm
+
+Mild
+
+Medium
+
+Mild 0.360 ns
+
+Medium 0.495 * 0.135 ns
+
+Rough 0.731*
+
+0.371 ns 0.236 ns
+
+Times EM
+
+LM
+
+AF
+
+LM 0.166 ns
+
+AF 0.335 ns 0.168 ns
+
+*
+
+0.559 0.433 * 0.264 ns
+
+Tidal Height vs Wave Height
+
+Anova: Two Factor
+
+Source of Variation
+
+SS
+
+df
+
+MS
+
+F
+
+P - value
+
+Tidal Height
+
+14.196
+
+3
+
+4.732 20.186
+
+0.000
+
+Wave Height
+
+6.228
+
+3
+
+2.076 8.856
+
+0.000
+
+Tide x Wave
+
+Error
+
+3.253
+22.036 94
+
+9
+
+0.361
+
+1.542
+
+0.392
+
+0.234
+
+Total
+
+45.713 109
+
+Tukey HSD Multiple Comparisons
+
+Waves Calm
+
+Mild
+
+Mild 0.170 ns
+
+Medium 0.398 ns 0.228 ns
+
+Rough 0.759 * 0.590 *
+
+Times LL
+
+Medium
+
+0.361
+
+*
+
+HL
+
+LH
+
+HL 0.398 ns
+
+*
+
+LH 0.722 .324 ns
+HH 1.103 *
+
+*
+
+0.705 0.381
+
+*
+
+25
+
+Randle: Sea Otters and Mussels

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kj516jr2855_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2469" HEIGHT="3231" PHYSICAL_IMG_NR="1" PC="0.8952">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2469" HEIGHT="3231">
+        <TextBlock ID="B1" HPOS="1256" VPOS="1518" WIDTH="105" HEIGHT="259">
+          <TextLine ID="B1_L1" HPOS="1256" VPOS="1518" WIDTH="105" HEIGHT="259">
+            <String ID="B1_L1_W1" CONTENT="ceases" HPOS="1256" VPOS="1518" WIDTH="105" HEIGHT="259" WC="0.6797" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1029" VPOS="284" WIDTH="74" HEIGHT="722">
+          <TextLine ID="B2_L1" HPOS="1029" VPOS="284" WIDTH="73" HEIGHT="722">
+            <String ID="B2_L1_W1" CONTENT="KEYHOLE" HPOS="1029" VPOS="703" WIDTH="63" HEIGHT="303" WC="0.9897" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="TENTACLES" HPOS="1037" VPOS="284" WIDTH="65" HEIGHT="385" WC="0.9721" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1175" VPOS="616" WIDTH="58" HEIGHT="392">
+          <TextLine ID="B3_L1" HPOS="1175" VPOS="616" WIDTH="58" HEIGHT="392">
+            <String ID="B3_L1_W1" CONTENT="UPPER" HPOS="1175" VPOS="796" WIDTH="54" HEIGHT="212" WC="0.9714" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="ROW" HPOS="1180" VPOS="616" WIDTH="53" HEIGHT="141" WC="0.9786" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1281" VPOS="612" WIDTH="61" HEIGHT="423">
+          <TextLine ID="B4_L1" HPOS="1281" VPOS="612" WIDTH="61" HEIGHT="423">
+            <String ID="B4_L1_W1" CONTENT="-LOWER" HPOS="1281" VPOS="782" WIDTH="56" HEIGHT="253" WC="0.9322" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="ROW" HPOS="1290" VPOS="612" WIDTH="52" HEIGHT="135" WC="0.9766" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

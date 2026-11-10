@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ds974rm7007_0033</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2539" HEIGHT="3289" PHYSICAL_IMG_NR="1" PC="0.9541">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2539" HEIGHT="3289">
+        <TextBlock ID="B1" HPOS="258" VPOS="2186" WIDTH="286" HEIGHT="97">
+          <TextLine ID="B1_L1" HPOS="258" VPOS="2186" WIDTH="286" HEIGHT="97">
+            <String ID="B1_L1_W1" CONTENT="Fig" HPOS="258" VPOS="2194" WIDTH="141" HEIGHT="89" WC="0.9625" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="393" VPOS="2194" WIDTH="29" HEIGHT="81" WC="0.8628" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="13" HPOS="444" VPOS="2186" WIDTH="100" HEIGHT="86" WC="0.9872" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

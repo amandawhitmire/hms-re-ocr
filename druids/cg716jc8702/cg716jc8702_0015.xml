@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cg716jc8702_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2539" HEIGHT="3287" PHYSICAL_IMG_NR="1" PC="0.9909">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2539" HEIGHT="3287">
+        <TextBlock ID="B1" HPOS="747" VPOS="1739" WIDTH="495" HEIGHT="28">
+          <TextLine ID="B1_L1" HPOS="747" VPOS="1740" WIDTH="495" HEIGHT="28">
+            <String ID="B1_L1_W1" CONTENT="HEAT" HPOS="747" VPOS="1740" WIDTH="80" HEIGHT="25" WC="0.9869" />
+            <String ID="B1_L1_W2" CONTENT="-" HPOS="825" VPOS="1740" WIDTH="12" HEIGHT="24" WC="0.9646" />
+            <String ID="B1_L1_W3" CONTENT="SHOCKED" HPOS="837" VPOS="1740" WIDTH="155" HEIGHT="26" WC="0.9924" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="CHROMOSOME" HPOS="1003" VPOS="1741" WIDTH="239" HEIGHT="27" WC="0.9915" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1916" VPOS="308" WIDTH="204" HEIGHT="54">
+          <TextLine ID="B2_L1" HPOS="1916" VPOS="309" WIDTH="204" HEIGHT="53">
+            <String ID="B2_L1_W1" CONTENT="Figure" HPOS="1916" VPOS="309" WIDTH="162" HEIGHT="53" WC="0.9924" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="1" HPOS="2099" VPOS="309" WIDTH="21" HEIGHT="49" WC="0.9876" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1504" VPOS="1122" WIDTH="543" HEIGHT="29">
+          <TextLine ID="B3_L1" HPOS="1504" VPOS="1122" WIDTH="543" HEIGHT="29">
+            <String ID="B3_L1_W1" CONTENT="NORMAL" HPOS="1504" VPOS="1122" WIDTH="137" HEIGHT="25" WC="0.9941" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="CONTROL" HPOS="1650" VPOS="1123" WIDTH="157" HEIGHT="25" WC="0.9932" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="CHROMOSOME" HPOS="1816" VPOS="1125" WIDTH="231" HEIGHT="26" WC="0.9884" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

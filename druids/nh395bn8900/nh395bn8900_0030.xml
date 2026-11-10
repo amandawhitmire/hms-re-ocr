@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nh395bn8900_0030</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2531" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9874">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2531" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="469" VPOS="771" WIDTH="99" HEIGHT="63">
+          <TextLine ID="B1_L1" HPOS="469" VPOS="771" WIDTH="99" HEIGHT="63">
+            <String ID="B1_L1_W1" CONTENT="(" HPOS="469" VPOS="773" WIDTH="25" HEIGHT="61" WC="0.9469" />
+            <String ID="B1_L1_W2" CONTENT="a" HPOS="494" VPOS="771" WIDTH="45" HEIGHT="62" WC="0.9848" />
+            <String ID="B1_L1_W3" CONTENT=")" HPOS="540" VPOS="772" WIDTH="28" HEIGHT="61" WC="0.9860" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="467" VPOS="2022" WIDTH="93" HEIGHT="59">
+          <TextLine ID="B2_L1" HPOS="467" VPOS="2022" WIDTH="93" HEIGHT="59">
+            <String ID="B2_L1_W1" CONTENT="(" HPOS="467" VPOS="2022" WIDTH="20" HEIGHT="59" WC="0.9675" />
+            <String ID="B2_L1_W2" CONTENT="b" HPOS="491" VPOS="2022" WIDTH="38" HEIGHT="59" WC="0.9823" />
+            <String ID="B2_L1_W3" CONTENT=")" HPOS="536" VPOS="2022" WIDTH="24" HEIGHT="59" WC="0.9690" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="551" VPOS="233" WIDTH="1485" HEIGHT="72">
+          <TextLine ID="B3_L1" HPOS="551" VPOS="233" WIDTH="1485" HEIGHT="72">
+            <String ID="B3_L1_W1" CONTENT="Figure" HPOS="551" VPOS="239" WIDTH="221" HEIGHT="66" WC="0.9926" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="9." HPOS="799" VPOS="239" WIDTH="68" HEIGHT="64" WC="0.9081" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="EFFLUX" HPOS="895" VPOS="238" WIDTH="253" HEIGHT="65" WC="0.9909" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="PUMP" HPOS="1174" VPOS="236" WIDTH="199" HEIGHT="66" WC="0.9932" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="INHIBITION" HPOS="1400" VPOS="234" WIDTH="375" HEIGHT="67" WC="0.9943" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="MODEL" HPOS="1807" VPOS="233" WIDTH="229" HEIGHT="66" WC="0.9939" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="799" VPOS="614" WIDTH="772" HEIGHT="56">
+          <TextLine ID="B4_L1" HPOS="799" VPOS="614" WIDTH="772" HEIGHT="56">
+            <String ID="B4_L1_W1" CONTENT="WITHOUT" HPOS="799" VPOS="614" WIDTH="329" HEIGHT="56" WC="0.9925" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="VERAPAMIL" HPOS="1157" VPOS="614" WIDTH="414" HEIGHT="56" WC="0.9937" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="868" VPOS="1877" WIDTH="630" HEIGHT="57">
+          <TextLine ID="B5_L1" HPOS="868" VPOS="1877" WIDTH="630" HEIGHT="57">
+            <String ID="B5_L1_W1" CONTENT="WITH" HPOS="868" VPOS="1877" WIDTH="180" HEIGHT="57" WC="0.9905" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="VERAPAMIL" HPOS="1079" VPOS="1877" WIDTH="419" HEIGHT="57" WC="0.9919" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1716" VPOS="938" WIDTH="366" HEIGHT="60">
+          <TextLine ID="B6_L1" HPOS="1716" VPOS="938" WIDTH="366" HEIGHT="60">
+            <String ID="B6_L1_W1" CONTENT="DIFFUSION" HPOS="1716" VPOS="938" WIDTH="366" HEIGHT="60" WC="0.9919" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1663" VPOS="1513" WIDTH="481" HEIGHT="55">
+          <TextLine ID="B7_L1" HPOS="1663" VPOS="1513" WIDTH="481" HEIGHT="55">
+            <String ID="B7_L1_W1" CONTENT="EFFLUX" HPOS="1663" VPOS="1513" WIDTH="251" HEIGHT="55" WC="0.9914" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="PUMP" HPOS="1946" VPOS="1513" WIDTH="198" HEIGHT="55" WC="0.9923" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1716" VPOS="2220" WIDTH="365" HEIGHT="58">
+          <TextLine ID="B8_L1" HPOS="1716" VPOS="2220" WIDTH="365" HEIGHT="58">
+            <String ID="B8_L1_W1" CONTENT="DIFFUSION" HPOS="1716" VPOS="2220" WIDTH="365" HEIGHT="58" WC="0.9932" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1663" VPOS="2794" WIDTH="482" HEIGHT="56">
+          <TextLine ID="B9_L1" HPOS="1663" VPOS="2794" WIDTH="482" HEIGHT="56">
+            <String ID="B9_L1_W1" CONTENT="EFFLUX" HPOS="1663" VPOS="2794" WIDTH="252" HEIGHT="56" WC="0.9904" />
+            <SP />
+            <String ID="B9_L1_W2" CONTENT="PUMP" HPOS="1946" VPOS="2794" WIDTH="199" HEIGHT="56" WC="0.9935" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

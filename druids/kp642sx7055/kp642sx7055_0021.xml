@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kp642sx7055_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2544" HEIGHT="3295" PHYSICAL_IMG_NR="1" PC="0.9571">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2544" HEIGHT="3295">
+        <TextBlock ID="B1" HPOS="819" VPOS="3093" WIDTH="1033" HEIGHT="58">
+          <TextLine ID="B1_L1" HPOS="819" VPOS="3093" WIDTH="1033" HEIGHT="58">
+            <String ID="B1_L1_W1" CONTENT="RHODAMINE" HPOS="1433" VPOS="3093" WIDTH="419" HEIGHT="58" WC="0.9909" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="FLUORESCENCE" HPOS="819" VPOS="3093" WIDTH="580" HEIGHT="57" WC="0.9923" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="650" VPOS="2743" WIDTH="52" HEIGHT="187">
+          <TextLine ID="B2_L1" HPOS="650" VPOS="2743" WIDTH="52" HEIGHT="187">
+            <String ID="B2_L1_W1" CONTENT="2500" HPOS="650" VPOS="2743" WIDTH="52" HEIGHT="187" WC="0.9881" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="907" VPOS="2741" WIDTH="57" HEIGHT="188">
+          <TextLine ID="B3_L1" HPOS="907" VPOS="2741" WIDTH="57" HEIGHT="188">
+            <String ID="B3_L1_W1" CONTENT="2000" HPOS="907" VPOS="2741" WIDTH="57" HEIGHT="188" WC="0.9912" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1172" VPOS="2744" WIDTH="53" HEIGHT="178">
+          <TextLine ID="B4_L1" HPOS="1172" VPOS="2744" WIDTH="53" HEIGHT="178">
+            <String ID="B4_L1_W1" CONTENT="1500" HPOS="1172" VPOS="2744" WIDTH="53" HEIGHT="178" WC="0.9899" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1436" VPOS="2745" WIDTH="52" HEIGHT="177">
+          <TextLine ID="B5_L1" HPOS="1436" VPOS="2745" WIDTH="52" HEIGHT="177">
+            <String ID="B5_L1_W1" CONTENT="1000" HPOS="1436" VPOS="2745" WIDTH="52" HEIGHT="177" WC="0.9911" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1700" VPOS="2744" WIDTH="52" HEIGHT="138">
+          <TextLine ID="B6_L1" HPOS="1700" VPOS="2744" WIDTH="52" HEIGHT="138">
+            <String ID="B6_L1_W1" CONTENT="500" HPOS="1700" VPOS="2744" WIDTH="52" HEIGHT="138" WC="0.9902" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="530" VPOS="1186" WIDTH="74" HEIGHT="930">
+          <TextLine ID="B7_L1" HPOS="530" VPOS="1186" WIDTH="74" HEIGHT="930">
+            <String ID="B7_L1_W1" CONTENT="ASCIDIA" HPOS="530" VPOS="1763" WIDTH="73" HEIGHT="353" WC="0.9905" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="CERATODES" HPOS="531" VPOS="1186" WIDTH="73" HEIGHT="538" WC="0.9904" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1964" VPOS="2742" WIDTH="51" HEIGHT="44">
+          <TextLine ID="B8_L1" HPOS="1964" VPOS="2742" WIDTH="51" HEIGHT="44">
+            <String ID="B8_L1_W1" CONTENT="0" HPOS="1964" VPOS="2742" WIDTH="51" HEIGHT="44" WC="0.6899" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="2072" VPOS="2016" WIDTH="54" HEIGHT="302">
+          <TextLine ID="B9_L1" HPOS="2072" VPOS="2016" WIDTH="54" HEIGHT="302">
+            <String ID="B9_L1_W1" CONTENT="UNFERT" HPOS="2072" VPOS="2036" WIDTH="54" HEIGHT="282" WC="0.9920" />
+            <String ID="B9_L1_W2" CONTENT="." HPOS="2072" VPOS="2016" WIDTH="54" HEIGHT="18" WC="0.9374" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="2070" VPOS="1577" WIDTH="56" HEIGHT="198">
+          <TextLine ID="B10_L1" HPOS="2070" VPOS="1577" WIDTH="56" HEIGHT="198">
+            <String ID="B10_L1_W1" CONTENT="FERT" HPOS="2070" VPOS="1597" WIDTH="56" HEIGHT="178" WC="0.9873" />
+            <String ID="B10_L1_W2" CONTENT="." HPOS="2072" VPOS="1577" WIDTH="53" HEIGHT="20" WC="0.9396" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="881" VPOS="773" WIDTH="52" HEIGHT="512">
+          <TextLine ID="B11_L1" HPOS="881" VPOS="773" WIDTH="51" HEIGHT="512">
+            <String ID="B11_L1_W1" CONTENT="☐" HPOS="882" VPOS="1204" WIDTH="49" HEIGHT="81" WC="0.6135" />
+            <SP />
+            <String ID="B11_L1_W2" CONTENT="-VERAPAMIL" HPOS="881" VPOS="773" WIDTH="51" HEIGHT="386" WC="0.9805" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="992" VPOS="774" WIDTH="47" HEIGHT="507">
+          <TextLine ID="B12_L1" HPOS="992" VPOS="774" WIDTH="47" HEIGHT="507">
+            <String ID="B12_L1_W1" CONTENT="☑" HPOS="993" VPOS="1211" WIDTH="45" HEIGHT="70" WC="0.6725" />
+            <String ID="B12_L1_W2" CONTENT="+" HPOS="993" VPOS="1118" WIDTH="45" HEIGHT="37" WC="0.9254" />
+            <String ID="B12_L1_W3" CONTENT="VERAPAMIL" HPOS="992" VPOS="774" WIDTH="47" HEIGHT="339" WC="0.9882" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

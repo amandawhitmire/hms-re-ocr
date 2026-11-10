@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jf704jm2106_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2520" HEIGHT="3280" PHYSICAL_IMG_NR="1" PC="0.6428">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2520" HEIGHT="3280">
+        <TextBlock ID="B1" HPOS="1932" VPOS="500" WIDTH="371" HEIGHT="165">
+          <TextLine ID="B1_L1" HPOS="1932" VPOS="501" WIDTH="371" HEIGHT="164">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="1932" VPOS="513" WIDTH="265" HEIGHT="152" WC="0.9283" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="6" HPOS="2221" VPOS="501" WIDTH="82" HEIGHT="130" WC="0.9815" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1719" VPOS="1020" WIDTH="462" HEIGHT="101">
+          <TextLine ID="B2_L1" HPOS="1719" VPOS="1020" WIDTH="462" HEIGHT="101">
+            <String ID="B2_L1_W1" CONTENT="MAJA" HPOS="1719" VPOS="1020" WIDTH="462" HEIGHT="101" WC="0.3497" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

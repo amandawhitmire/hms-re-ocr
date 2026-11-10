@@ -1,0 +1,371 @@
+<title>HMS Name Review</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@1,8..60,400;1,8..60,500&display=swap">
+<style>
+/* Layout: sticky progress/filter bar over a single column of review cards; scan crop left, readings right. */
+:root {
+  --bg: #f3f5f4; --surface: #ffffff; --ink: #18211f; --muted: #5a6764; --line: #d5dcda;
+  --accent: #1f6f6b; --accent-ink: #ffffff; --accent-soft: #dcecea;
+  --mat: #ffffff; --diff: #f6d7a7; --diff-ink: #5b3a00;
+  --s-error: #b4432f; --s-page: #2f6db4; --s-notname: #6b6f76; --s-unsure: #8a6d1d;
+  --f-ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --f-name: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121817; --surface: #1a2221; --ink: #e4ecea; --muted: #9aa8a5; --line: #2e3a38;
+  --accent: #5fb8b1; --accent-ink: #0b1514; --accent-soft: #1f3533;
+  --mat: #e9ecea; --diff: #6b4a12; --diff-ink: #ffe2b3;
+  --s-error: #e7826f; --s-page: #79a9e6; --s-notname: #a3a8ae; --s-unsure: #d6b45a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121817; --surface: #1a2221; --ink: #e4ecea; --muted: #9aa8a5; --line: #2e3a38;
+  --accent: #5fb8b1; --accent-ink: #0b1514; --accent-soft: #1f3533;
+  --mat: #e9ecea; --diff: #6b4a12; --diff-ink: #ffe2b3;
+  --s-error: #e7826f; --s-page: #79a9e6; --s-notname: #a3a8ae; --s-unsure: #d6b45a; color-scheme: dark }
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--f-ui); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface) }
+.wrap { max-width: 1080px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.intro { padding-block: 28px 12px }
+h1 { font-size: 1.6rem; font-weight: 600; margin: 0 0 6px; text-wrap: balance; letter-spacing: -0.01em }
+.lede { color: var(--muted); margin: 0; max-width: 68ch }
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line) }
+.bar .wrap { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; padding-block: 10px }
+.progress { display: flex; flex-direction: column; gap: 4px; min-width: 200px; flex: 1 1 220px }
+.progress-label { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums }
+.progress-label strong { color: var(--ink); font-weight: 600 }
+.meter { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; display: flex }
+.meter span { display: block; height: 100% }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center }
+.chip { font: 500 13px var(--f-ui); border: 1px solid var(--line); background: transparent; color: var(--ink); border-radius: 999px; padding: 4px 11px; cursor: pointer; font-variant-numeric: tabular-nums }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink) }
+.chip:focus-visible, button:focus-visible, input:focus-visible, a:focus-visible, .card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+label.toggle { font-size: 13px; color: var(--muted); display: flex; gap: 6px; align-items: center; cursor: pointer }
+.tools { display: flex; gap: 8px; align-items: center }
+.ghost { font: 500 13px var(--f-ui); background: transparent; border: 1px solid var(--line); color: var(--ink); border-radius: 6px; padding: 5px 10px; cursor: pointer }
+.notice { margin-block: 12px 0; padding: 10px 12px; border: 1px solid var(--s-unsure); border-radius: 6px; color: var(--ink); background: var(--surface); font-size: 14px }
+.keys { font-size: 13px; color: var(--muted); padding-block: 10px 0 }
+kbd { font: 12px var(--f-mono); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; background: var(--surface); color: var(--ink) }
+main { padding-block: 16px 64px; display: flex; flex-direction: column; gap: 14px }
+.group-head { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; padding-top: 14px; display: flex; gap: 10px; align-items: baseline }
+.group-head small { text-transform: none; letter-spacing: 0; font-weight: 400 }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 0; overflow: hidden; scroll-margin-top: 90px }
+.card.focused { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) }
+.card[data-decision] .scan { opacity: .92 }
+.scan { background: var(--mat); display: flex; align-items: center; justify-content: center; padding: 10px; min-height: 140px; border-right: 1px solid var(--line) }
+.scan img { max-width: 100%; max-height: 340px; height: auto; display: block }
+.body { padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; min-width: 0 }
+.readings { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 12px; align-items: baseline }
+.readings dt { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em }
+.readings dd { margin: 0; min-width: 0; overflow-wrap: anywhere }
+.ocr { font: 500 16px var(--f-mono) }
+.ocr mark { background: var(--diff); color: var(--diff-ink); border-radius: 2px; padding: 0 1px }
+.sugg { font: italic 500 18px var(--f-name) }
+.meta { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; font-variant-numeric: tabular-nums }
+.meta .conf { font-family: var(--f-mono) }
+.paper { font-size: 13px; color: var(--muted); margin: 0; overflow-wrap: anywhere }
+.links { display: flex; gap: 14px; font-size: 13px }
+.links a { color: var(--accent) }
+.choices { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px }
+.choice { font: 500 14px var(--f-ui); text-align: left; border: 1px solid var(--line); background: transparent; color: var(--ink); border-radius: 6px; padding: 7px 10px; cursor: pointer; display: flex; gap: 8px; align-items: center }
+.choice kbd { flex: none }
+.choice[aria-pressed="true"] { color: #fff; border-color: transparent }
+.choice[data-v="ocr_error"][aria-pressed="true"] { background: var(--s-error) }
+.choice[data-v="on_page"][aria-pressed="true"] { background: var(--s-page) }
+.choice[data-v="not_a_name"][aria-pressed="true"] { background: var(--s-notname) }
+.choice[data-v="cant_tell"][aria-pressed="true"] { background: var(--s-unsure) }
+.choice[aria-pressed="true"] kbd { background: transparent; color: inherit; border-color: currentColor }
+.search-name { display: flex; flex-direction: column; gap: 6px; padding: 10px; border: 1px dashed var(--line); border-radius: 6px }
+.closest { font: 500 14px var(--f-ui); text-align: left; border: 1px solid var(--line); background: transparent; color: var(--ink); border-radius: 6px; padding: 7px 10px; cursor: pointer; display: flex; gap: 8px; align-items: center }
+.closest[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink) }
+.closest[aria-pressed="true"] kbd { background: transparent; color: inherit; border-color: currentColor }
+.closest .tick { width: 14px; height: 14px; border: 1.5px solid currentColor; border-radius: 3px; flex: none; display: inline-grid; place-items: center; font-size: 11px; line-height: 1 }
+.legend { margin: 10px 0 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 4px 18px; font-size: 13px; color: var(--muted) }
+.legend b { color: var(--ink); font-weight: 600 }
+.fields { display: flex; flex-direction: column; gap: 6px }
+.fields label { font-size: 12px; color: var(--muted) }
+.fields input { font: 14px var(--f-ui); width: 100%; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink) }
+.fields input.name-input { font-family: var(--f-name); font-style: italic; font-size: 15px }
+.status { font-size: 12px; color: var(--muted); min-height: 1.2em }
+.empty { padding: 40px 0; color: var(--muted); text-align: center }
+@media (max-width: 720px) {
+  .card { grid-template-columns: minmax(0, 1fr) }
+  .scan { border-right: 0; border-bottom: 1px solid var(--line) }
+  .keys { display: none }
+}
+@media (prefers-reduced-motion: no-preference) { .card { transition: border-color .15s, box-shadow .15s } }
+</style>
+
+<header class="intro wrap">
+  <h1>HMS Name Review</h1>
+  <p class="lede">Each card shows where a taxonomic name sits on the page image, what Google Vision read there, and the closest verified name. Decide what the page actually shows. Choices save automatically and are shared with anyone who can edit this page.</p>
+  <div id="notice" class="notice" hidden></div>
+  <ul class="legend">
+    <li><b>OCR error:</b> the page shows something other than what Vision read.</li>
+    <li><b>On the page:</b> Vision read it correctly; the author wrote it this way.</li>
+    <li><b>Not a name:</b> the flagged words are not a taxonomic name.</li>
+    <li><b>Can't tell:</b> too faint, cut off or illegible to decide.</li>
+    <li><b>Use closest name for search:</b> a separate choice. It records the name people should find the paper by, whatever the page says.</li>
+  </ul>
+  <div class="keys"><kbd>J</kbd> <kbd>K</kbd> next / previous &nbsp;·&nbsp; <kbd>1</kbd> OCR error &nbsp;<kbd>2</kbd> on the page &nbsp;<kbd>3</kbd> not a name &nbsp;<kbd>4</kbd> can't tell &nbsp;·&nbsp; <kbd>5</kbd> use closest name for search &nbsp;·&nbsp; the next undecided card opens after choices 1–4</div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="progress">
+      <div class="progress-label" id="progress-label">Loading saved choices…</div>
+      <div class="meter" id="meter" aria-hidden="true"></div>
+    </div>
+    <div class="filters" id="filters" role="group" aria-label="Filter by group"></div>
+    <label class="toggle"><input type="checkbox" id="only-open"> Undecided only</label>
+    <div class="tools"><button class="ghost" id="copy-csv" type="button">Copy results as CSV</button></div>
+  </div>
+</div>
+
+<main class="wrap" id="list" aria-live="polite"></main>
+
+<script id="items" type="application/json">__ITEMS__</script>
+<script id="crops" type="application/json">__CROPS__</script>
+<script>
+const ITEMS = JSON.parse(document.getElementById('items').textContent);
+const CHOICES = [
+  { v: 'ocr_error', label: 'OCR error', hint: 'page shows the correct name' },
+  { v: 'on_page', label: 'On the page', hint: 'author wrote it this way' },
+  { v: 'not_a_name', label: 'Not a name', hint: '' },
+  { v: 'cant_tell', label: "Can't tell", hint: '' },
+];
+const GROUPS = [
+  { id: 'low', label: 'Low confidence', note: 'Vision word confidence below 0.90' },
+  { id: 'mid', label: 'Uncertain', note: 'confidence 0.90 to 0.95' },
+  { id: 'high', label: 'High-confidence sample', note: '100 random flags at 0.95 and up' },
+  { id: 'garbled', label: 'Heavily garbled', note: 'loose match only' },
+];
+const state = { decisions: {}, filter: 'all', onlyOpen: false, focus: null, db: null, uid: null, saving: {} };
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+// Mark characters of the OCR reading that differ from the suggestion (LCS alignment).
+function diffMarkup(a, b) {
+  const n = a.length, m = b.length, L = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--)
+    L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  let i = 0, j = 0, out = '', run = '';
+  const flush = () => { if (run) { out += '<mark>' + esc(run) + '</mark>'; run = ''; } };
+  while (i < n) {
+    if (j < m && a[i] === b[j]) { flush(); out += esc(a[i]); i++; j++; }
+    else if (j < m && L[i][j + 1] >= L[i + 1][j]) { j++; }
+    else { run += a[i]; i++; }
+  }
+  flush();
+  return out;
+}
+
+function visible() {
+  return ITEMS.filter(it => (state.filter === 'all' || it.group === state.filter) && (!state.onlyOpen || !state.decisions[it.id]?.decision));
+}
+
+function renderFilters() {
+  const counts = g => ITEMS.filter(it => g === 'all' || it.group === g);
+  const done = arr => arr.filter(it => state.decisions[it.id]?.decision).length;
+  const all = [{ id: 'all', label: 'All' }, ...GROUPS];
+  $('#filters').innerHTML = all.map(g => {
+    const arr = counts(g.id);
+    return `<button class="chip" type="button" data-g="${g.id}" aria-pressed="${state.filter === g.id}">${esc(g.label)} ${done(arr)}/${arr.length}</button>`;
+  }).join('');
+  const total = ITEMS.length, decided = done(ITEMS);
+  const by = v => ITEMS.filter(it => state.decisions[it.id]?.decision === v).length;
+  $('#progress-label').innerHTML = `<strong>${decided}</strong> of ${total} reviewed · OCR error ${by('ocr_error')} · on the page ${by('on_page')} · not a name ${by('not_a_name')} · can't tell ${by('cant_tell')}`;
+  const colors = { ocr_error: 'var(--s-error)', on_page: 'var(--s-page)', not_a_name: 'var(--s-notname)', cant_tell: 'var(--s-unsure)' };
+  $('#meter').innerHTML = CHOICES.map(c => `<span style="width:${(100 * by(c.v) / total).toFixed(2)}%;background:${colors[c.v]}"></span>`).join('');
+}
+
+function cardHTML(it) {
+  const d = state.decisions[it.id] || {};
+  const ptype = it.pageType.startsWith('sparse') ? 'figure / table / short page' : 'text page';
+  return `<article class="card" tabindex="0" id="c-${esc(it.id)}" data-id="${esc(it.id)}" ${d.decision ? `data-decision="${esc(d.decision)}"` : ''}>
+    <div class="scan"><img data-id="${esc(it.id)}" alt="Page image region for ${esc(it.ocr)}" loading="lazy"></div>
+    <div class="body">
+      <dl class="readings">
+        <dt>OCR read</dt><dd class="ocr">${diffMarkup(it.ocr, it.suggestion || it.ocr)}</dd>
+        <dt>Closest name</dt><dd class="sugg">${esc(it.suggestion || '—')}</dd>
+      </dl>
+      <div class="meta"><span>${esc(it.page)}</span><span>${esc(it.year)}</span><span class="conf">conf ${it.wc.toFixed(2)}</span><span>${ptype}</span></div>
+      <p class="paper">${esc(it.title)}</p>
+      <div class="links"><a href="${esc(it.fullPage)}" target="_blank" rel="noopener">Full page image</a><a href="https://purl.stanford.edu/${esc(it.druid)}" target="_blank" rel="noopener">Paper in SearchWorks</a></div>
+      <div class="choices" role="group" aria-label="What does the page show?">
+        ${CHOICES.map((c, k) => `<button type="button" class="choice" data-v="${c.v}" aria-pressed="${d.decision === c.v}" title="${esc(c.hint)}"><kbd>${k + 1}</kbd>${esc(c.label)}</button>`).join('')}
+      </div>
+      <div class="search-name">
+        <button type="button" class="closest" aria-pressed="${!!d.useClosest}"><span class="tick" aria-hidden="true">${d.useClosest ? '✓' : ''}</span><kbd>5</kbd>Use closest name for search</button>
+        <label for="pref-${esc(it.id)}" style="font-size:12px;color:var(--muted)">Or type a different name to use for search</label>
+        <input class="name-input" id="pref-${esc(it.id)}" data-f="preferredName" value="${esc(d.preferredName || '')}" placeholder="${esc(it.suggestion || '')}">
+      </div>
+      <div class="fields">
+        <label for="shows-${esc(it.id)}">Page shows (leave blank if it matches the closest name)</label>
+        <input class="name-input" id="shows-${esc(it.id)}" data-f="pageShows" value="${esc(d.pageShows || '')}" placeholder="${esc(it.suggestion || '')}">
+        <label for="note-${esc(it.id)}">Note</label>
+        <input id="note-${esc(it.id)}" data-f="note" value="${esc(d.note || '')}" placeholder="handwritten, underlined, rotated, cut off…">
+      </div>
+      <div class="status" id="st-${esc(it.id)}">${d.decision ? 'Saved' : ''}</div>
+    </div>
+  </article>`;
+}
+
+function renderList() {
+  const items = visible();
+  if (!items.length) { $('#list').innerHTML = `<p class="empty">Nothing left in this view. Pick another group or turn off “Undecided only”.</p>`; return; }
+  let html = '', last = null;
+  for (const it of items) {
+    if (it.group !== last) {
+      const g = GROUPS.find(g => g.id === it.group);
+      html += `<h2 class="group-head">${esc(g.label)} <small>${esc(g.note)}</small></h2>`;
+      last = it.group;
+    }
+    html += cardHTML(it);
+  }
+  $('#list').innerHTML = html;
+  hydrateImages();
+  if (state.focus) $('#c-' + CSS.escape(state.focus))?.classList.add('focused');
+}
+
+// Scan crops are embedded as base64; attach each one only when its card nears the viewport.
+const CROPS = JSON.parse(document.getElementById('crops').textContent);
+const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { show(e.target); io.unobserve(e.target); } }), { rootMargin: '800px 0px' }) : null;
+function show(img) { const b = CROPS[img.dataset.id]; if (b && !img.src) img.src = 'data:image/jpeg;base64,' + b; }
+function hydrateImages() { document.querySelectorAll('.scan img[data-id]').forEach(img => io ? io.observe(img) : show(img)); }
+
+function refreshCard(id) {
+  const el = $('#c-' + CSS.escape(id)); if (!el) return;
+  const d = state.decisions[id] || {};
+  if (d.decision) el.dataset.decision = d.decision; else delete el.dataset.decision;
+  el.querySelectorAll('.choice').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.v === d.decision)));
+  const cb = el.querySelector('.closest');
+  if (cb) { cb.setAttribute('aria-pressed', String(!!d.useClosest)); cb.querySelector('.tick').textContent = d.useClosest ? '✓' : ''; }
+  for (const inp of el.querySelectorAll('input[data-f]')) if (document.activeElement !== inp) inp.value = d[inp.dataset.f] || '';
+}
+
+function setStatus(id, text) { const s = $('#st-' + CSS.escape(id)); if (s) s.textContent = text; }
+
+async function save(id, patch) {
+  const cur = { ...(state.decisions[id] || {}), ...patch };
+  state.decisions[id] = cur;
+  refreshCard(id); renderFilters();
+  if (!state.db) { setStatus(id, 'Not saved: saving is unavailable in this view'); return; }
+  const it = ITEMS.find(x => x.id === id);
+  const body = { decision: cur.decision || '', pageShows: cur.pageShows || '', note: cur.note || '',
+    useClosest: !!cur.useClosest, preferredName: cur.preferredName || '',
+    page: it.page, druid: it.druid, ocr: it.ocr, suggestion: it.suggestion || '', group: it.group,
+    updatedAt: new Date().toISOString(), by: state.uid || '' };
+  // one write at a time per document; the latest value wins
+  state.saving[id] = body;
+  if (state.saving[id + ':busy']) return;
+  state.saving[id + ':busy'] = true;
+  setStatus(id, 'Saving…');
+  try {
+    while (state.saving[id]) {
+      const b = state.saving[id]; state.saving[id] = null;
+      await state.db.collection('decisions').doc(id).set(b);
+    }
+    setStatus(id, 'Saved');
+  } catch (e) {
+    setStatus(id, e?.code === 'invalid_argument' ? 'Not saved: you can view this page but not change it' : 'Not saved: the save failed. Choose again to retry.');
+  } finally { state.saving[id + ':busy'] = false; }
+}
+
+function focusCard(id, scroll = true) {
+  document.querySelectorAll('.card.focused').forEach(c => c.classList.remove('focused'));
+  state.focus = id;
+  const el = $('#c-' + CSS.escape(id));
+  if (el) { el.classList.add('focused'); if (scroll) el.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); el.focus({ preventScroll: true }); }
+}
+function step(dir) {
+  const ids = visible().map(i => i.id); if (!ids.length) return;
+  const k = ids.indexOf(state.focus);
+  focusCard(ids[k < 0 ? 0 : Math.min(ids.length - 1, Math.max(0, k + dir))]);
+}
+function nextOpen(fromId) {
+  const ids = visible().map(i => i.id); const k = ids.indexOf(fromId);
+  const rest = ids.slice(k + 1).concat(ids.slice(0, k + 1));
+  const nxt = rest.find(id => !state.decisions[id]?.decision);
+  if (nxt) focusCard(nxt);
+}
+
+function decide(id, v) {
+  const cur = state.decisions[id]?.decision;
+  save(id, { decision: cur === v ? '' : v });
+  if (cur !== v) {
+    if (state.onlyOpen) { const ids = visible().map(i => i.id); setTimeout(() => { renderList(); const n = ids.find(x => x !== id && !state.decisions[x]?.decision); if (n) focusCard(n); }, 250); }
+    else nextOpen(id);
+  }
+}
+
+function toggleClosest(id) {
+  const on = !state.decisions[id]?.useClosest;
+  // choosing the closest name replaces a typed alternative, so the two never disagree
+  save(id, on ? { useClosest: true, preferredName: '' } : { useClosest: false });
+}
+
+document.addEventListener('click', e => {
+  const chip = e.target.closest('.chip');
+  if (chip) { state.filter = chip.dataset.g; renderFilters(); renderList(); return; }
+  const cl = e.target.closest('.closest');
+  if (cl) { const id = cl.closest('.card').dataset.id; state.focus = id; toggleClosest(id); return; }
+  const btn = e.target.closest('.choice');
+  if (btn) { const id = btn.closest('.card').dataset.id; state.focus = id; decide(id, btn.dataset.v); return; }
+  const card = e.target.closest('.card');
+  if (card && !e.target.closest('a,input')) focusCard(card.dataset.id, false);
+});
+const timers = {};
+document.addEventListener('input', e => {
+  const inp = e.target.closest('input[data-f]'); if (!inp) return;
+  const id = inp.closest('.card').dataset.id, f = inp.dataset.f, val = inp.value;
+  // typing a different search name switches off "use closest name"
+  const patch = f === 'preferredName' && val.trim() ? { [f]: val, useClosest: false } : { [f]: val };
+  state.decisions[id] = { ...(state.decisions[id] || {}), ...patch };
+  if (patch.useClosest === false) refreshCard(id);
+  clearTimeout(timers[id + f]); setStatus(id, 'Typing…');
+  timers[id + f] = setTimeout(() => save(id, patch), 700);
+});
+document.addEventListener('focusin', e => { const c = e.target.closest('.card'); if (c && c.dataset.id !== state.focus) { document.querySelectorAll('.card.focused').forEach(x => x.classList.remove('focused')); state.focus = c.dataset.id; c.classList.add('focused'); } });
+document.addEventListener('keydown', e => {
+  if (e.target.closest('input') || e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.key === 'j') { e.preventDefault(); step(1); }
+  else if (e.key === 'k') { e.preventDefault(); step(-1); }
+  else if (/^[1-4]$/.test(e.key) && state.focus) { e.preventDefault(); decide(state.focus, CHOICES[+e.key - 1].v); }
+  else if (e.key === '5' && state.focus) { e.preventDefault(); toggleClosest(state.focus); }
+});
+$('#only-open').addEventListener('change', e => { state.onlyOpen = e.target.checked; renderList(); });
+$('#copy-csv').addEventListener('click', async e => {
+  const cols = ['page', 'druid', 'group', 'ocr', 'suggestion', 'wc', 'decision', 'pageShows', 'searchName', 'note'];
+  const q = v => '"' + String(v ?? '').replace(/"/g, '""') + '"';
+  const lines = [cols.join(',')].concat(ITEMS.map(it => { const d = state.decisions[it.id] || {}; const sn = d.preferredName || (d.useClosest ? it.suggestion : ''); return [it.page, it.druid, it.group, it.ocr, it.suggestion, it.wc, d.decision, d.pageShows, sn, d.note].map(q).join(','); }));
+  const btn = e.currentTarget;
+  try { await navigator.clipboard.writeText(lines.join('\n')); btn.textContent = 'Copied'; }
+  catch { btn.textContent = 'Copy failed'; }
+  setTimeout(() => { btn.textContent = 'Copy results as CSV'; }, 1800);
+});
+
+function notice(text) { const n = $('#notice'); n.textContent = text; n.hidden = !text; }
+
+renderFilters(); renderList();
+
+(async () => {
+  const db = await window.claude?.use?.('db');
+  if (!db) { notice('Saving is unavailable in this view, so choices made here will be lost when you close the page. Open the page signed in to claude.ai to save them.'); $('#progress-label').innerHTML = `<strong>0</strong> of ${ITEMS.length} reviewed`; return; }
+  state.db = db;
+  try { const user = await window.claude.use('user'); state.uid = user ? await user.id() : null;
+        if (user && (await user.can('data.write')) === false) notice('You can view these choices but not change them.'); } catch {}
+  const timer = setTimeout(() => notice('Saved choices cannot be reached yet. New choices will save once the connection returns.'), 10000);
+  db.collection('decisions').onSnapshot(snap => {
+    if (!snap.metadata.fromCache) { clearTimeout(timer); if ($('#notice').textContent.startsWith('Saved choices cannot')) notice(''); }
+    for (const ch of snap.docChanges()) {
+      const id = ch.doc.id;
+      if (ch.type === 'removed') delete state.decisions[id];
+      else if (!state.saving[id + ':busy']) { const d = ch.doc.data(); state.decisions[id] = { decision: d.decision, pageShows: d.pageShows, note: d.note, useClosest: !!d.useClosest, preferredName: d.preferredName || '' }; }
+      refreshCard(id);
+    }
+    renderFilters();
+  }, err => { clearTimeout(timer); notice('Saved choices could not be loaded (' + err.code + '). Reload the page to try again.'); });
+})();
+</script>

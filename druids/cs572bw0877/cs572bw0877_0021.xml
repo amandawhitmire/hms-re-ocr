@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cs572bw0877_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9899">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="325" VPOS="1114" WIDTH="477" HEIGHT="92">
+          <TextLine ID="B1_L1" HPOS="325" VPOS="1115" WIDTH="476" HEIGHT="38">
+            <String ID="B1_L1_W1" CONTENT="STORAGE" HPOS="325" VPOS="1115" WIDTH="238" HEIGHT="38" WC="0.9933" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="ORGANS" HPOS="578" VPOS="1115" WIDTH="223" HEIGHT="36" WC="0.9913" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="325" VPOS="1170" WIDTH="431" HEIGHT="36">
+            <String ID="B1_L2_W1" CONTENT="Immature" HPOS="325" VPOS="1171" WIDTH="223" HEIGHT="35" WC="0.9924" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="Gametes" HPOS="562" VPOS="1170" WIDTH="194" HEIGHT="34" WC="0.9935" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1099" VPOS="299" WIDTH="227" HEIGHT="34">
+          <TextLine ID="B2_L1" HPOS="1099" VPOS="299" WIDTH="227" HEIGHT="34">
+            <String ID="B2_L1_W1" CONTENT="FIGURE" HPOS="1099" VPOS="299" WIDTH="184" HEIGHT="34" WC="0.9866" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="2" HPOS="1299" VPOS="300" WIDTH="27" HEIGHT="32" WC="0.9806" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1269" VPOS="701" WIDTH="272" HEIGHT="43">
+          <TextLine ID="B3_L1" HPOS="1269" VPOS="701" WIDTH="272" HEIGHT="43">
+            <String ID="B3_L1_W1" CONTENT="ANTERIOR" HPOS="1269" VPOS="701" WIDTH="272" HEIGHT="43" WC="0.9895" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1549" VPOS="1614" WIDTH="471" HEIGHT="106">
+          <TextLine ID="B4_L1" HPOS="1553" VPOS="1614" WIDTH="217" HEIGHT="38">
+            <String ID="B4_L1_W1" CONTENT="COELOM" HPOS="1553" VPOS="1614" WIDTH="217" HEIGHT="38" WC="0.9849" />
+          </TextLine>
+          <TextLine ID="B4_L2" HPOS="1550" VPOS="1671" WIDTH="470" HEIGHT="46">
+            <String ID="B4_L2_W1" CONTENT="Developing" HPOS="1550" VPOS="1671" WIDTH="261" HEIGHT="46" WC="0.9929" />
+            <SP />
+            <String ID="B4_L2_W2" CONTENT="Gametes" HPOS="1825" VPOS="1671" WIDTH="195" HEIGHT="46" WC="0.9938" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1298" VPOS="2112" WIDTH="288" HEIGHT="38">
+          <TextLine ID="B5_L1" HPOS="1298" VPOS="2112" WIDTH="288" HEIGHT="38">
+            <String ID="B5_L1_W1" CONTENT="POSTERIOR" HPOS="1298" VPOS="2112" WIDTH="288" HEIGHT="38" WC="0.9903" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

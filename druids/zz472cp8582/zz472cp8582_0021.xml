@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zz472cp8582_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2507" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9136">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2507" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="484" VPOS="1" WIDTH="604" HEIGHT="99">
+          <TextLine ID="B1_L1" HPOS="484" VPOS="1" WIDTH="604" HEIGHT="99">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="484" VPOS="3" WIDTH="458" HEIGHT="97" WC="0.9900" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="6" HPOS="979" VPOS="2" WIDTH="74" HEIGHT="90" WC="0.7848" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="1048" VPOS="1" WIDTH="40" HEIGHT="90" WC="0.9066" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="496" VPOS="1650" WIDTH="577" HEIGHT="88">
+          <TextLine ID="B2_L1" HPOS="496" VPOS="1650" WIDTH="577" HEIGHT="88">
+            <String ID="B2_L1_W1" CONTENT="FIGURE" HPOS="496" VPOS="1650" WIDTH="424" HEIGHT="88" WC="0.9898" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="7" HPOS="987" VPOS="1650" WIDTH="76" HEIGHT="88" WC="0.9869" />
+            <String ID="B2_L1_W3" CONTENT="." HPOS="1029" VPOS="1650" WIDTH="44" HEIGHT="88" WC="0.8219" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="342" VPOS="1835" WIDTH="512" HEIGHT="66">
+          <TextLine ID="B3_L1" HPOS="342" VPOS="1835" WIDTH="512" HEIGHT="66">
+            <String ID="B3_L1_W1" CONTENT="TUBE" HPOS="342" VPOS="1839" WIDTH="247" HEIGHT="62" WC="0.9884" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="FOOT" HPOS="618" VPOS="1835" WIDTH="236" HEIGHT="61" WC="0.9699" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1140" VPOS="1886" WIDTH="113" HEIGHT="95">
+          <TextLine ID="B4_L1" HPOS="1140" VPOS="1886" WIDTH="113" HEIGHT="95">
+            <String ID="B4_L1_W1" CONTENT="E" HPOS="1140" VPOS="1886" WIDTH="113" HEIGHT="95" WC="0.7595" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1266" VPOS="1339" WIDTH="507" HEIGHT="63">
+          <TextLine ID="B5_L1" HPOS="1266" VPOS="1339" WIDTH="507" HEIGHT="62">
+            <String ID="B5_L1_W1" CONTENT="TUBE" HPOS="1266" VPOS="1339" WIDTH="228" HEIGHT="58" WC="0.9005" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="FOOT" HPOS="1531" VPOS="1343" WIDTH="242" HEIGHT="58" WC="0.9133" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

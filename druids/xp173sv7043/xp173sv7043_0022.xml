@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>xp173sv7043_0022</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2539" HEIGHT="3288" PHYSICAL_IMG_NR="1" PC="0.9477">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2539" HEIGHT="3288">
+        <TextBlock ID="B1" HPOS="277" VPOS="791" WIDTH="110" HEIGHT="83">
+          <TextLine ID="B1_L1" HPOS="277" VPOS="791" WIDTH="110" HEIGHT="82">
+            <String ID="B1_L1_W1" CONTENT="A" HPOS="277" VPOS="791" WIDTH="69" HEIGHT="82" WC="0.9405" />
+            <String ID="B1_L1_W2" CONTENT=")" HPOS="347" VPOS="791" WIDTH="40" HEIGHT="82" WC="0.8736" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="261" VPOS="1963" WIDTH="102" HEIGHT="77">
+          <TextLine ID="B2_L1" HPOS="261" VPOS="1963" WIDTH="102" HEIGHT="77">
+            <String ID="B2_L1_W1" CONTENT="B" HPOS="261" VPOS="1965" WIDTH="58" HEIGHT="75" WC="0.9656" />
+            <String ID="B2_L1_W2" CONTENT=")" HPOS="329" VPOS="1963" WIDTH="34" HEIGHT="75" WC="0.9269" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1001" VPOS="174" WIDTH="399" HEIGHT="96">
+          <TextLine ID="B3_L1" HPOS="1001" VPOS="174" WIDTH="399" HEIGHT="96">
+            <String ID="B3_L1_W1" CONTENT="Figure" HPOS="1001" VPOS="175" WIDTH="306" HEIGHT="95" WC="0.9921" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="3" HPOS="1337" VPOS="174" WIDTH="63" HEIGHT="89" WC="0.9769" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jh262fy4143_0023</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3252" PHYSICAL_IMG_NR="1" PC="0.9618">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3252">
+        <TextBlock ID="B1" HPOS="336" VPOS="192" WIDTH="646" HEIGHT="67">
+          <TextLine ID="B1_L1" HPOS="336" VPOS="191" WIDTH="646" HEIGHT="68">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="336" VPOS="202" WIDTH="202" HEIGHT="57" WC="0.9858" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="4" HPOS="577" VPOS="201" WIDTH="38" HEIGHT="52" WC="0.9649" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="continued" HPOS="659" VPOS="191" WIDTH="323" HEIGHT="60" WC="0.9818" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="335" VPOS="340" WIDTH="58" HEIGHT="44">
+          <TextLine ID="B2_L1" HPOS="335" VPOS="340" WIDTH="58" HEIGHT="44">
+            <String ID="B2_L1_W1" CONTENT="C." HPOS="335" VPOS="340" WIDTH="58" HEIGHT="44" WC="0.9042" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1485" VPOS="194" WIDTH="503" HEIGHT="46">
+          <TextLine ID="B3_L1" HPOS="1485" VPOS="194" WIDTH="504" HEIGHT="46">
+            <String ID="B3_L1_W1" CONTENT="Ozawa" HPOS="1485" VPOS="199" WIDTH="163" HEIGHT="41" WC="0.9691" />
+            <String ID="B3_L1_W2" CONTENT="/" HPOS="1647" VPOS="199" WIDTH="29" HEIGHT="38" WC="0.8303" />
+            <String ID="B3_L1_W3" CONTENT="Na" HPOS="1674" VPOS="198" WIDTH="68" HEIGHT="39" WC="0.9693" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="Channels" HPOS="1757" VPOS="194" WIDTH="232" HEIGHT="42" WC="0.9908" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="2256" VPOS="3006" WIDTH="69" HEIGHT="34">
+          <TextLine ID="B4_L1" HPOS="2256" VPOS="3006" WIDTH="69" HEIGHT="34">
+            <String ID="B4_L1_W1" CONTENT="23" HPOS="2256" VPOS="3006" WIDTH="69" HEIGHT="34" WC="0.9895" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

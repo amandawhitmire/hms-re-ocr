@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rg036qj0715_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2525" HEIGHT="3276" PHYSICAL_IMG_NR="1" PC="0.9871">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2525" HEIGHT="3276">
+        <TextBlock ID="B1" HPOS="364" VPOS="272" WIDTH="1707" HEIGHT="125">
+          <TextLine ID="B1_L1" HPOS="365" VPOS="286" WIDTH="1706" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="clearly" HPOS="365" VPOS="287" WIDTH="137" HEIGHT="40" WC="0.9936" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="seen" HPOS="514" VPOS="286" WIDTH="88" HEIGHT="46" WC="0.9898" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="in" HPOS="615" VPOS="286" WIDTH="38" HEIGHT="46" WC="0.9927" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="the" HPOS="666" VPOS="286" WIDTH="62" HEIGHT="46" WC="0.9906" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="stimulus" HPOS="742" VPOS="286" WIDTH="168" HEIGHT="46" WC="0.9890" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="frequency" HPOS="925" VPOS="286" WIDTH="201" HEIGHT="46" WC="0.9916" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="range" HPOS="1137" VPOS="286" WIDTH="109" HEIGHT="46" WC="0.9826" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="of" HPOS="1260" VPOS="286" WIDTH="47" HEIGHT="46" WC="0.9683" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="50-200" HPOS="1315" VPOS="286" WIDTH="139" HEIGHT="46" WC="0.9922" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="Hz" HPOS="1470" VPOS="286" WIDTH="59" HEIGHT="46" WC="0.9334" />
+            <String ID="B1_L1_W11" CONTENT="." HPOS="1530" VPOS="286" WIDTH="10" HEIGHT="46" WC="0.9757" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="1000" HPOS="1569" VPOS="286" WIDTH="97" HEIGHT="46" WC="0.9941" />
+            <SP />
+            <String ID="B1_L1_W13" CONTENT="Hz" HPOS="1681" VPOS="286" WIDTH="58" HEIGHT="46" WC="0.9665" />
+            <SP />
+            <String ID="B1_L1_W14" CONTENT="elicits" HPOS="1751" VPOS="286" WIDTH="120" HEIGHT="46" WC="0.9929" />
+            <SP />
+            <String ID="B1_L1_W15" CONTENT="a" HPOS="1884" VPOS="286" WIDTH="24" HEIGHT="46" WC="0.9930" />
+            <SP />
+            <String ID="B1_L1_W16" CONTENT="notable" HPOS="1919" VPOS="286" WIDTH="152" HEIGHT="46" WC="0.9854" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="365" VPOS="337" WIDTH="446" HEIGHT="49">
+            <String ID="B1_L2_W1" CONTENT="decrease" HPOS="365" VPOS="337" WIDTH="171" HEIGHT="45" WC="0.9905" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="in" HPOS="549" VPOS="341" WIDTH="38" HEIGHT="42" WC="0.9908" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="firing" HPOS="599" VPOS="341" WIDTH="114" HEIGHT="44" WC="0.9905" />
+            <SP />
+            <String ID="B1_L2_W4" CONTENT="rate" HPOS="724" VPOS="343" WIDTH="77" HEIGHT="43" WC="0.9850" />
+            <String ID="B1_L2_W5" CONTENT="." HPOS="801" VPOS="345" WIDTH="10" HEIGHT="41" WC="0.9340" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

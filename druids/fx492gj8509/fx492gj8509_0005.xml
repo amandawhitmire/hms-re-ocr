@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fx492gj8509_0005</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2511" HEIGHT="3263" PHYSICAL_IMG_NR="1" PC="0.8194">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2511" HEIGHT="3263">
+        <TextBlock ID="B1" HPOS="198" VPOS="2579" WIDTH="97" HEIGHT="148">
+          <TextLine ID="B1_L1" HPOS="198" VPOS="2579" WIDTH="97" HEIGHT="148">
+            <String ID="B1_L1_W1" CONTENT="Figl" HPOS="198" VPOS="2579" WIDTH="97" HEIGHT="148" WC="0.6983" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="548" VPOS="1714" WIDTH="41" HEIGHT="198">
+          <TextLine ID="B2_L1" HPOS="548" VPOS="1714" WIDTH="41" HEIGHT="198">
+            <String ID="B2_L1_W1" CONTENT="television" HPOS="548" VPOS="1714" WIDTH="41" HEIGHT="198" WC="0.9934" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1038" VPOS="1034" WIDTH="208" HEIGHT="392">
+          <TextLine ID="B3_L1" HPOS="1038" VPOS="1034" WIDTH="208" HEIGHT="392">
+            <String ID="B3_L1_W1" CONTENT="8008" HPOS="1038" VPOS="1034" WIDTH="208" HEIGHT="392" WC="0.5961" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1743" VPOS="988" WIDTH="52" HEIGHT="423">
+          <TextLine ID="B4_L1" HPOS="1743" VPOS="988" WIDTH="52" HEIGHT="423">
+            <String ID="B4_L1_W1" CONTENT="video" HPOS="1743" VPOS="1305" WIDTH="50" HEIGHT="106" WC="0.9886" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="tape" HPOS="1744" VPOS="1190" WIDTH="50" HEIGHT="97" WC="0.9932" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="recorder" HPOS="1745" VPOS="988" WIDTH="50" HEIGHT="182" WC="0.9884" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vs109km7913_0013</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2514" HEIGHT="3251" PHYSICAL_IMG_NR="1" PC="0.9791">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2514" HEIGHT="3251">
+        <TextBlock ID="B1" HPOS="416" VPOS="348" WIDTH="238" HEIGHT="48">
+          <TextLine ID="B1_L1" HPOS="416" VPOS="348" WIDTH="238" HEIGHT="48">
+            <String ID="B1_L1_W1" CONTENT="Lindberg" HPOS="416" VPOS="348" WIDTH="218" HEIGHT="48" WC="0.9904" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="640" VPOS="351" WIDTH="14" HEIGHT="45" WC="0.8240" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1152" VPOS="3044" WIDTH="55" HEIGHT="34">
+          <TextLine ID="B2_L1" HPOS="1152" VPOS="3044" WIDTH="55" HEIGHT="34">
+            <String ID="B2_L1_W1" CONTENT="14" HPOS="1152" VPOS="3044" WIDTH="55" HEIGHT="34" WC="0.9863" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

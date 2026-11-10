@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gh334hw1023_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9885">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="2378" VPOS="1555" WIDTH="61" HEIGHT="189">
+          <TextLine ID="B1_L1" HPOS="2378" VPOS="1555" WIDTH="60" HEIGHT="190">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="2378" VPOS="1555" WIDTH="59" HEIGHT="150" WC="0.9900" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="2387" VPOS="1723" WIDTH="51" HEIGHT="22" WC="0.9792" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

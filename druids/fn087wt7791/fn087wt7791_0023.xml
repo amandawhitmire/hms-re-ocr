@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fn087wt7791_0023</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2550" HEIGHT="3300" PHYSICAL_IMG_NR="1" PC="0.9499">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2550" HEIGHT="3300">
+        <TextBlock ID="B1" HPOS="291" VPOS="298" WIDTH="177" HEIGHT="45">
+          <TextLine ID="B1_L1" HPOS="291" VPOS="299" WIDTH="177" HEIGHT="44">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="291" VPOS="299" WIDTH="142" HEIGHT="44" WC="0.9919" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="9" HPOS="441" VPOS="299" WIDTH="27" HEIGHT="40" WC="0.9905" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="859" VPOS="468" WIDTH="938" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="859" VPOS="468" WIDTH="938" HEIGHT="45">
+            <String ID="B2_L1_W1" CONTENT="Barnacle" HPOS="859" VPOS="468" WIDTH="209" HEIGHT="45" WC="0.9849" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Salinity" HPOS="1084" VPOS="468" WIDTH="179" HEIGHT="45" WC="0.9743" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="vs." HPOS="1275" VPOS="468" WIDTH="70" HEIGHT="45" WC="0.9738" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="Sea" HPOS="1360" VPOS="468" WIDTH="88" HEIGHT="45" WC="0.9917" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="Water" HPOS="1461" VPOS="468" WIDTH="145" HEIGHT="45" WC="0.9921" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="Salinity" HPOS="1617" VPOS="468" WIDTH="180" HEIGHT="45" WC="0.9674" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1043" VPOS="915" WIDTH="63" HEIGHT="44">
+          <TextLine ID="B3_L1" HPOS="1043" VPOS="915" WIDTH="63" HEIGHT="44">
+            <String ID="B3_L1_W1" CONTENT="I" HPOS="1043" VPOS="915" WIDTH="63" HEIGHT="44" WC="0.7414" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B4" TYPE="text" HPOS="1383" VPOS="755" WIDTH="522" HEIGHT="105">
+          <TextBlock ID="B4_P1" HPOS="1384" VPOS="755" WIDTH="449" HEIGHT="42">
+            <TextLine ID="B4_P1_L1" HPOS="1384" VPOS="756" WIDTH="449" HEIGHT="42">
+              <String ID="B4_P1_L1_W1" CONTENT="Sea" HPOS="1384" VPOS="756" WIDTH="79" HEIGHT="39" WC="0.9782" />
+              <SP />
+              <String ID="B4_P1_L1_W2" CONTENT="Water" HPOS="1474" VPOS="756" WIDTH="127" HEIGHT="40" WC="0.9913" />
+              <SP />
+              <String ID="B4_P1_L1_W3" CONTENT="Osmolarity" HPOS="1614" VPOS="757" WIDTH="219" HEIGHT="41" WC="0.9861" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B4_P2" HPOS="1384" VPOS="817" WIDTH="521" HEIGHT="43">
+            <TextLine ID="B4_P2_L1" HPOS="1384" VPOS="817" WIDTH="521" HEIGHT="44">
+              <String ID="B4_P2_L1_W1" CONTENT="Barnacle" HPOS="1384" VPOS="817" WIDTH="178" HEIGHT="41" WC="0.9917" />
+              <SP />
+              <String ID="B4_P2_L1_W2" CONTENT="Fluid" HPOS="1575" VPOS="819" WIDTH="97" HEIGHT="39" WC="0.9890" />
+              <SP />
+              <String ID="B4_P2_L1_W3" CONTENT="Osmolarity" HPOS="1687" VPOS="820" WIDTH="218" HEIGHT="41" WC="0.9813" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B5" HPOS="331" VPOS="1607" WIDTH="71" HEIGHT="28">
+          <TextLine ID="B5_L1" HPOS="331" VPOS="1607" WIDTH="71" HEIGHT="28">
+            <String ID="B5_L1_W1" CONTENT="850" HPOS="331" VPOS="1607" WIDTH="71" HEIGHT="28" WC="0.9894" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="604" VPOS="1606" WIDTH="75" HEIGHT="29">
+          <TextLine ID="B6_L1" HPOS="604" VPOS="1606" WIDTH="75" HEIGHT="29">
+            <String ID="B6_L1_W1" CONTENT="900" HPOS="604" VPOS="1606" WIDTH="75" HEIGHT="29" WC="0.9899" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="880" VPOS="1604" WIDTH="74" HEIGHT="30">
+          <TextLine ID="B7_L1" HPOS="880" VPOS="1604" WIDTH="74" HEIGHT="30">
+            <String ID="B7_L1_W1" CONTENT="950" HPOS="880" VPOS="1604" WIDTH="74" HEIGHT="30" WC="0.9924" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1145" VPOS="1603" WIDTH="96" HEIGHT="32">
+          <TextLine ID="B8_L1" HPOS="1145" VPOS="1603" WIDTH="96" HEIGHT="32">
+            <String ID="B8_L1_W1" CONTENT="1000" HPOS="1145" VPOS="1603" WIDTH="96" HEIGHT="32" WC="0.9912" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1420" VPOS="1603" WIDTH="95" HEIGHT="30">
+          <TextLine ID="B9_L1" HPOS="1420" VPOS="1603" WIDTH="95" HEIGHT="30">
+            <String ID="B9_L1_W1" CONTENT="1050" HPOS="1420" VPOS="1603" WIDTH="95" HEIGHT="30" WC="0.9918" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1695" VPOS="1603" WIDTH="94" HEIGHT="29">
+          <TextLine ID="B10_L1" HPOS="1695" VPOS="1603" WIDTH="94" HEIGHT="29">
+            <String ID="B10_L1_W1" CONTENT="1100" HPOS="1695" VPOS="1603" WIDTH="94" HEIGHT="29" WC="0.9907" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="1969" VPOS="1601" WIDTH="96" HEIGHT="31">
+          <TextLine ID="B11_L1" HPOS="1969" VPOS="1601" WIDTH="96" HEIGHT="31">
+            <String ID="B11_L1_W1" CONTENT="1150" HPOS="1969" VPOS="1601" WIDTH="96" HEIGHT="31" WC="0.9934" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="2244" VPOS="1600" WIDTH="94" HEIGHT="31">
+          <TextLine ID="B12_L1" HPOS="2244" VPOS="1600" WIDTH="94" HEIGHT="31">
+            <String ID="B12_L1_W1" CONTENT="1200" HPOS="2244" VPOS="1600" WIDTH="94" HEIGHT="31" WC="0.9912" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B13" HPOS="1016" VPOS="1684" WIDTH="626" HEIGHT="44">
+          <TextLine ID="B13_L1" HPOS="1016" VPOS="1684" WIDTH="626" HEIGHT="44">
+            <String ID="B13_L1_W1" CONTENT="Osmolarity" HPOS="1016" VPOS="1684" WIDTH="262" HEIGHT="44" WC="0.9838" />
+            <SP />
+            <String ID="B13_L1_W2" CONTENT="(" HPOS="1292" VPOS="1684" WIDTH="15" HEIGHT="44" WC="0.9658" />
+            <String ID="B13_L1_W3" CONTENT="mmol" HPOS="1312" VPOS="1684" WIDTH="130" HEIGHT="44" WC="0.9790" />
+            <String ID="B13_L1_W4" CONTENT="/" HPOS="1442" VPOS="1684" WIDTH="18" HEIGHT="44" WC="0.9662" />
+            <String ID="B13_L1_W5" CONTENT="kg" HPOS="1460" VPOS="1684" WIDTH="54" HEIGHT="44" WC="0.9658" />
+            <SP />
+            <String ID="B13_L1_W6" CONTENT="±" HPOS="1532" VPOS="1684" WIDTH="25" HEIGHT="44" WC="0.2785" />
+            <String ID="B13_L1_W7" CONTENT="SE" HPOS="1560" VPOS="1684" WIDTH="64" HEIGHT="44" WC="0.8671" />
+            <String ID="B13_L1_W8" CONTENT=")" HPOS="1625" VPOS="1684" WIDTH="17" HEIGHT="44" WC="0.9520" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B14" HPOS="1252" VPOS="3085" WIDTH="51" HEIGHT="31">
+          <TextLine ID="B14_L1" HPOS="1252" VPOS="3085" WIDTH="51" HEIGHT="31">
+            <String ID="B14_L1_W1" CONTENT="24" HPOS="1252" VPOS="3085" WIDTH="51" HEIGHT="31" WC="0.9882" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B15" HPOS="1252" VPOS="3070" WIDTH="48" HEIGHT="64">
+          <TextLine ID="B15_L1" HPOS="1252" VPOS="3070" WIDTH="48" HEIGHT="64">
+            <String ID="B15_L1_W1" CONTENT="24" HPOS="1252" VPOS="3070" WIDTH="48" HEIGHT="64" WC="0.6960" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

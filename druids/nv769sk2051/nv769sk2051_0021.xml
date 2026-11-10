@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nv769sk2051_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3323" HEIGHT="4356" PHYSICAL_IMG_NR="1" PC="0.6777">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3323" HEIGHT="4356">
+        <TextBlock ID="B1" HPOS="25" VPOS="40" WIDTH="379" HEIGHT="63">
+          <TextLine ID="B1_L1" HPOS="25" VPOS="40" WIDTH="379" HEIGHT="63">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="25" VPOS="40" WIDTH="287" HEIGHT="61" WC="0.9736" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="367" VPOS="48" WIDTH="37" HEIGHT="55" WC="0.6009" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="975" VPOS="2747" WIDTH="1103" HEIGHT="98">
+          <TextLine ID="B2_L1" HPOS="975" VPOS="2747" WIDTH="1103" HEIGHT="98">
+            <String ID="B2_L1_W1" CONTENT="COLOMBEU" HPOS="975" VPOS="2747" WIDTH="644" HEIGHT="94" WC="0.5587" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="COMENI" HPOS="1639" VPOS="2753" WIDTH="439" HEIGHT="92" WC="0.5440" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1921" VPOS="3474" WIDTH="492" HEIGHT="98">
+          <TextLine ID="B3_L1" HPOS="1921" VPOS="3474" WIDTH="492" HEIGHT="98">
+            <String ID="B3_L1_W1" CONTENT="29JOH" HPOS="1921" VPOS="3474" WIDTH="492" HEIGHT="98" WC="0.5603" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

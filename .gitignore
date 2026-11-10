@@ -1,0 +1,9 @@
+# Raw Google Vision responses (17 GB) stay local
+druids/**/*.json
+
+# Regenerable caches and build output
+inventory/manifests/
+inventory/review/index.html
+
+.DS_Store
+__pycache__/

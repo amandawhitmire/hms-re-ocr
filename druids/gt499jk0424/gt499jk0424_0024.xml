@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gt499jk0424_0024</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3276" PHYSICAL_IMG_NR="1" PC="0.7527">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3276">
+        <TextBlock ID="B1" HPOS="985" VPOS="2698" WIDTH="147" HEIGHT="155">
+          <TextLine ID="B1_L1" HPOS="985" VPOS="2698" WIDTH="147" HEIGHT="155">
+            <String ID="B1_L1_W1" CONTENT="\" HPOS="985" VPOS="2698" WIDTH="147" HEIGHT="155" WC="0.7023" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="528" VPOS="2347" WIDTH="521" HEIGHT="478">
+          <TextLine ID="B2_L1" HPOS="528" VPOS="2348" WIDTH="521" HEIGHT="477">
+            <String ID="B2_L1_W1" CONTENT="יי" HPOS="528" VPOS="2348" WIDTH="198" HEIGHT="225" WC="0.8661" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="דיי" HPOS="608" VPOS="2411" WIDTH="278" HEIGHT="287" WC="0.6128" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="|" HPOS="758" VPOS="2528" WIDTH="195" HEIGHT="222" WC="0.7382" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="יי" HPOS="845" VPOS="2595" WIDTH="204" HEIGHT="230" WC="0.4738" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="2223" VPOS="14" WIDTH="155" HEIGHT="103">
+          <TextLine ID="B3_L1" HPOS="2223" VPOS="15" WIDTH="155" HEIGHT="102">
+            <String ID="B3_L1_W1" CONTENT="Fig" HPOS="2223" VPOS="15" WIDTH="85" HEIGHT="102" WC="0.9357" />
+            <String ID="B3_L1_W2" CONTENT="." HPOS="2304" VPOS="15" WIDTH="36" HEIGHT="101" WC="0.8428" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="2" HPOS="2326" VPOS="15" WIDTH="52" HEIGHT="101" WC="0.8443" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

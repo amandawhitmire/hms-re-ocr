@@ -1,0 +1,82 @@
+TIME (MIN) FLOW (ml/MIN)
+
+% A
+
+% B
+
+CURVE
+
+INITIAL
+
+1.8
+
+90
+
+*
+
+10
+
+1.0
+
+1.8
+
+80
+
+20
+
+06
+
+4.0
+
+1.8
+
+80
+
+20
+
+11
+
+9.0
+
+1.8
+
+50
+
+50
+
+06
+
+13.5
+
+1.8
+
+50
+
+50
+
+11
+
+19.0
+
+1.8
+
+15
+
+85
+
+06
+
+21.0
+
+1.8
+
+90
+
+10
+
+06
+
+TABLE 1: Elution Profile. Curve values refer to fixed response
+curves by which the Walker Pump Controller shapes each time
+step in the profile. A value of 06 indicates a linear response;
+a value of 11 indicates an instantaneous response.

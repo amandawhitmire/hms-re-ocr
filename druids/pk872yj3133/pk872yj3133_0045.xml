@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pk872yj3133_0045</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2509" HEIGHT="3248" PHYSICAL_IMG_NR="1" PC="0.9383">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2509" HEIGHT="3248">
+        <TextBlock ID="B1" HPOS="319" VPOS="74" WIDTH="921" HEIGHT="44">
+          <TextLine ID="B1_L1" HPOS="319" VPOS="75" WIDTH="921" HEIGHT="43">
+            <String ID="B1_L1_W1" CONTENT="Head" HPOS="319" VPOS="75" WIDTH="103" HEIGHT="39" WC="0.9902" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Structures" HPOS="449" VPOS="75" WIDTH="253" HEIGHT="40" WC="0.9884" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="of" HPOS="729" VPOS="76" WIDTH="52" HEIGHT="39" WC="0.9871" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Pherusa" HPOS="803" VPOS="76" WIDTH="180" HEIGHT="41" WC="0.9894" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="papillata" HPOS="1010" VPOS="77" WIDTH="230" HEIGHT="41" WC="0.9920" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1594" VPOS="81" WIDTH="284" HEIGHT="35">
+          <TextLine ID="B2_L1" HPOS="1594" VPOS="81" WIDTH="284" HEIGHT="35">
+            <String ID="B2_L1_W1" CONTENT="I.K.Berzins" HPOS="1594" VPOS="81" WIDTH="284" HEIGHT="35" WC="0.9471" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="2007" VPOS="80" WIDTH="84" HEIGHT="38">
+          <TextLine ID="B3_L1" HPOS="2007" VPOS="80" WIDTH="84" HEIGHT="38">
+            <String ID="B3_L1_W1" CONTENT="246" HPOS="2007" VPOS="80" WIDTH="84" HEIGHT="38" WC="0.7750" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="547" VPOS="1044" WIDTH="226" HEIGHT="40">
+          <TextLine ID="B4_L1" HPOS="547" VPOS="1044" WIDTH="226" HEIGHT="40">
+            <String ID="B4_L1_W1" CONTENT="Fig" HPOS="547" VPOS="1044" WIDTH="80" HEIGHT="40" WC="0.9787" />
+            <String ID="B4_L1_W2" CONTENT="." HPOS="629" VPOS="1044" WIDTH="16" HEIGHT="40" WC="0.8381" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="39" HPOS="675" VPOS="1044" WIDTH="50" HEIGHT="40" WC="0.9795" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT=":" HPOS="755" VPOS="1044" WIDTH="18" HEIGHT="40" WC="0.9790" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="979" VPOS="787" WIDTH="436" HEIGHT="40">
+          <TextLine ID="B5_L1" HPOS="979" VPOS="787" WIDTH="436" HEIGHT="40">
+            <String ID="B5_L1_W1" CONTENT="Pherusa" HPOS="979" VPOS="787" WIDTH="182" HEIGHT="40" WC="0.9683" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="papillata" HPOS="1184" VPOS="787" WIDTH="231" HEIGHT="40" WC="0.9898" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="903" VPOS="1043" WIDTH="1038" HEIGHT="46">
+          <TextLine ID="B6_L1" HPOS="903" VPOS="1044" WIDTH="1038" HEIGHT="44">
+            <String ID="B6_L1_W1" CONTENT="The" HPOS="903" VPOS="1044" WIDTH="78" HEIGHT="40" WC="0.9900" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="U" HPOS="1005" VPOS="1044" WIDTH="27" HEIGHT="40" WC="0.9826" />
+            <String ID="B6_L1_W3" CONTENT="-" HPOS="1031" VPOS="1044" WIDTH="25" HEIGHT="40" WC="0.9360" />
+            <String ID="B6_L1_W4" CONTENT="shaped" HPOS="1059" VPOS="1044" WIDTH="152" HEIGHT="42" WC="0.9896" />
+            <SP />
+            <String ID="B6_L1_W5" CONTENT="burrow" HPOS="1234" VPOS="1044" WIDTH="159" HEIGHT="42" WC="0.9481" />
+            <SP />
+            <String ID="B6_L1_W6" CONTENT="of" HPOS="1415" VPOS="1046" WIDTH="49" HEIGHT="40" WC="0.9900" />
+            <SP />
+            <String ID="B6_L1_W7" CONTENT="Pherusa" HPOS="1487" VPOS="1046" WIDTH="179" HEIGHT="41" WC="0.9824" />
+            <SP />
+            <String ID="B6_L1_W8" CONTENT="papillata" HPOS="1691" VPOS="1046" WIDTH="230" HEIGHT="42" WC="0.9892" />
+            <String ID="B6_L1_W9" CONTENT="." HPOS="1926" VPOS="1048" WIDTH="15" HEIGHT="40" WC="0.9600" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

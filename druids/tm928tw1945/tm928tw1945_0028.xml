@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tm928tw1945_0028</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3387" HEIGHT="4390" PHYSICAL_IMG_NR="1" PC="0.9047">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3387" HEIGHT="4390">
+        <TextBlock ID="B1" HPOS="554" VPOS="1230" WIDTH="1912" HEIGHT="70">
+          <TextLine ID="B1_L1" HPOS="554" VPOS="1233" WIDTH="1912" HEIGHT="63">
+            <String ID="B1_L1_W1" CONTENT="Fig" HPOS="554" VPOS="1246" WIDTH="109" HEIGHT="50" WC="0.9580" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="670" VPOS="1246" WIDTH="22" HEIGHT="48" WC="0.9624" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="6." HPOS="736" VPOS="1244" WIDTH="61" HEIGHT="49" WC="0.9817" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Distribution" HPOS="883" VPOS="1238" WIDTH="431" HEIGHT="58" WC="0.9851" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="by" HPOS="1352" VPOS="1238" WIDTH="73" HEIGHT="55" WC="0.9880" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="phyla" HPOS="1459" VPOS="1237" WIDTH="183" HEIGHT="56" WC="0.9918" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="for" HPOS="1677" VPOS="1237" WIDTH="107" HEIGHT="55" WC="0.9872" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="Pt" HPOS="1822" VPOS="1236" WIDTH="68" HEIGHT="55" WC="0.9788" />
+            <String ID="B1_L1_W9" CONTENT="." HPOS="1901" VPOS="1236" WIDTH="19" HEIGHT="55" WC="0.9506" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="Pinos" HPOS="1966" VPOS="1234" WIDTH="178" HEIGHT="57" WC="0.9652" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="(" HPOS="2189" VPOS="1235" WIDTH="25" HEIGHT="55" WC="0.9720" />
+            <String ID="B1_L1_W12" CONTENT="summer" HPOS="2221" VPOS="1233" WIDTH="214" HEIGHT="57" WC="0.9680" />
+            <String ID="B1_L1_W13" CONTENT=")" HPOS="2444" VPOS="1233" WIDTH="22" HEIGHT="55" WC="0.9654" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="883" VPOS="1380" WIDTH="1044" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="883" VPOS="1380" WIDTH="1044" HEIGHT="45">
+            <String ID="B2_L1_W1" CONTENT="Prionitis" HPOS="883" VPOS="1380" WIDTH="322" HEIGHT="45" WC="0.9870" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="lanceolata" HPOS="1248" VPOS="1380" WIDTH="357" HEIGHT="45" WC="0.9913" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="samples" HPOS="1645" VPOS="1380" WIDTH="249" HEIGHT="45" WC="0.9762" />
+            <String ID="B2_L1_W4" CONTENT="." HPOS="1903" VPOS="1380" WIDTH="24" HEIGHT="45" WC="0.8782" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1454" VPOS="3904" WIDTH="568" HEIGHT="159">
+          <TextLine ID="B3_L1" HPOS="1454" VPOS="3904" WIDTH="568" HEIGHT="159">
+            <String ID="B3_L1_W1" CONTENT="MOLY" HPOS="1454" VPOS="3904" WIDTH="568" HEIGHT="159" WC="0.6729" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="3159" VPOS="22" WIDTH="206" HEIGHT="85">
+          <TextLine ID="B4_L1" HPOS="3159" VPOS="22" WIDTH="206" HEIGHT="85">
+            <String ID="B4_L1_W1" CONTENT="238" HPOS="3159" VPOS="22" WIDTH="206" HEIGHT="85" WC="0.9868" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

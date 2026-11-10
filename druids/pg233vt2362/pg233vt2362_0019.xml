@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pg233vt2362_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9881">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="524" VPOS="298" WIDTH="317" HEIGHT="43">
+          <TextLine ID="B1_L1" HPOS="524" VPOS="298" WIDTH="317" HEIGHT="43">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="524" VPOS="298" WIDTH="245" HEIGHT="43" WC="0.9887" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="815" VPOS="298" WIDTH="26" HEIGHT="43" WC="0.9869" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="725" VPOS="918" WIDTH="432" HEIGHT="37">
+          <TextLine ID="B2_L1" HPOS="725" VPOS="918" WIDTH="432" HEIGHT="37">
+            <String ID="B2_L1_W1" CONTENT="MOTOR" HPOS="725" VPOS="918" WIDTH="212" HEIGHT="37" WC="0.9865" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="NERVE" HPOS="966" VPOS="918" WIDTH="191" HEIGHT="37" WC="0.9890" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="697" VPOS="1322" WIDTH="236" HEIGHT="46">
+          <TextLine ID="B3_L1" HPOS="697" VPOS="1322" WIDTH="236" HEIGHT="46">
+            <String ID="B3_L1_W1" CONTENT="MUSCLE" HPOS="697" VPOS="1322" WIDTH="236" HEIGHT="46" WC="0.9889" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1399" VPOS="521" WIDTH="415" HEIGHT="41">
+          <TextLine ID="B4_L1" HPOS="1399" VPOS="521" WIDTH="415" HEIGHT="41">
+            <String ID="B4_L1_W1" CONTENT="PROXIMAL" HPOS="1399" VPOS="521" WIDTH="298" HEIGHT="40" WC="0.9909" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="RIB" HPOS="1724" VPOS="524" WIDTH="90" HEIGHT="38" WC="0.9934" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1759" VPOS="1329" WIDTH="530" HEIGHT="38">
+          <TextLine ID="B5_L1" HPOS="1759" VPOS="1329" WIDTH="530" HEIGHT="38">
+            <String ID="B5_L1_W1" CONTENT="END" HPOS="1759" VPOS="1329" WIDTH="117" HEIGHT="38" WC="0.9903" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="PLATE" HPOS="1908" VPOS="1329" WIDTH="190" HEIGHT="38" WC="0.9922" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="BAND" HPOS="2129" VPOS="1329" WIDTH="160" HEIGHT="38" WC="0.9693" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="685" VPOS="1612" WIDTH="386" HEIGHT="40">
+          <TextLine ID="B6_L1" HPOS="685" VPOS="1612" WIDTH="386" HEIGHT="40">
+            <String ID="B6_L1_W1" CONTENT="BONE" HPOS="685" VPOS="1612" WIDTH="159" HEIGHT="40" WC="0.9878" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="SHAFT" HPOS="876" VPOS="1612" WIDTH="195" HEIGHT="40" WC="0.9825" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1734" VPOS="1606" WIDTH="511" HEIGHT="39">
+          <TextLine ID="B7_L1" HPOS="1734" VPOS="1606" WIDTH="511" HEIGHT="39">
+            <String ID="B7_L1_W1" CONTENT="SENSORY" HPOS="1734" VPOS="1606" WIDTH="280" HEIGHT="39" WC="0.9874" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="NERVE" HPOS="2047" VPOS="1606" WIDTH="198" HEIGHT="39" WC="0.9848" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1690" VPOS="2268" WIDTH="285" HEIGHT="37">
+          <TextLine ID="B8_L1" HPOS="1690" VPOS="2268" WIDTH="285" HEIGHT="37">
+            <String ID="B8_L1_W1" CONTENT="FIN" HPOS="1690" VPOS="2268" WIDTH="88" HEIGHT="37" WC="0.9907" />
+            <SP />
+            <String ID="B8_L1_W2" CONTENT="SPINE" HPOS="1809" VPOS="2268" WIDTH="166" HEIGHT="37" WC="0.9933" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

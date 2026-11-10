@@ -1,0 +1,128 @@
+Table 1:
+
+=
+
+Results of 3-way ANOVA of daily percent feeding with tide height, sun exposure, and
+whelk species. Tide height was 'high' or 'low', sun exposure was 'sun-exposed' or
+'shaded'. Cochran's Test for homogeneity of variances was not significant (s²max + Σs;2:
+0.156); for Student-Newman-Keuls tests, means that are underlined are not significantly
+different (P>.05).
+
+Analysis of Variance
+
+Source
+
+Sum - of - Squares
+
+df
+
+Mean - Square
+
+F - ratio
+
+P
+
+Species
+
+6312.055
+
+2
+
+3156.027
+
+17.188
+
+< .001
+
+Tide
+
+5047.147
+
+1
+
+5047.147
+
+27.487
+
+< .001
+
+Sun Exposure
+
+62.995
+
+1
+
+62.995
+
+0.343
+
+.559
+
+Species > Tide
+
+1218.818
+
+Species × Sun
+
+14418.128
+
+Tide × Sun
+
+2873.009
+
+221
+
+609.409
+
+3.319
+
+.040
+
+7209.064
+
+39.261
+
+< .001
+
+2873.009
+
+15.647
+
+< .001
+
+Species x Tide × Sun
+
+2312.590
+
+2
+
+1156.295
+
+6.297
+
+.003
+
+Within
+
+17627.392
+
+96
+
+183.619
+
+Student-Newman-Keuls tests:
+
+Acanthanucella :
+
+Nucella :
+
+HighSun LowSun HighShade LowShade
+HighShade LowShade HighSun LowSun
+
+Ocenebra :
+
+LowShade HighShade HighSun
+
+LowSun
+
+15

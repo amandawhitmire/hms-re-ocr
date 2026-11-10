@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gv579hx3954_0032</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2540" HEIGHT="3280" PHYSICAL_IMG_NR="1" PC="0.9113">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2540" HEIGHT="3280">
+        <TextBlock ID="B1" HPOS="13" VPOS="87" WIDTH="874" HEIGHT="43">
+          <TextLine ID="B1_L1" HPOS="13" VPOS="87" WIDTH="874" HEIGHT="43">
+            <String ID="B1_L1_W1" CONTENT="Biology" HPOS="13" VPOS="87" WIDTH="212" HEIGHT="43" WC="0.9913" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="of" HPOS="258" VPOS="87" WIDTH="57" HEIGHT="43" WC="0.9842" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Phyllochaetopterus" HPOS="347" VPOS="87" WIDTH="540" HEIGHT="43" WC="0.9864" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="346" VPOS="302" WIDTH="490" HEIGHT="99">
+          <TextLine ID="B2_L1" HPOS="346" VPOS="302" WIDTH="490" HEIGHT="99">
+            <String ID="B2_L1_W1" CONTENT="FIGURE" HPOS="346" VPOS="304" WIDTH="396" HEIGHT="97" WC="0.9924" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="1" HPOS="798" VPOS="302" WIDTH="38" HEIGHT="86" WC="0.9862" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1248" VPOS="1859" WIDTH="95" HEIGHT="187">
+          <TextLine ID="B3_L1" HPOS="1248" VPOS="1859" WIDTH="95" HEIGHT="187">
+            <String ID="B3_L1_W1" CONTENT="S" HPOS="1248" VPOS="1859" WIDTH="95" HEIGHT="187" WC="0.7450" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1699" VPOS="33" WIDTH="178" HEIGHT="42">
+          <TextLine ID="B4_L1" HPOS="1699" VPOS="33" WIDTH="178" HEIGHT="41">
+            <String ID="B4_L1_W1" CONTENT="Bloom" HPOS="1699" VPOS="33" WIDTH="158" HEIGHT="41" WC="0.9481" />
+            <String ID="B4_L1_W2" CONTENT="," HPOS="1860" VPOS="39" WIDTH="17" HEIGHT="35" WC="0.9563" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1740" VPOS="1271" WIDTH="24" HEIGHT="7">
+          <TextLine ID="B5_L1" HPOS="1740" VPOS="1271" WIDTH="24" HEIGHT="7">
+            <String ID="B5_L1_W1" CONTENT="-" HPOS="1740" VPOS="1271" WIDTH="24" HEIGHT="7" WC="0.8100" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1941" VPOS="32" WIDTH="545" HEIGHT="91">
+          <TextLine ID="B6_L1" HPOS="1941" VPOS="33" WIDTH="545" HEIGHT="39">
+            <String ID="B6_L1_W1" CONTENT="Bowers" HPOS="1941" VPOS="33" WIDTH="182" HEIGHT="39" WC="0.9849" />
+            <String ID="B6_L1_W2" CONTENT="," HPOS="2133" VPOS="33" WIDTH="15" HEIGHT="39" WC="0.9662" />
+            <SP />
+            <String ID="B6_L1_W3" CONTENT="Cullenward" HPOS="2187" VPOS="33" WIDTH="299" HEIGHT="39" WC="0.9891" />
+          </TextLine>
+          <TextLine ID="B6_L2" HPOS="2069" VPOS="82" WIDTH="113" HEIGHT="41">
+            <String ID="B6_L2_W1" CONTENT="-33-" HPOS="2069" VPOS="82" WIDTH="113" HEIGHT="41" WC="0.9762" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

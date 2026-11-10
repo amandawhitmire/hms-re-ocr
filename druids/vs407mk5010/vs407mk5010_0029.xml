@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vs407mk5010_0029</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9865">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="393" VPOS="2481" WIDTH="1753" HEIGHT="175">
+          <TextLine ID="B1_L1" HPOS="394" VPOS="2481" WIDTH="1671" HEIGHT="56">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="394" VPOS="2481" WIDTH="180" HEIGHT="50" WC="0.9886" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="593" VPOS="2482" WIDTH="28" HEIGHT="48" WC="0.9646" />
+            <String ID="B1_L1_W3" CONTENT=":" HPOS="626" VPOS="2482" WIDTH="17" HEIGHT="48" WC="0.8998" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="In" HPOS="674" VPOS="2483" WIDTH="54" HEIGHT="48" WC="0.9095" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="vitro" HPOS="746" VPOS="2483" WIDTH="127" HEIGHT="49" WC="0.9781" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="fertilization" HPOS="887" VPOS="2483" WIDTH="313" HEIGHT="50" WC="0.9885" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="in" HPOS="1215" VPOS="2485" WIDTH="53" HEIGHT="48" WC="0.9864" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="the" HPOS="1288" VPOS="2485" WIDTH="83" HEIGHT="48" WC="0.9852" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="sterile" HPOS="1390" VPOS="2485" WIDTH="164" HEIGHT="50" WC="0.9888" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="sea" HPOS="1572" VPOS="2486" WIDTH="80" HEIGHT="48" WC="0.9905" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="water" HPOS="1669" VPOS="2487" WIDTH="147" HEIGHT="49" WC="0.9927" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="solution" HPOS="1830" VPOS="2487" WIDTH="217" HEIGHT="50" WC="0.9933" />
+            <String ID="B1_L1_W13" CONTENT="." HPOS="2050" VPOS="2488" WIDTH="15" HEIGHT="48" WC="0.9465" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="681" VPOS="2543" WIDTH="1465" HEIGHT="61">
+            <String ID="B1_L2_W1" CONTENT="Within" HPOS="681" VPOS="2543" WIDTH="180" HEIGHT="55" WC="0.9876" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="two" HPOS="883" VPOS="2544" WIDTH="94" HEIGHT="54" WC="0.9934" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="days" HPOS="993" VPOS="2545" WIDTH="121" HEIGHT="54" WC="0.9926" />
+            <SP />
+            <String ID="B1_L2_W4" CONTENT="of" HPOS="1134" VPOS="2546" WIDTH="56" HEIGHT="53" WC="0.9814" />
+            <SP />
+            <String ID="B1_L2_W5" CONTENT="fertilization" HPOS="1198" VPOS="2545" WIDTH="314" HEIGHT="55" WC="0.9918" />
+            <SP />
+            <String ID="B1_L2_W6" CONTENT="only" HPOS="1531" VPOS="2547" WIDTH="119" HEIGHT="55" WC="0.9881" />
+            <SP />
+            <String ID="B1_L2_W7" CONTENT="dead" HPOS="1664" VPOS="2548" WIDTH="124" HEIGHT="54" WC="0.9924" />
+            <String ID="B1_L2_W8" CONTENT="," HPOS="1792" VPOS="2549" WIDTH="14" HEIGHT="53" WC="0.9663" />
+            <SP />
+            <String ID="B1_L2_W9" CONTENT="lysed" HPOS="1824" VPOS="2549" WIDTH="137" HEIGHT="54" WC="0.9946" />
+            <SP />
+            <String ID="B1_L2_W10" CONTENT="debris" HPOS="1978" VPOS="2549" WIDTH="168" HEIGHT="55" WC="0.9927" />
+          </TextLine>
+          <TextLine ID="B1_L3" HPOS="683" VPOS="2610" WIDTH="268" HEIGHT="41">
+            <String ID="B1_L3_W1" CONTENT="remained" HPOS="683" VPOS="2610" WIDTH="252" HEIGHT="41" WC="0.9934" />
+            <String ID="B1_L3_W2" CONTENT="." HPOS="937" VPOS="2611" WIDTH="14" HEIGHT="39" WC="0.9315" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

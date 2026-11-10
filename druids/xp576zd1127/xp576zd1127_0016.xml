@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>xp576zd1127_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2537" HEIGHT="3256" PHYSICAL_IMG_NR="1" PC="0.9797">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2537" HEIGHT="3256">
+        <TextBlock ID="B1" HPOS="1066" VPOS="699" WIDTH="234" HEIGHT="31">
+          <TextLine ID="B1_L1" HPOS="1066" VPOS="699" WIDTH="234" HEIGHT="31">
+            <String ID="B1_L1_W1" CONTENT="APPENDIX" HPOS="1066" VPOS="699" WIDTH="234" HEIGHT="31" WC="0.9895" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="643" VPOS="1138" WIDTH="1622" HEIGHT="54">
+          <TextLine ID="B2_L1" HPOS="643" VPOS="1137" WIDTH="1622" HEIGHT="55">
+            <String ID="B2_L1_W1" CONTENT="Proposal" HPOS="643" VPOS="1147" WIDTH="237" HEIGHT="45" WC="0.9586" />
+            <String ID="B2_L1_W2" CONTENT=":" HPOS="890" VPOS="1147" WIDTH="16" HEIGHT="43" WC="0.7954" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="A" HPOS="944" VPOS="1147" WIDTH="29" HEIGHT="43" WC="0.9861" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="Study" HPOS="1006" VPOS="1145" WIDTH="144" HEIGHT="45" WC="0.9861" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="of" HPOS="1185" VPOS="1145" WIDTH="58" HEIGHT="43" WC="0.9848" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="Anaerobiosis" HPOS="1275" VPOS="1142" WIDTH="356" HEIGHT="46" WC="0.9801" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="in" HPOS="1667" VPOS="1142" WIDTH="57" HEIGHT="43" WC="0.9702" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="Cirolana" HPOS="1757" VPOS="1139" WIDTH="240" HEIGHT="46" WC="0.9760" />
+            <SP />
+            <String ID="B2_L1_W9" CONTENT="harfordi" HPOS="2026" VPOS="1137" WIDTH="239" HEIGHT="46" WC="0.9661" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

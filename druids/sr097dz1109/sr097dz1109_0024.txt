@@ -1,0 +1,165 @@
+APPENDIX 3
+
+Linear Regression Equation:
+
+рн
+
+=
+
+0.093187 x [02] + 7.34434
+
+r= .932
+
+***
+
+d.f. = 56
+
+n = 58
+
+X = independent
+vanable ([0₂])
+
+Y = dependent
+
+variable (pH)
+
+t-test for significance of :
+
+ts = slope -0
+Sslope
+
+t.001 [56] ≈ 3.46
+
+P < .001
+
+( 0.093187-0 )
+
+=
+
+=
+
+19.23
+
+0.004 846
+
+Note: slope
+
+and
+
+95% Confidence Limits for pH Estimates:
+
+EX=449.4 ΣΥ = 467.85
+
+Σχε
+
+ΣX² = 4404.04 ΣY² = 3804.74
+
+EXY = 370,946
+
+<x² - (CX)²
+
+Σx² = Σx²-
+
+Σy² = Σy² - (2×)²
+
+n
+
+=
+
+921.965
+
+-
+
+30.8844
+
+Σxy = EXY - (EX)(C)
+
+Explained Variation:
+
+12
+
+24²= (xy)
+
+Ex²
+
+Unexplained Variation:
+
+5²
+
+Y.X
+
+dxx
+
+=
+
+=
+
+=
+
+n
+
+= 85.915
+
+Sslope
+
+are
+
+outputs from the linear
+regression computed by
+IBM Lotus Software.
+
+X = 7,748
+
+( 85.915 )
+
+= 8.0061
+
+921.965
+
+Σy² - Ey² = 30.8844-8.0061 =
+
+x.x
+n - 2
+
+22.88
+=
+
+= 0.4085
+
+56
+
+Standard Error of ŷ estimate from Xi :
+
+22.88
+
+Sy
+
+5y = 5²
+
++
+
+(X - x)
+
+Y.X
+
+=
+
+0.4085
+
+Ex²
+
+Confidence Limits:
+
+L₁ = pH + (+,05 [56]) (SA)
+
+рн
+
+L₂ = pH - (+.05 [56])(sy)
+
+2 / -
+
++
+
+( x - 7.748 )
+
+921.965

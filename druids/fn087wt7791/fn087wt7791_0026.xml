@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fn087wt7791_0026</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2550" HEIGHT="3300" PHYSICAL_IMG_NR="1" PC="0.9858">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2550" HEIGHT="3300">
+        <TextBlock ID="B1" HPOS="287" VPOS="296" WIDTH="202" HEIGHT="46">
+          <TextLine ID="B1_L1" HPOS="287" VPOS="297" WIDTH="202" HEIGHT="45">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="287" VPOS="298" WIDTH="142" HEIGHT="44" WC="0.9908" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="12" HPOS="442" VPOS="297" WIDTH="47" HEIGHT="41" WC="0.9886" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="628" VPOS="1763" WIDTH="284" HEIGHT="82">
+          <TextLine ID="B2_L1" HPOS="628" VPOS="1763" WIDTH="284" HEIGHT="82">
+            <String ID="B2_L1_W1" CONTENT="2" HPOS="628" VPOS="1763" WIDTH="66" HEIGHT="75" WC="0.9649" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="mm" HPOS="726" VPOS="1766" WIDTH="186" HEIGHT="79" WC="0.9850" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1249" VPOS="3082" WIDTH="53" HEIGHT="32">
+          <TextLine ID="B3_L1" HPOS="1249" VPOS="3082" WIDTH="53" HEIGHT="32">
+            <String ID="B3_L1_W1" CONTENT="27" HPOS="1249" VPOS="3082" WIDTH="53" HEIGHT="32" WC="0.9889" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

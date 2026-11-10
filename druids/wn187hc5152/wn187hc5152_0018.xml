@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wn187hc5152_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2538" HEIGHT="3273" PHYSICAL_IMG_NR="1" PC="0.9730">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2538" HEIGHT="3273">
+        <TextBlock ID="B1" HPOS="612" VPOS="411" WIDTH="1406" HEIGHT="206">
+          <TextLine ID="B1_L1" HPOS="733" VPOS="417" WIDTH="1267" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="733" VPOS="417" WIDTH="180" HEIGHT="41" WC="0.9923" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5." HPOS="943" VPOS="419" WIDTH="55" HEIGHT="39" WC="0.9649" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Baseline" HPOS="1063" VPOS="418" WIDTH="242" HEIGHT="40" WC="0.9845" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="data" HPOS="1338" VPOS="418" WIDTH="117" HEIGHT="40" WC="0.9907" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="showing" HPOS="1492" VPOS="418" WIDTH="204" HEIGHT="40" WC="0.9734" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="a" HPOS="1728" VPOS="418" WIDTH="26" HEIGHT="40" WC="0.9911" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="50" HPOS="1787" VPOS="418" WIDTH="57" HEIGHT="40" WC="0.9914" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="hour" HPOS="1877" VPOS="418" WIDTH="123" HEIGHT="40" WC="0.9661" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="613" VPOS="492" WIDTH="1405" HEIGHT="43">
+            <String ID="B1_L2_W1" CONTENT="period" HPOS="613" VPOS="492" WIDTH="179" HEIGHT="43" WC="0.9909" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="of" HPOS="826" VPOS="492" WIDTH="56" HEIGHT="43" WC="0.9871" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="counts" HPOS="917" VPOS="492" WIDTH="175" HEIGHT="43" WC="0.9347" />
+            <SP />
+            <String ID="B1_L2_W4" CONTENT="per" HPOS="1126" VPOS="492" WIDTH="89" HEIGHT="43" WC="0.9811" />
+            <SP />
+            <String ID="B1_L2_W5" CONTENT="hour" HPOS="1245" VPOS="492" WIDTH="119" HEIGHT="43" WC="0.9901" />
+            <SP />
+            <String ID="B1_L2_W6" CONTENT="in" HPOS="1397" VPOS="492" WIDTH="59" HEIGHT="43" WC="0.9817" />
+            <SP />
+            <String ID="B1_L2_W7" CONTENT="constant" HPOS="1489" VPOS="492" WIDTH="236" HEIGHT="43" WC="0.9651" />
+            <SP />
+            <String ID="B1_L2_W8" CONTENT="darkness" HPOS="1758" VPOS="492" WIDTH="237" HEIGHT="43" WC="0.9944" />
+            <String ID="B1_L2_W9" CONTENT="," HPOS="2002" VPOS="492" WIDTH="16" HEIGHT="43" WC="0.9682" />
+          </TextLine>
+          <TextLine ID="B1_L3" HPOS="613" VPOS="555" WIDTH="534" HEIGHT="56">
+            <String ID="B1_L3_W1" CONTENT="15" HPOS="613" VPOS="555" WIDTH="61" HEIGHT="50" WC="0.9591" />
+            <String ID="B1_L3_W2" CONTENT="°" HPOS="672" VPOS="555" WIDTH="31" HEIGHT="49" WC="0.8220" />
+            <SP />
+            <String ID="B1_L3_W3" CONTENT="C." HPOS="734" VPOS="556" WIDTH="52" HEIGHT="50" WC="0.8525" />
+            <SP />
+            <String ID="B1_L3_W4" CONTENT="and" HPOS="823" VPOS="558" WIDTH="88" HEIGHT="50" WC="0.9496" />
+            <SP />
+            <String ID="B1_L3_W5" CONTENT="34" HPOS="944" VPOS="559" WIDTH="58" HEIGHT="51" WC="0.9873" />
+            <SP />
+            <String ID="B1_L3_W6" CONTENT="ppt" HPOS="1033" VPOS="561" WIDTH="88" HEIGHT="50" WC="0.9909" />
+            <String ID="B1_L3_W7" CONTENT="." HPOS="1131" VPOS="562" WIDTH="16" HEIGHT="49" WC="0.9705" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

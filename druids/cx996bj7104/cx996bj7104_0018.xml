@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cx996bj7104_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2519" HEIGHT="3285" PHYSICAL_IMG_NR="1" PC="0.9252">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2519" HEIGHT="3285">
+        <TextBlock ID="B1" HPOS="172" VPOS="2809" WIDTH="42" HEIGHT="39">
+          <TextLine ID="B1_L1" HPOS="172" VPOS="2809" WIDTH="42" HEIGHT="39">
+            <String ID="B1_L1_W1" CONTENT="d" HPOS="172" VPOS="2809" WIDTH="42" HEIGHT="39" WC="0.7878" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="195" VPOS="2014" WIDTH="23" HEIGHT="27">
+          <TextLine ID="B2_L1" HPOS="195" VPOS="2014" WIDTH="23" HEIGHT="27">
+            <String ID="B2_L1_W1" CONTENT="C" HPOS="195" VPOS="2014" WIDTH="23" HEIGHT="27" WC="0.9129" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="203" VPOS="1234" WIDTH="25" HEIGHT="38">
+          <TextLine ID="B3_L1" HPOS="203" VPOS="1234" WIDTH="25" HEIGHT="38">
+            <String ID="B3_L1_W1" CONTENT="b" HPOS="203" VPOS="1234" WIDTH="25" HEIGHT="38" WC="0.9841" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="206" VPOS="208" WIDTH="26" HEIGHT="31">
+          <TextLine ID="B4_L1" HPOS="206" VPOS="208" WIDTH="26" HEIGHT="31">
+            <String ID="B4_L1_W1" CONTENT="a" HPOS="206" VPOS="208" WIDTH="26" HEIGHT="31" WC="0.9544" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1149" VPOS="3161" WIDTH="327" HEIGHT="75">
+          <TextLine ID="B5_L1" HPOS="1149" VPOS="3162" WIDTH="327" HEIGHT="74">
+            <String ID="B5_L1_W1" CONTENT="figure" HPOS="1149" VPOS="3164" WIDTH="197" HEIGHT="72" WC="0.9865" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="8" HPOS="1427" VPOS="3162" WIDTH="49" HEIGHT="68" WC="0.9882" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

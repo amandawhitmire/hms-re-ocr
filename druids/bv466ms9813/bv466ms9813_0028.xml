@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bv466ms9813_0028</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2511" HEIGHT="3278" PHYSICAL_IMG_NR="1" PC="0.8729">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2511" HEIGHT="3278">
+        <TextBlock ID="B1" HPOS="1170" VPOS="717" WIDTH="59" HEIGHT="306">
+          <TextLine ID="B1_L1" HPOS="1170" VPOS="717" WIDTH="59" HEIGHT="306">
+            <String ID="B1_L1_W1" CONTENT="Ectocarpus" HPOS="1170" VPOS="717" WIDTH="59" HEIGHT="306" WC="0.9741" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1169" VPOS="2213" WIDTH="42" HEIGHT="209">
+          <TextLine ID="B2_L1" HPOS="1169" VPOS="2213" WIDTH="42" HEIGHT="209">
+            <String ID="B2_L1_W1" CONTENT="Diatoms" HPOS="1169" VPOS="2213" WIDTH="42" HEIGHT="209" WC="0.9728" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1199" VPOS="1228" WIDTH="29" HEIGHT="154">
+          <TextLine ID="B3_L1" HPOS="1199" VPOS="1228" WIDTH="29" HEIGHT="154">
+            <String ID="B3_L1_W1" CONTENT="Soum" HPOS="1199" VPOS="1228" WIDTH="29" HEIGHT="154" WC="0.5901" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1181" VPOS="2631" WIDTH="37" HEIGHT="169">
+          <TextLine ID="B4_L1" HPOS="1182" VPOS="2631" WIDTH="36" HEIGHT="169">
+            <String ID="B4_L1_W1" CONTENT="50" HPOS="1182" VPOS="2737" WIDTH="31" HEIGHT="63" WC="0.9811" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="ит" HPOS="1184" VPOS="2631" WIDTH="34" HEIGHT="97" WC="0.9276" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="2246" VPOS="1207" WIDTH="47" HEIGHT="177">
+          <TextLine ID="B5_L1" HPOS="2246" VPOS="1206" WIDTH="46" HEIGHT="178">
+            <String ID="B5_L1_W1" CONTENT="50" HPOS="2246" VPOS="1319" WIDTH="37" HEIGHT="65" WC="0.9754" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="ит" HPOS="2254" VPOS="1206" WIDTH="38" HEIGHT="87" WC="0.9536" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="2243" VPOS="2109" WIDTH="48" HEIGHT="394">
+          <TextLine ID="B6_L1" HPOS="2243" VPOS="2109" WIDTH="48" HEIGHT="394">
+            <String ID="B6_L1_W1" CONTENT="Acrochaetium" HPOS="2243" VPOS="2109" WIDTH="48" HEIGHT="394" WC="0.9626" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="2258" VPOS="2688" WIDTH="33" HEIGHT="155">
+          <TextLine ID="B7_L1" HPOS="2258" VPOS="2688" WIDTH="33" HEIGHT="155">
+            <String ID="B7_L1_W1" CONTENT="Soum" HPOS="2258" VPOS="2688" WIDTH="33" HEIGHT="155" WC="0.5540" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="2291" VPOS="72" WIDTH="83" HEIGHT="45">
+          <TextLine ID="B8_L1" HPOS="2291" VPOS="72" WIDTH="83" HEIGHT="45">
+            <String ID="B8_L1_W1" CONTENT="28" HPOS="2291" VPOS="72" WIDTH="83" HEIGHT="45" WC="0.9713" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="245" VPOS="127" WIDTH="159" HEIGHT="63">
+          <TextLine ID="B9_L1" HPOS="245" VPOS="128" WIDTH="159" HEIGHT="62">
+            <String ID="B9_L1_W1" CONTENT="fig" HPOS="245" VPOS="130" WIDTH="86" HEIGHT="60" WC="0.8986" />
+            <String ID="B9_L1_W2" CONTENT="." HPOS="325" VPOS="129" WIDTH="23" HEIGHT="57" WC="0.7874" />
+            <SP />
+            <String ID="B9_L1_W3" CONTENT="a" HPOS="365" VPOS="128" WIDTH="39" HEIGHT="57" WC="0.5665" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1114" VPOS="91" WIDTH="557" HEIGHT="81">
+          <TextLine ID="B10_L1" HPOS="1114" VPOS="91" WIDTH="557" HEIGHT="81">
+            <String ID="B10_L1_W1" CONTENT="Ecology" HPOS="1114" VPOS="100" WIDTH="193" HEIGHT="72" WC="0.9604" />
+            <SP />
+            <String ID="B10_L1_W2" CONTENT="of" HPOS="1321" VPOS="98" WIDTH="76" HEIGHT="68" WC="0.9693" />
+            <SP />
+            <String ID="B10_L1_W3" CONTENT="P." HPOS="1404" VPOS="96" WIDTH="67" HEIGHT="68" WC="0.5438" />
+            <SP />
+            <String ID="B10_L1_W4" CONTENT="stenops" HPOS="1462" VPOS="91" WIDTH="209" HEIGHT="72" WC="0.9326" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="2254" VPOS="768" WIDTH="46" HEIGHT="253">
+          <TextLine ID="B11_L1" HPOS="2254" VPOS="768" WIDTH="46" HEIGHT="253">
+            <String ID="B11_L1_W1" CONTENT="Laminaria" HPOS="2254" VPOS="768" WIDTH="46" HEIGHT="253" WC="0.9439" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

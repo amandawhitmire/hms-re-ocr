@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rq402gk6364_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3276" PHYSICAL_IMG_NR="1" PC="0.9706">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3276">
+        <TextBlock ID="B1" HPOS="1115" VPOS="1355" WIDTH="241" HEIGHT="32">
+          <TextLine ID="B1_L1" HPOS="1115" VPOS="1356" WIDTH="241" HEIGHT="31">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="1115" VPOS="1356" WIDTH="180" HEIGHT="31" WC="0.9899" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="1331" VPOS="1356" WIDTH="25" HEIGHT="29" WC="0.7415" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="383" VPOS="1488" WIDTH="1816" HEIGHT="44">
+          <TextLine ID="B2_L1" HPOS="383" VPOS="1488" WIDTH="1816" HEIGHT="44">
+            <String ID="B2_L1_W1" CONTENT="Beaches" HPOS="383" VPOS="1488" WIDTH="212" HEIGHT="44" WC="0.9929" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="on" HPOS="629" VPOS="1488" WIDTH="59" HEIGHT="44" WC="0.9771" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="which" HPOS="717" VPOS="1488" WIDTH="157" HEIGHT="44" WC="0.9919" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="study" HPOS="907" VPOS="1488" WIDTH="149" HEIGHT="44" WC="0.9913" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="sites" HPOS="1089" VPOS="1488" WIDTH="146" HEIGHT="44" WC="0.9908" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="were" HPOS="1265" VPOS="1488" WIDTH="127" HEIGHT="44" WC="0.9927" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="established" HPOS="1422" VPOS="1488" WIDTH="331" HEIGHT="44" WC="0.9897" />
+            <String ID="B2_L1_W8" CONTENT="," HPOS="1762" VPOS="1488" WIDTH="13" HEIGHT="44" WC="0.7820" />
+            <SP />
+            <String ID="B2_L1_W9" CONTENT="Mussel" HPOS="1815" VPOS="1488" WIDTH="181" HEIGHT="44" WC="0.9531" />
+            <SP />
+            <String ID="B2_L1_W10" CONTENT="Point" HPOS="2028" VPOS="1488" WIDTH="150" HEIGHT="44" WC="0.9814" />
+            <String ID="B2_L1_W11" CONTENT="," HPOS="2187" VPOS="1488" WIDTH="12" HEIGHT="44" WC="0.9479" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="355" VPOS="1597" WIDTH="782" HEIGHT="41">
+          <TextLine ID="B3_L1" HPOS="355" VPOS="1597" WIDTH="782" HEIGHT="41">
+            <String ID="B3_L1_W1" CONTENT="Pacific" HPOS="355" VPOS="1601" WIDTH="210" HEIGHT="37" WC="0.9861" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Grove" HPOS="597" VPOS="1599" WIDTH="150" HEIGHT="37" WC="0.9619" />
+            <String ID="B3_L1_W3" CONTENT="," HPOS="754" VPOS="1600" WIDTH="13" HEIGHT="35" WC="0.9272" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="California" HPOS="811" VPOS="1597" WIDTH="303" HEIGHT="38" WC="0.9876" />
+            <String ID="B3_L1_W5" CONTENT="." HPOS="1121" VPOS="1597" WIDTH="16" HEIGHT="35" WC="0.9299" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

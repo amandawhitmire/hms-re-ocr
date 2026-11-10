@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cc132kv2653_0013</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3285" PHYSICAL_IMG_NR="1" PC="0.9850">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3285">
+        <TextBlock ID="B1" HPOS="1122" VPOS="305" WIDTH="239" HEIGHT="53">
+          <TextLine ID="B1_L1" HPOS="1122" VPOS="305" WIDTH="239" HEIGHT="53">
+            <String ID="B1_L1_W1" CONTENT="Table" HPOS="1122" VPOS="305" WIDTH="184" HEIGHT="53" WC="0.9911" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="1337" VPOS="305" WIDTH="24" HEIGHT="53" WC="0.9896" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="947" VPOS="449" WIDTH="597" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="947" VPOS="449" WIDTH="597" HEIGHT="45">
+            <String ID="B2_L1_W1" CONTENT="Results" HPOS="947" VPOS="449" WIDTH="144" HEIGHT="41" WC="0.9894" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1107" VPOS="451" WIDTH="45" HEIGHT="39" WC="0.9842" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="the" HPOS="1158" VPOS="451" WIDTH="62" HEIGHT="41" WC="0.9899" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="Bradford" HPOS="1233" VPOS="451" WIDTH="178" HEIGHT="41" WC="0.9893" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="Assay" HPOS="1424" VPOS="453" WIDTH="120" HEIGHT="41" WC="0.9643" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="661" VPOS="566" WIDTH="244" HEIGHT="53">
+          <TextLine ID="B3_L1" HPOS="661" VPOS="566" WIDTH="244" HEIGHT="53">
+            <String ID="B3_L1_W1" CONTENT="Protein" HPOS="661" VPOS="566" WIDTH="146" HEIGHT="47" WC="0.9792" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="type" HPOS="818" VPOS="576" WIDTH="87" HEIGHT="43" WC="0.9940" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="532" VPOS="634" WIDTH="499" HEIGHT="55">
+          <TextLine ID="B4_L1" HPOS="532" VPOS="635" WIDTH="499" HEIGHT="54">
+            <String ID="B4_L1_W1" CONTENT="Aposymbiotic" HPOS="532" VPOS="638" WIDTH="279" HEIGHT="51" WC="0.9938" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="membrane" HPOS="825" VPOS="635" WIDTH="206" HEIGHT="49" WC="0.9945" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="565" VPOS="695" WIDTH="432" HEIGHT="58">
+          <TextLine ID="B5_L1" HPOS="565" VPOS="695" WIDTH="432" HEIGHT="58">
+            <String ID="B5_L1_W1" CONTENT="Aposymbiotic" HPOS="565" VPOS="698" WIDTH="278" HEIGHT="55" WC="0.9912" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="soluble" HPOS="857" VPOS="695" WIDTH="140" HEIGHT="51" WC="0.9914" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B6" TYPE="text" HPOS="570" VPOS="759" WIDTH="422" HEIGHT="114">
+          <TextBlock ID="B6_P1" HPOS="570" VPOS="759" WIDTH="422" HEIGHT="52">
+            <TextLine ID="B6_P1_L1" HPOS="570" VPOS="760" WIDTH="422" HEIGHT="51">
+              <String ID="B6_P1_L1_W1" CONTENT="Symbiotic" HPOS="570" VPOS="763" WIDTH="204" HEIGHT="48" WC="0.9937" />
+              <SP />
+              <String ID="B6_P1_L1_W2" CONTENT="membrane" HPOS="786" VPOS="760" WIDTH="206" HEIGHT="48" WC="0.9920" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B6_P2" HPOS="607" VPOS="825" WIDTH="353" HEIGHT="47">
+            <TextLine ID="B6_P2_L1" HPOS="607" VPOS="825" WIDTH="353" HEIGHT="47">
+              <String ID="B6_P2_L1_W1" CONTENT="Symbiotic" HPOS="607" VPOS="827" WIDTH="198" HEIGHT="45" WC="0.9908" />
+              <SP />
+              <String ID="B6_P2_L1_W2" CONTENT="soluble" HPOS="821" VPOS="825" WIDTH="139" HEIGHT="45" WC="0.9937" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B7" HPOS="1414" VPOS="571" WIDTH="587" HEIGHT="47">
+          <TextLine ID="B7_L1" HPOS="1414" VPOS="571" WIDTH="587" HEIGHT="46">
+            <String ID="B7_L1_W1" CONTENT="Protein" HPOS="1414" VPOS="571" WIDTH="143" HEIGHT="44" WC="0.9921" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="concentration" HPOS="1572" VPOS="572" WIDTH="274" HEIGHT="45" WC="0.9907" />
+            <SP />
+            <String ID="B7_L1_W3" CONTENT="(" HPOS="1858" VPOS="574" WIDTH="15" HEIGHT="42" WC="0.9606" />
+            <String ID="B7_L1_W4" CONTENT="ug" HPOS="1878" VPOS="575" WIDTH="51" HEIGHT="42" WC="0.9438" />
+            <String ID="B7_L1_W5" CONTENT="/" HPOS="1927" VPOS="575" WIDTH="19" HEIGHT="42" WC="0.8662" />
+            <String ID="B7_L1_W6" CONTENT="μl" HPOS="1946" VPOS="575" WIDTH="41" HEIGHT="42" WC="0.5795" />
+            <String ID="B7_L1_W7" CONTENT=")" HPOS="1984" VPOS="575" WIDTH="17" HEIGHT="42" WC="0.9385" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1649" VPOS="645" WIDTH="112" HEIGHT="31">
+          <TextLine ID="B8_L1" HPOS="1649" VPOS="645" WIDTH="112" HEIGHT="31">
+            <String ID="B8_L1_W1" CONTENT="0.286" HPOS="1649" VPOS="645" WIDTH="112" HEIGHT="31" WC="0.9874" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1649" VPOS="706" WIDTH="111" HEIGHT="34">
+          <TextLine ID="B9_L1" HPOS="1649" VPOS="706" WIDTH="111" HEIGHT="34">
+            <String ID="B9_L1_W1" CONTENT="0.494" HPOS="1649" VPOS="706" WIDTH="111" HEIGHT="34" WC="0.9896" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1649" VPOS="768" WIDTH="114" HEIGHT="35">
+          <TextLine ID="B10_L1" HPOS="1649" VPOS="768" WIDTH="114" HEIGHT="35">
+            <String ID="B10_L1_W1" CONTENT="0.335" HPOS="1649" VPOS="768" WIDTH="114" HEIGHT="35" WC="0.9908" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="1649" VPOS="833" WIDTH="112" HEIGHT="31">
+          <TextLine ID="B11_L1" HPOS="1649" VPOS="833" WIDTH="112" HEIGHT="31">
+            <String ID="B11_L1_W1" CONTENT="0.298" HPOS="1649" VPOS="833" WIDTH="112" HEIGHT="31" WC="0.9897" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="2306" VPOS="52" WIDTH="148" HEIGHT="43">
+          <TextLine ID="B12_L1" HPOS="2306" VPOS="53" WIDTH="148" HEIGHT="42">
+            <String ID="B12_L1_W1" CONTENT="LAM" HPOS="2306" VPOS="53" WIDTH="91" HEIGHT="42" WC="0.9801" />
+            <SP />
+            <String ID="B12_L1_W2" CONTENT="14" HPOS="2411" VPOS="53" WIDTH="43" HEIGHT="40" WC="0.9701" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

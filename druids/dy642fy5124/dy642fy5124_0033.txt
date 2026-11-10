@@ -1,0 +1,110 @@
+Funcs.c
+
+#include < conio.h >
+
+#define write printf(
+#define nl; printf("\n")
+
+#define MAX 25
+
+void
+
+clrscr ( void ) ;
+
+char *get_file(void)
+
+/* Gets an output file name from the user
+
+* /
+
+{
+
+char *file_name, *malloc();
+
+>
+
+clrscr ( ) ;
+
+write "This program simulates primary production in the bay ");
+
+write" for a given"); nl;
+
+write" number of years."); nl;
+
+file_name = (char *)malloc(MAX * sizeof(char));
+
+/* allocates memory space for the file name
+
+write "Where would you like the data stored? (Please enter a file name.)"); nl;
+scanf("%s", file_name); nl;
+return ( file_name ) ;
+
+int num_yr()
+
+int i;
+
+/* Asks user how many years to simulate
+
+write"How many years would you like simulated? ");
+
+scanf("%d",&i); nl; nl;
+
+return i;
+
+}
+
+int options()
+
+{
+
+char c, yes_or_no();
+
+int i;
+
+write"Would you like to: "); nl;
+
+/* Asks user which type of simulation to run
+
+write "1.) hold biomass constant (i.e. keep production ");
+
+write"biomass-limited)?"); nl;
+
+write "2.) set fallout to zero (i.e. allow biomass to grow exponentially)?"); nl;
+write "3.) run a full simulation?"); nl; nl;
+
+write "Please enter 1, 2, or 3."); nl;
+
+scanf("%d",&i); nl;
+
+clrscr ( ) ;
+
+return i;
+
+}
+
+char yes_or_no()
+
+{
+
+/* If full simulation, asks user whether to
+/* pause for user-input biomass values
+
+char c;
+
+int getche();
+
+write "Would you like to be able to enter your own monthly values for "); nl;
+
+write" phytoplankton population? (y/n) ");
+
+c = (char) getche();
+
+if ((c
+
+== 'y') || (c == 'Y')) {
+
+* /
+
+* 1
+
+* /

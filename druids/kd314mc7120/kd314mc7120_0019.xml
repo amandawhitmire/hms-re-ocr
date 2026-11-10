@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kd314mc7120_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3271" PHYSICAL_IMG_NR="1" PC="0.9828">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3271">
+        <TextBlock ID="B1" HPOS="343" VPOS="342" WIDTH="1768" HEIGHT="122">
+          <TextLine ID="B1_L1" HPOS="343" VPOS="342" WIDTH="1768" HEIGHT="60">
+            <String ID="B1_L1_W1" CONTENT="Vassault" HPOS="343" VPOS="342" WIDTH="211" HEIGHT="52" WC="0.9814" />
+            <String ID="B1_L1_W2" CONTENT="," HPOS="556" VPOS="344" WIDTH="12" HEIGHT="50" WC="0.9574" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="A." HPOS="590" VPOS="344" WIDTH="47" HEIGHT="50" WC="0.9666" />
+            <String ID="B1_L1_W4" CONTENT="," HPOS="645" VPOS="344" WIDTH="11" HEIGHT="50" WC="0.9736" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="1983." HPOS="686" VPOS="344" WIDTH="127" HEIGHT="52" WC="0.9828" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="Pages" HPOS="861" VPOS="345" WIDTH="146" HEIGHT="52" WC="0.9856" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="118-" HPOS="1036" VPOS="346" WIDTH="100" HEIGHT="52" WC="0.9824" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="126" HPOS="1163" VPOS="347" WIDTH="84" HEIGHT="50" WC="0.9901" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="in" HPOS="1271" VPOS="348" WIDTH="44" HEIGHT="50" WC="0.9803" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="H." HPOS="1351" VPOS="348" WIDTH="53" HEIGHT="50" WC="0.9774" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="U." HPOS="1426" VPOS="348" WIDTH="49" HEIGHT="51" WC="0.9582" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="Bergmeyer" HPOS="1502" VPOS="348" WIDTH="258" HEIGHT="52" WC="0.9887" />
+            <String ID="B1_L1_W13" CONTENT="," HPOS="1759" VPOS="350" WIDTH="12" HEIGHT="50" WC="0.9648" />
+            <SP />
+            <String ID="B1_L1_W14" CONTENT="ed" HPOS="1795" VPOS="350" WIDTH="56" HEIGHT="51" WC="0.9872" />
+            <String ID="B1_L1_W15" CONTENT="." HPOS="1857" VPOS="351" WIDTH="10" HEIGHT="50" WC="0.9642" />
+            <SP />
+            <String ID="B1_L1_W16" CONTENT="Methods" HPOS="1894" VPOS="350" WIDTH="217" HEIGHT="52" WC="0.9878" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="346" VPOS="409" WIDTH="1665" HEIGHT="50">
+            <String ID="B1_L2_W1" CONTENT="of" HPOS="346" VPOS="409" WIDTH="47" HEIGHT="50" WC="0.9909" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="Enzymatic" HPOS="423" VPOS="409" WIDTH="254" HEIGHT="50" WC="0.9899" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="Analysis" HPOS="709" VPOS="409" WIDTH="204" HEIGHT="50" WC="0.9839" />
+            <String ID="B1_L2_W4" CONTENT="." HPOS="915" VPOS="409" WIDTH="12" HEIGHT="50" WC="0.9255" />
+            <SP />
+            <String ID="B1_L2_W5" CONTENT="Verlag" HPOS="983" VPOS="409" WIDTH="153" HEIGHT="50" WC="0.9927" />
+            <SP />
+            <String ID="B1_L2_W6" CONTENT="Chemie" HPOS="1166" VPOS="409" WIDTH="182" HEIGHT="50" WC="0.9902" />
+            <String ID="B1_L2_W7" CONTENT="," HPOS="1351" VPOS="409" WIDTH="14" HEIGHT="50" WC="0.9726" />
+            <SP />
+            <String ID="B1_L2_W8" CONTENT="Deerfield" HPOS="1394" VPOS="409" WIDTH="213" HEIGHT="50" WC="0.9911" />
+            <SP />
+            <String ID="B1_L2_W9" CONTENT="Beach" HPOS="1639" VPOS="409" WIDTH="146" HEIGHT="50" WC="0.9896" />
+            <String ID="B1_L2_W10" CONTENT="," HPOS="1788" VPOS="409" WIDTH="13" HEIGHT="50" WC="0.9585" />
+            <SP />
+            <String ID="B1_L2_W11" CONTENT="Florida" HPOS="1833" VPOS="409" WIDTH="165" HEIGHT="50" WC="0.9743" />
+            <String ID="B1_L2_W12" CONTENT="." HPOS="1999" VPOS="409" WIDTH="12" HEIGHT="50" WC="0.8866" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

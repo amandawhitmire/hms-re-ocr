@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>td038xn7686_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2508" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.8879">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2508" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="1072" VPOS="948" WIDTH="284" HEIGHT="47">
+          <TextLine ID="B1_L1" HPOS="1072" VPOS="948" WIDTH="284" HEIGHT="47">
+            <String ID="B1_L1_W1" CONTENT="STIMULUS" HPOS="1072" VPOS="948" WIDTH="284" HEIGHT="47" WC="0.9919" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1513" VPOS="2201" WIDTH="137" HEIGHT="175">
+          <TextLine ID="B2_L1" HPOS="1513" VPOS="2201" WIDTH="137" HEIGHT="175">
+            <String ID="B2_L1_W1" CONTENT="کسول" HPOS="1513" VPOS="2201" WIDTH="137" HEIGHT="175" WC="0.6382" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="2289" VPOS="617" WIDTH="217" HEIGHT="43">
+          <TextLine ID="B3_L1" HPOS="2289" VPOS="617" WIDTH="217" HEIGHT="43">
+            <String ID="B3_L1_W1" CONTENT="INFLOW" HPOS="2289" VPOS="617" WIDTH="217" HEIGHT="43" WC="0.9932" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="2215" VPOS="2243" WIDTH="292" HEIGHT="58">
+          <TextLine ID="B4_L1" HPOS="2215" VPOS="2243" WIDTH="292" HEIGHT="58">
+            <String ID="B4_L1_W1" CONTENT="STANDPIPE" HPOS="2215" VPOS="2243" WIDTH="292" HEIGHT="58" WC="0.9284" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

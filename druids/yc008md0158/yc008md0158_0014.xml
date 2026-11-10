@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>yc008md0158_0014</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9865">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="1086" VPOS="188" WIDTH="390" HEIGHT="43">
+          <TextLine ID="B1_L1" HPOS="1086" VPOS="188" WIDTH="390" HEIGHT="43">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="1086" VPOS="189" WIDTH="178" HEIGHT="42" WC="0.9875" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Legend" HPOS="1298" VPOS="188" WIDTH="178" HEIGHT="42" WC="0.9932" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="276" VPOS="380" WIDTH="1922" HEIGHT="57">
+          <TextLine ID="B2_L1" HPOS="276" VPOS="381" WIDTH="1922" HEIGHT="56">
+            <String ID="B2_L1_W1" CONTENT="1" HPOS="276" VPOS="389" WIDTH="27" HEIGHT="48" WC="0.9407" />
+            <String ID="B2_L1_W2" CONTENT=")" HPOS="308" VPOS="388" WIDTH="18" HEIGHT="48" WC="0.9316" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="A" HPOS="361" VPOS="388" WIDTH="30" HEIGHT="48" WC="0.9826" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="map" HPOS="422" VPOS="388" WIDTH="89" HEIGHT="48" WC="0.9904" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="of" HPOS="547" VPOS="387" WIDTH="53" HEIGHT="48" WC="0.9882" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="the" HPOS="635" VPOS="387" WIDTH="85" HEIGHT="48" WC="0.9834" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="Monterey" HPOS="753" VPOS="385" WIDTH="245" HEIGHT="50" WC="0.9711" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="bay" HPOS="1025" VPOS="385" WIDTH="93" HEIGHT="48" WC="0.9910" />
+            <SP />
+            <String ID="B2_L1_W9" CONTENT="region" HPOS="1148" VPOS="384" WIDTH="178" HEIGHT="49" WC="0.9895" />
+            <String ID="B2_L1_W10" CONTENT="," HPOS="1331" VPOS="384" WIDTH="15" HEIGHT="48" WC="0.9477" />
+            <SP />
+            <String ID="B2_L1_W11" CONTENT="showing" HPOS="1389" VPOS="383" WIDTH="206" HEIGHT="49" WC="0.9702" />
+            <SP />
+            <String ID="B2_L1_W12" CONTENT="the" HPOS="1629" VPOS="383" WIDTH="86" HEIGHT="48" WC="0.9648" />
+            <SP />
+            <String ID="B2_L1_W13" CONTENT="five" HPOS="1746" VPOS="382" WIDTH="119" HEIGHT="49" WC="0.9916" />
+            <SP />
+            <String ID="B2_L1_W14" CONTENT="collection" HPOS="1900" VPOS="381" WIDTH="298" HEIGHT="49" WC="0.9923" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="426" VPOS="491" WIDTH="167" HEIGHT="35">
+          <TextLine ID="B3_L1" HPOS="426" VPOS="491" WIDTH="167" HEIGHT="35">
+            <String ID="B3_L1_W1" CONTENT="sites" HPOS="426" VPOS="491" WIDTH="142" HEIGHT="35" WC="0.9911" />
+            <String ID="B3_L1_W2" CONTENT="." HPOS="579" VPOS="491" WIDTH="14" HEIGHT="33" WC="0.9771" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

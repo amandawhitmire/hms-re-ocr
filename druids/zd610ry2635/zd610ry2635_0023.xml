@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zd610ry2635_0023</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2543" HEIGHT="3290" PHYSICAL_IMG_NR="1" PC="0.9471">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2543" HEIGHT="3290">
+        <TextBlock ID="B1" HPOS="220" VPOS="716" WIDTH="1957" HEIGHT="65">
+          <TextLine ID="B1_L1" HPOS="220" VPOS="716" WIDTH="1957" HEIGHT="65">
+            <String ID="B1_L1_W1" CONTENT="%" HPOS="220" VPOS="716" WIDTH="74" HEIGHT="65" WC="0.9146" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="FERTILIZATION" HPOS="319" VPOS="716" WIDTH="649" HEIGHT="65" WC="0.9931" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="WITH" HPOS="996" VPOS="716" WIDTH="218" HEIGHT="65" WC="0.9872" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="&amp;" HPOS="1246" VPOS="716" WIDTH="56" HEIGHT="65" WC="0.9749" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="WITHOUT" HPOS="1330" VPOS="716" WIDTH="405" HEIGHT="65" WC="0.9859" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="SPERACT" HPOS="1762" VPOS="716" WIDTH="415" HEIGHT="65" WC="0.9750" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="523" VPOS="853" WIDTH="128" HEIGHT="64">
+          <TextLine ID="B2_L1" HPOS="523" VPOS="853" WIDTH="128" HEIGHT="64">
+            <String ID="B2_L1_W1" CONTENT="30-" HPOS="523" VPOS="853" WIDTH="128" HEIGHT="64" WC="0.8296" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="371" VPOS="944" WIDTH="64" HEIGHT="737">
+          <TextLine ID="B3_L1" HPOS="371" VPOS="944" WIDTH="64" HEIGHT="737">
+            <String ID="B3_L1_W1" CONTENT="%" HPOS="373" VPOS="1596" WIDTH="62" HEIGHT="85" WC="0.9285" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="FERTILIZATION" HPOS="371" VPOS="944" WIDTH="64" HEIGHT="635" WC="0.9931" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="524" VPOS="1129" WIDTH="94" HEIGHT="54">
+          <TextLine ID="B4_L1" HPOS="524" VPOS="1129" WIDTH="94" HEIGHT="54">
+            <String ID="B4_L1_W1" CONTENT="20" HPOS="524" VPOS="1129" WIDTH="94" HEIGHT="54" WC="0.9906" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="527" VPOS="1401" WIDTH="122" HEIGHT="61">
+          <TextLine ID="B5_L1" HPOS="527" VPOS="1401" WIDTH="122" HEIGHT="61">
+            <String ID="B5_L1_W1" CONTENT="10-" HPOS="527" VPOS="1401" WIDTH="122" HEIGHT="61" WC="0.9475" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="578" VPOS="1677" WIDTH="50" HEIGHT="59">
+          <TextLine ID="B6_L1" HPOS="578" VPOS="1677" WIDTH="50" HEIGHT="59">
+            <String ID="B6_L1_W1" CONTENT="0" HPOS="578" VPOS="1677" WIDTH="50" HEIGHT="59" WC="0.9488" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1447" VPOS="1778" WIDTH="48" HEIGHT="40">
+          <TextLine ID="B7_L1" HPOS="1447" VPOS="1778" WIDTH="48" HEIGHT="40">
+            <String ID="B7_L1_W1" CONTENT="+" HPOS="1447" VPOS="1778" WIDTH="48" HEIGHT="40" WC="0.9072" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="689" VPOS="1818" WIDTH="1024" HEIGHT="76">
+          <TextLine ID="B8_L1" HPOS="689" VPOS="1818" WIDTH="1024" HEIGHT="76">
+            <String ID="B8_L1_W1" CONTENT="PRESENCE" HPOS="689" VPOS="1818" WIDTH="455" HEIGHT="76" WC="0.9885" />
+            <SP />
+            <String ID="B8_L1_W2" CONTENT="OF" HPOS="1173" VPOS="1818" WIDTH="113" HEIGHT="76" WC="0.9858" />
+            <SP />
+            <String ID="B8_L1_W3" CONTENT="SPERACT" HPOS="1307" VPOS="1818" WIDTH="406" HEIGHT="76" WC="0.9848" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1130" VPOS="2068" WIDTH="159" HEIGHT="63">
+          <TextLine ID="B9_L1" HPOS="1130" VPOS="2068" WIDTH="159" HEIGHT="63">
+            <String ID="B9_L1_W1" CONTENT="Fig" HPOS="1130" VPOS="2068" WIDTH="90" HEIGHT="63" WC="0.9653" />
+            <String ID="B9_L1_W2" CONTENT="." HPOS="1218" VPOS="2068" WIDTH="20" HEIGHT="63" WC="0.8451" />
+            <SP />
+            <String ID="B9_L1_W3" CONTENT="6" HPOS="1251" VPOS="2068" WIDTH="38" HEIGHT="63" WC="0.9623" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

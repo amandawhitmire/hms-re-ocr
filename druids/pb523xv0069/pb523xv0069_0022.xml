@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pb523xv0069_0022</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2552" HEIGHT="3287" PHYSICAL_IMG_NR="1" PC="0.9797">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2552" HEIGHT="3287">
+        <TextBlock ID="B1" HPOS="1153" VPOS="461" WIDTH="386" HEIGHT="29">
+          <TextLine ID="B1_L1" HPOS="1153" VPOS="461" WIDTH="386" HEIGHT="29">
+            <String ID="B1_L1_W1" CONTENT="TABLE" HPOS="1153" VPOS="461" WIDTH="144" HEIGHT="29" WC="0.9918" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="LEGENDS" HPOS="1332" VPOS="461" WIDTH="207" HEIGHT="29" WC="0.9902" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="910" VPOS="659" WIDTH="227" HEIGHT="33">
+          <TextLine ID="B2_L1" HPOS="910" VPOS="659" WIDTH="227" HEIGHT="33">
+            <String ID="B2_L1_W1" CONTENT="Table" HPOS="910" VPOS="659" WIDTH="146" HEIGHT="33" WC="0.9799" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="1" HPOS="1093" VPOS="660" WIDTH="23" HEIGHT="31" WC="0.8738" />
+            <String ID="B2_L1_W3" CONTENT=":" HPOS="1124" VPOS="660" WIDTH="13" HEIGHT="31" WC="0.9751" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1208" VPOS="655" WIDTH="569" HEIGHT="40">
+          <TextLine ID="B3_L1" HPOS="1208" VPOS="654" WIDTH="569" HEIGHT="41">
+            <String ID="B3_L1_W1" CONTENT="Velocity" HPOS="1208" VPOS="657" WIDTH="238" HEIGHT="38" WC="0.9895" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="of" HPOS="1482" VPOS="657" WIDTH="53" HEIGHT="35" WC="0.9643" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="Diatoms" HPOS="1569" VPOS="654" WIDTH="208" HEIGHT="38" WC="0.9657" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="909" VPOS="757" WIDTH="839" HEIGHT="38">
+          <TextLine ID="B4_L1" HPOS="909" VPOS="760" WIDTH="839" HEIGHT="33">
+            <String ID="B4_L1_W1" CONTENT="Table" HPOS="909" VPOS="761" WIDTH="148" HEIGHT="32" WC="0.9825" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="2" HPOS="1091" VPOS="763" WIDTH="24" HEIGHT="30" WC="0.9867" />
+            <String ID="B4_L1_W3" CONTENT=":" HPOS="1126" VPOS="763" WIDTH="13" HEIGHT="30" WC="0.9776" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="Chemical" HPOS="1208" VPOS="760" WIDTH="237" HEIGHT="32" WC="0.9900" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="Additives" HPOS="1480" VPOS="760" WIDTH="268" HEIGHT="32" WC="0.9881" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

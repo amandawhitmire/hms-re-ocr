@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zr066mx9000_0031</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3398" HEIGHT="4368" PHYSICAL_IMG_NR="1" PC="0.7279">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3398" HEIGHT="4368">
+        <TextBlock ID="B1" HPOS="344" VPOS="71" WIDTH="289" HEIGHT="176">
+          <TextLine ID="B1_L1" HPOS="344" VPOS="72" WIDTH="290" HEIGHT="175">
+            <String ID="B1_L1_W1" CONTENT="Fig" HPOS="344" VPOS="79" WIDTH="184" HEIGHT="168" WC="0.9532" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="497" VPOS="77" WIDTH="74" HEIGHT="159" WC="0.7171" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="5" HPOS="532" VPOS="72" WIDTH="102" HEIGHT="161" WC="0.9510" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B2" TYPE="text" HPOS="917" VPOS="4047" WIDTH="1745" HEIGHT="156">
+          <TextBlock ID="B2_P1" HPOS="917" VPOS="4051" WIDTH="1745" HEIGHT="74">
+            <TextLine ID="B2_P1_L1" HPOS="917" VPOS="4051" WIDTH="1745" HEIGHT="74">
+              <String ID="B2_P1_L1_W1" CONTENT="fastnos" HPOS="917" VPOS="4051" WIDTH="270" HEIGHT="74" WC="0.4112" />
+              <SP />
+              <String ID="B2_P1_L1_W2" CONTENT="bigil.v" HPOS="1203" VPOS="4051" WIDTH="236" HEIGHT="74" WC="0.7190" />
+              <String ID="B2_P1_L1_W3" CONTENT="." HPOS="1424" VPOS="4051" WIDTH="35" HEIGHT="74" WC="0.3802" />
+              <String ID="B2_P1_L1_W4" CONTENT="(" HPOS="1450" VPOS="4051" WIDTH="33" HEIGHT="74" WC="0.4671" />
+              <String ID="B2_P1_L1_W5" CONTENT="saluquode" HPOS="1479" VPOS="4051" WIDTH="403" HEIGHT="74" WC="0.4075" />
+              <String ID="B2_P1_L1_W6" CONTENT=")" HPOS="1882" VPOS="4051" WIDTH="40" HEIGHT="74" WC="0.4847" />
+              <SP />
+              <String ID="B2_P1_L1_W7" CONTENT="Tato" HPOS="1939" VPOS="4051" WIDTH="378" HEIGHT="74" WC="0.4897" />
+              <SP />
+              <String ID="B2_P1_L1_W8" CONTENT="nolimeter" HPOS="2339" VPOS="4051" WIDTH="323" HEIGHT="74" WC="0.4886" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B2_P2" HPOS="1475" VPOS="4149" WIDTH="968" HEIGHT="53">
+            <TextLine ID="B2_P2_L1" HPOS="1475" VPOS="4150" WIDTH="968" HEIGHT="52">
+              <String ID="B2_P2_L1_W1" CONTENT="noito" HPOS="1475" VPOS="4152" WIDTH="184" HEIGHT="50" WC="0.8118" />
+              <SP />
+              <String ID="B2_P2_L1_W2" CONTENT="duoni" HPOS="1663" VPOS="4151" WIDTH="199" HEIGHT="50" WC="0.8097" />
+              <SP />
+              <String ID="B2_P2_L1_W3" CONTENT="quod" HPOS="1900" VPOS="4150" WIDTH="166" HEIGHT="50" WC="0.5026" />
+              <SP />
+              <String ID="B2_P2_L1_W4" CONTENT="Setto" HPOS="2101" VPOS="4150" WIDTH="342" HEIGHT="49" WC="0.5056" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

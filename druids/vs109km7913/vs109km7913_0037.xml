@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vs109km7913_0037</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2514" HEIGHT="3251" PHYSICAL_IMG_NR="1" PC="0.9827">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2514" HEIGHT="3251">
+        <TextBlock ID="B1" HPOS="1164" VPOS="974" WIDTH="358" HEIGHT="47">
+          <TextLine ID="B1_L1" HPOS="1164" VPOS="974" WIDTH="358" HEIGHT="47">
+            <String ID="B1_L1_W1" CONTENT="APPENDIX" HPOS="1164" VPOS="975" WIDTH="294" HEIGHT="46" WC="0.9891" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="B" HPOS="1487" VPOS="974" WIDTH="35" HEIGHT="41" WC="0.9773" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="702" VPOS="1030" WIDTH="1325" HEIGHT="59">
+          <TextLine ID="B2_L1" HPOS="702" VPOS="1030" WIDTH="1326" HEIGHT="59">
+            <String ID="B2_L1_W1" CONTENT="STRESS" HPOS="702" VPOS="1048" WIDTH="204" HEIGHT="41" WC="0.9822" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="DIAGRAMS" HPOS="933" VPOS="1042" WIDTH="296" HEIGHT="43" WC="0.9886" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="FOR" HPOS="1258" VPOS="1040" WIDTH="101" HEIGHT="40" WC="0.9843" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="&quot;" HPOS="1389" VPOS="1041" WIDTH="18" HEIGHT="37" WC="0.9507" />
+            <String ID="B2_L1_W5" CONTENT="LOW" HPOS="1413" VPOS="1038" WIDTH="124" HEIGHT="40" WC="0.9444" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="PROFILE" HPOS="1566" VPOS="1035" WIDTH="226" HEIGHT="41" WC="0.9730" />
+            <String ID="B2_L1_W7" CONTENT="&quot;" HPOS="1795" VPOS="1035" WIDTH="21" HEIGHT="37" WC="0.9350" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="MODEL" HPOS="1845" VPOS="1030" WIDTH="183" HEIGHT="41" WC="0.9910" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

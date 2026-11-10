@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fy174cn0666_0033</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3362" HEIGHT="4350" PHYSICAL_IMG_NR="1" PC="0.8544">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3362" HEIGHT="4350">
+        <TextBlock ID="B1" HPOS="832" VPOS="306" WIDTH="330" HEIGHT="134">
+          <TextLine ID="B1_L1" HPOS="832" VPOS="306" WIDTH="330" HEIGHT="134">
+            <String ID="B1_L1_W1" CONTENT="BDE" HPOS="832" VPOS="306" WIDTH="330" HEIGHT="134" WC="0.7354" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1174" VPOS="723" WIDTH="359" HEIGHT="105">
+          <TextLine ID="B2_L1" HPOS="1174" VPOS="723" WIDTH="359" HEIGHT="105">
+            <String ID="B2_L1_W1" CONTENT="A20" HPOS="1174" VPOS="723" WIDTH="359" HEIGHT="105" WC="0.7000" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1545" VPOS="1403" WIDTH="269" HEIGHT="51">
+          <TextLine ID="B3_L1" HPOS="1545" VPOS="1403" WIDTH="269" HEIGHT="51">
+            <String ID="B3_L1_W1" CONTENT="Appendix" HPOS="1545" VPOS="1403" WIDTH="269" HEIGHT="51" WC="0.9906" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="3088" VPOS="107" WIDTH="217" HEIGHT="112">
+          <TextLine ID="B4_L1" HPOS="3088" VPOS="107" WIDTH="217" HEIGHT="112">
+            <String ID="B4_L1_W1" CONTENT="383" HPOS="3088" VPOS="107" WIDTH="217" HEIGHT="112" WC="0.9914" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pz380bx9306_0045</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2502" HEIGHT="3253" PHYSICAL_IMG_NR="1" PC="0.6670">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2502" HEIGHT="3253">
+        <TextBlock ID="B1" HPOS="538" VPOS="740" WIDTH="213" HEIGHT="72">
+          <TextLine ID="B1_L1" HPOS="538" VPOS="740" WIDTH="213" HEIGHT="72">
+            <String ID="B1_L1_W1" CONTENT="T" HPOS="538" VPOS="740" WIDTH="213" HEIGHT="72" WC="0.4780" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2320" VPOS="89" WIDTH="163" HEIGHT="54">
+          <TextLine ID="B2_L1" HPOS="2320" VPOS="89" WIDTH="163" HEIGHT="54">
+            <String ID="B2_L1_W1" CONTENT="332" HPOS="2320" VPOS="89" WIDTH="163" HEIGHT="54" WC="0.9860" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="918" VPOS="725" WIDTH="61" HEIGHT="120">
+          <TextLine ID="B3_L1" HPOS="918" VPOS="725" WIDTH="61" HEIGHT="120">
+            <String ID="B3_L1_W1" CONTENT="T" HPOS="918" VPOS="725" WIDTH="61" HEIGHT="120" WC="0.4265" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="859" VPOS="2354" WIDTH="142" HEIGHT="611">
+          <TextLine ID="B4_L1" HPOS="859" VPOS="2354" WIDTH="142" HEIGHT="611">
+            <String ID="B4_L1_W1" CONTENT="לייייי" HPOS="859" VPOS="2354" WIDTH="142" HEIGHT="611" WC="0.7021" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="579" VPOS="1615" WIDTH="199" HEIGHT="298">
+          <TextLine ID="B5_L1" HPOS="579" VPOS="1615" WIDTH="198" HEIGHT="297">
+            <String ID="B5_L1_W1" CONTENT="שע" HPOS="579" VPOS="1770" WIDTH="184" HEIGHT="142" WC="0.8289" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="ח" HPOS="600" VPOS="1615" WIDTH="177" HEIGHT="67" WC="0.2031" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="19" VPOS="2652" WIDTH="46" HEIGHT="189">
+          <TextLine ID="B6_L1" HPOS="19" VPOS="2652" WIDTH="46" HEIGHT="189">
+            <String ID="B6_L1_W1" CONTENT="FIG" HPOS="19" VPOS="2702" WIDTH="46" HEIGHT="139" WC="0.7280" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="8" HPOS="19" VPOS="2652" WIDTH="46" HEIGHT="46" WC="0.9726" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

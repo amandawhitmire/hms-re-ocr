@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>mc581jy9772_0034</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3257" PHYSICAL_IMG_NR="1" PC="0.9864">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3257">
+        <TextBlock ID="B1" HPOS="563" VPOS="2579" WIDTH="55" HEIGHT="236">
+          <TextLine ID="B1_L1" HPOS="563" VPOS="2579" WIDTH="55" HEIGHT="236">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="564" VPOS="2653" WIDTH="54" HEIGHT="162" WC="0.9894" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="11" HPOS="563" VPOS="2579" WIDTH="51" HEIGHT="49" WC="0.9918" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1699" VPOS="2517" WIDTH="46" HEIGHT="264">
+          <TextLine ID="B2_L1" HPOS="1699" VPOS="2517" WIDTH="46" HEIGHT="264">
+            <String ID="B2_L1_W1" CONTENT="San" HPOS="1699" VPOS="2691" WIDTH="44" HEIGHT="90" WC="0.9641" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Felipe" HPOS="1701" VPOS="2517" WIDTH="44" HEIGHT="156" WC="0.9902" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1705" VPOS="1532" WIDTH="51" HEIGHT="245">
+          <TextLine ID="B3_L1" HPOS="1705" VPOS="1532" WIDTH="51" HEIGHT="245">
+            <String ID="B3_L1_W1" CONTENT="San" HPOS="1705" VPOS="1689" WIDTH="47" HEIGHT="88" WC="0.9866" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Diego" HPOS="1708" VPOS="1532" WIDTH="48" HEIGHT="140" WC="0.9886" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

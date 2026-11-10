@@ -1,0 +1,101 @@
+Table 2. Analysis of Variance: The Effect of Time Period, Species, and Temperature on Whelk Feeding Rates Per Container.
+
+Dep Var: Feeding Rate N: 96 Multiple R: 0.810 Squared multiple R: 0.656
+
+Source
+
+Sum - of - Squares
+
+df
+
+Mean-Square F-ratio
+
+P
+
+PERIOD
+
+20.311
+
+SPECIES
+
+1.116
+
+TEMP
+
+24.634
+
+PERIOD * SPECIES
+
+7.978
+
+PERIOD TEMP
+
+0.761
+
+SPECIES * TEMP
+
+0.528
+
+312362
+
+6.770
+
+15.614
+
+0.000
+
+1
+
+1.116
+
+2.575
+
+0.113
+
+12.317
+
+28.405
+
+0.000
+
+2.659
+
+6.133
+
+0.001
+
+0.127
+
+0.292
+
+0.939
+
+0.264
+
+0.609
+
+0.547
+
+PERIOD * SPECIES
+
+* TEMP
+
+4.148
+
+6
+
+0.691
+
+1.594
+
+0.161
+
+Error
+
+31.220
+
+72
+
+0.434
+
+25

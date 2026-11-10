@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gq432dm3498_0002</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2523" HEIGHT="3258" PHYSICAL_IMG_NR="1" PC="0.8568">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2523" HEIGHT="3258">
+        <TextBlock ID="B1" HPOS="1162" VPOS="3171" WIDTH="96" HEIGHT="81">
+          <TextLine ID="B1_L1" HPOS="1162" VPOS="3171" WIDTH="96" HEIGHT="81">
+            <String ID="B1_L1_W1" CONTENT="S" HPOS="1162" VPOS="3171" WIDTH="96" HEIGHT="81" WC="0.7916" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="752" VPOS="2962" WIDTH="944" HEIGHT="97">
+          <TextLine ID="B2_L1" HPOS="752" VPOS="2962" WIDTH="944" HEIGHT="97">
+            <String ID="B2_L1_W1" CONTENT="COTTON" HPOS="1389" VPOS="2962" WIDTH="307" HEIGHT="77" WC="0.9545" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="FIBER" HPOS="1135" VPOS="2973" WIDTH="232" HEIGHT="73" WC="0.9016" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="CONTENT" HPOS="752" VPOS="2981" WIDTH="369" HEIGHT="78" WC="0.9900" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="2258" VPOS="58" WIDTH="108" HEIGHT="96">
+          <TextLine ID="B3_L1" HPOS="2258" VPOS="58" WIDTH="108" HEIGHT="96">
+            <String ID="B3_L1_W1" CONTENT="26" HPOS="2258" VPOS="58" WIDTH="108" HEIGHT="96" WC="0.5735" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B4" TYPE="text" HPOS="782" VPOS="286" WIDTH="864" HEIGHT="342">
+          <TextBlock ID="B4_P1" HPOS="872" VPOS="438" WIDTH="669" HEIGHT="184">
+            <TextLine ID="B4_P1_L1" HPOS="872" VPOS="438" WIDTH="669" HEIGHT="184">
+              <String ID="B4_P1_L1_W1" CONTENT="EATON'S" HPOS="872" VPOS="438" WIDTH="669" HEIGHT="184" WC="0.9370" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B4_P2" HPOS="782" VPOS="286" WIDTH="861" HEIGHT="126">
+            <TextLine ID="B4_P2_L1" HPOS="782" VPOS="286" WIDTH="861" HEIGHT="126">
+              <String ID="B4_P2_L1_W1" CONTENT="CORRASABLE" HPOS="782" VPOS="286" WIDTH="861" HEIGHT="126" WC="0.9797" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B5" HPOS="1004" VPOS="132" WIDTH="417" HEIGHT="116">
+          <TextLine ID="B5_L1" HPOS="1004" VPOS="132" WIDTH="417" HEIGHT="116">
+            <String ID="B5_L1_W1" CONTENT="BOND" HPOS="1004" VPOS="132" WIDTH="417" HEIGHT="116" WC="0.9690" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1166" VPOS="12" WIDTH="192" HEIGHT="76">
+          <TextLine ID="B6_L1" HPOS="1166" VPOS="12" WIDTH="192" HEIGHT="76">
+            <String ID="B6_L1_W1" CONTENT="US" HPOS="1166" VPOS="12" WIDTH="192" HEIGHT="76" WC="0.8907" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

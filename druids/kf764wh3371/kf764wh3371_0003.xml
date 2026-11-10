@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kf764wh3371_0003</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2513" HEIGHT="3283" PHYSICAL_IMG_NR="1" PC="0.8163">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2513" HEIGHT="3283">
+        <TextBlock ID="B1" HPOS="1290" VPOS="166" WIDTH="493" HEIGHT="77">
+          <TextLine ID="B1_L1" HPOS="1290" VPOS="166" WIDTH="493" HEIGHT="77">
+            <String ID="B1_L1_W1" CONTENT="ВЕН" HPOS="1290" VPOS="166" WIDTH="161" HEIGHT="73" WC="0.3943" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="СПИЛЕЙИ" HPOS="1470" VPOS="168" WIDTH="313" HEIGHT="75" WC="0.5948" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="963" VPOS="344" WIDTH="369" HEIGHT="205">
+          <TextLine ID="B2_L1" HPOS="963" VPOS="344" WIDTH="369" HEIGHT="205">
+            <String ID="B2_L1_W1" CONTENT="BELL" HPOS="963" VPOS="344" WIDTH="369" HEIGHT="205" WC="0.6041" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1420" VPOS="354" WIDTH="192" HEIGHT="134">
+          <TextLine ID="B3_L1" HPOS="1420" VPOS="354" WIDTH="192" HEIGHT="134">
+            <String ID="B3_L1_W1" CONTENT="HI" HPOS="1420" VPOS="354" WIDTH="192" HEIGHT="134" WC="0.9553" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B4" TYPE="text" HPOS="1078" VPOS="514" WIDTH="500" HEIGHT="161">
+          <TextBlock ID="B4_P1" HPOS="1147" VPOS="515" WIDTH="431" HEIGHT="110">
+            <TextLine ID="B4_P1_L1" HPOS="1147" VPOS="515" WIDTH="431" HEIGHT="110">
+              <String ID="B4_P1_L1_W1" CONTENT="POWD" HPOS="1147" VPOS="515" WIDTH="431" HEIGHT="110" WC="0.6230" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B4_P2" HPOS="1079" VPOS="632" WIDTH="358" HEIGHT="36">
+            <TextLine ID="B4_P2_L1" HPOS="1079" VPOS="632" WIDTH="358" HEIGHT="36">
+              <String ID="B4_P2_L1_W1" CONTENT="RUNNING" HPOS="1079" VPOS="632" WIDTH="204" HEIGHT="35" WC="0.9888" />
+              <SP />
+              <String ID="B4_P2_L1_W2" CONTENT="HEAD" HPOS="1319" VPOS="634" WIDTH="118" HEIGHT="34" WC="0.9906" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B5" HPOS="2421" VPOS="29" WIDTH="78" HEIGHT="62">
+          <TextLine ID="B5_L1" HPOS="2421" VPOS="29" WIDTH="78" HEIGHT="62">
+            <String ID="B5_L1_W1" CONTENT="68" HPOS="2421" VPOS="29" WIDTH="78" HEIGHT="62" WC="0.9894" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B6" TYPE="text" HPOS="957" VPOS="776" WIDTH="781" HEIGHT="174">
+          <TextBlock ID="B6_P1" HPOS="959" VPOS="784" WIDTH="625" HEIGHT="40">
+            <TextLine ID="B6_P1_L1" HPOS="959" VPOS="784" WIDTH="625" HEIGHT="40">
+              <String ID="B6_P1_L1_W1" CONTENT="DDT" HPOS="959" VPOS="784" WIDTH="87" HEIGHT="40" WC="0.9869" />
+              <SP />
+              <String ID="B6_P1_L1_W2" CONTENT="Uptake" HPOS="1077" VPOS="784" WIDTH="178" HEIGHT="40" WC="0.9915" />
+              <SP />
+              <String ID="B6_P1_L1_W3" CONTENT="by" HPOS="1288" VPOS="784" WIDTH="61" HEIGHT="40" WC="0.9727" />
+              <SP />
+              <String ID="B6_P1_L1_W4" CONTENT="Mytilus" HPOS="1376" VPOS="784" WIDTH="208" HEIGHT="40" WC="0.9916" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B6_P2" HPOS="966" VPOS="823" WIDTH="771" HEIGHT="127">
+            <TextLine ID="B6_P2_L1" HPOS="966" VPOS="823" WIDTH="771" HEIGHT="127">
+              <String ID="B6_P2_L1_W1" CONTENT="DIVINOND" HPOS="966" VPOS="823" WIDTH="771" HEIGHT="127" WC="0.7731" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

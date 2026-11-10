@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sy890gb2426_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2521" HEIGHT="3260" PHYSICAL_IMG_NR="1" PC="0.9869">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2521" HEIGHT="3260">
+        <TextBlock ID="B1" HPOS="1984" VPOS="1580" WIDTH="100" HEIGHT="328">
+          <TextLine ID="B1_L1" HPOS="1984" VPOS="1580" WIDTH="100" HEIGHT="328">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="1984" VPOS="1580" WIDTH="98" HEIGHT="265" WC="0.9853" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="1994" VPOS="1879" WIDTH="90" HEIGHT="29" WC="0.9837" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1586" VPOS="855" WIDTH="50" HEIGHT="449">
+          <TextLine ID="B2_L1" HPOS="1586" VPOS="855" WIDTH="50" HEIGHT="449">
+            <String ID="B2_L1_W1" CONTENT="Caudal" HPOS="1586" VPOS="855" WIDTH="50" HEIGHT="225" WC="0.9890" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Vessels" HPOS="1587" VPOS="1098" WIDTH="48" HEIGHT="206" WC="0.9914" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B3" TYPE="text" HPOS="1322" VPOS="1500" WIDTH="160" HEIGHT="512">
+          <TextBlock ID="B3_P1" HPOS="1425" VPOS="1500" WIDTH="57" HEIGHT="512">
+            <TextLine ID="B3_P1_L1" HPOS="1425" VPOS="1500" WIDTH="57" HEIGHT="512">
+              <String ID="B3_P1_L1_W1" CONTENT="Bulbus" HPOS="1426" VPOS="1500" WIDTH="56" HEIGHT="209" WC="0.9891" />
+              <SP />
+              <String ID="B3_P1_L1_W2" CONTENT="Arteriosis" HPOS="1425" VPOS="1728" WIDTH="56" HEIGHT="284" WC="0.9796" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B3_P2" HPOS="1322" VPOS="1645" WIDTH="57" HEIGHT="280">
+            <TextLine ID="B3_P2_L1" HPOS="1322" VPOS="1645" WIDTH="57" HEIGHT="280">
+              <String ID="B3_P2_L1_W1" CONTENT="Ventricle" HPOS="1322" VPOS="1645" WIDTH="57" HEIGHT="280" WC="0.9892" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sv092zw7960_0017</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3271" PHYSICAL_IMG_NR="1" PC="0.9464">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3271">
+        <TextBlock ID="B1" HPOS="530" VPOS="1613" WIDTH="31" HEIGHT="101">
+          <TextLine ID="B1_L1" HPOS="530" VPOS="1613" WIDTH="31" HEIGHT="101">
+            <String ID="B1_L1_W1" CONTENT="water" HPOS="530" VPOS="1613" WIDTH="31" HEIGHT="101" WC="0.9885" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="533" VPOS="1418" WIDTH="77" HEIGHT="245">
+          <TextLine ID="B2_L1" HPOS="533" VPOS="1418" WIDTH="33" HEIGHT="157">
+            <String ID="B2_L1_W1" CONTENT="pressure" HPOS="533" VPOS="1418" WIDTH="33" HEIGHT="157" WC="0.9926" />
+          </TextLine>
+          <TextLine ID="B2_L2" HPOS="576" VPOS="1481" WIDTH="34" HEIGHT="182">
+            <String ID="B2_L2_W1" CONTENT="x" HPOS="581" VPOS="1641" WIDTH="29" HEIGHT="22" WC="0.6189" />
+            <SP />
+            <String ID="B2_L2_W2" CONTENT="10e2" HPOS="577" VPOS="1543" WIDTH="32" HEIGHT="77" WC="0.9551" />
+            <SP />
+            <String ID="B2_L2_W3" CONTENT="Pa" HPOS="576" VPOS="1481" WIDTH="31" HEIGHT="44" WC="0.9618" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="739" VPOS="1545" WIDTH="41" HEIGHT="24">
+          <TextLine ID="B3_L1" HPOS="739" VPOS="1545" WIDTH="41" HEIGHT="24">
+            <String ID="B3_L1_W1" CONTENT="10" HPOS="739" VPOS="1545" WIDTH="41" HEIGHT="24" WC="0.9907" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="735" VPOS="1106" WIDTH="47" HEIGHT="27">
+          <TextLine ID="B4_L1" HPOS="735" VPOS="1106" WIDTH="47" HEIGHT="27">
+            <String ID="B4_L1_W1" CONTENT="20" HPOS="735" VPOS="1106" WIDTH="47" HEIGHT="27" WC="0.9886" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="740" VPOS="1094" WIDTH="34" HEIGHT="64">
+          <TextLine ID="B5_L1" HPOS="740" VPOS="1094" WIDTH="34" HEIGHT="64">
+            <String ID="B5_L1_W1" CONTENT="20" HPOS="740" VPOS="1094" WIDTH="34" HEIGHT="64" WC="0.9168" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1248" VPOS="985" WIDTH="142" HEIGHT="63">
+          <TextLine ID="B6_L1" HPOS="1248" VPOS="986" WIDTH="143" HEIGHT="62">
+            <String ID="B6_L1_W1" CONTENT="Fig" HPOS="1248" VPOS="989" WIDTH="81" HEIGHT="59" WC="0.9889" />
+            <String ID="B6_L1_W2" CONTENT="." HPOS="1323" VPOS="989" WIDTH="16" HEIGHT="53" WC="0.9789" />
+            <SP />
+            <String ID="B6_L1_W3" CONTENT="4" HPOS="1354" VPOS="986" WIDTH="37" HEIGHT="54" WC="0.9807" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="757" VPOS="1982" WIDTH="25" HEIGHT="27">
+          <TextLine ID="B7_L1" HPOS="757" VPOS="1982" WIDTH="25" HEIGHT="27">
+            <String ID="B7_L1_W1" CONTENT="0" HPOS="757" VPOS="1982" WIDTH="25" HEIGHT="27" WC="0.9308" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="875" VPOS="2030" WIDTH="75" HEIGHT="29">
+          <TextLine ID="B8_L1" HPOS="875" VPOS="2030" WIDTH="75" HEIGHT="29">
+            <String ID="B8_L1_W1" CONTENT="FSW" HPOS="875" VPOS="2030" WIDTH="75" HEIGHT="29" WC="0.9863" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1078" VPOS="2030" WIDTH="70" HEIGHT="30">
+          <TextLine ID="B9_L1" HPOS="1078" VPOS="2030" WIDTH="70" HEIGHT="30">
+            <String ID="B9_L1_W1" CONTENT="OCa" HPOS="1078" VPOS="2030" WIDTH="70" HEIGHT="30" WC="0.7018" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1265" VPOS="2029" WIDTH="97" HEIGHT="29">
+          <TextLine ID="B10_L1" HPOS="1265" VPOS="2029" WIDTH="97" HEIGHT="29">
+            <String ID="B10_L1_W1" CONTENT="EDTA" HPOS="1265" VPOS="2029" WIDTH="97" HEIGHT="29" WC="0.9886" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="1463" VPOS="2029" WIDTH="105" HEIGHT="32">
+          <TextLine ID="B11_L1" HPOS="1463" VPOS="2029" WIDTH="105" HEIGHT="32">
+            <String ID="B11_L1_W1" CONTENT="CaCl2" HPOS="1463" VPOS="2029" WIDTH="105" HEIGHT="32" WC="0.9031" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="1667" VPOS="2032" WIDTH="96" HEIGHT="27">
+          <TextLine ID="B12_L1" HPOS="1667" VPOS="2032" WIDTH="96" HEIGHT="27">
+            <String ID="B12_L1_W1" CONTENT="&gt;" HPOS="1667" VPOS="2032" WIDTH="23" HEIGHT="27" WC="0.8003" />
+            <String ID="B12_L1_W2" CONTENT="FSW" HPOS="1682" VPOS="2032" WIDTH="81" HEIGHT="27" WC="0.9828" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B13" HPOS="1131" VPOS="2136" WIDTH="374" HEIGHT="29">
+          <TextLine ID="B13_L1" HPOS="1131" VPOS="2136" WIDTH="374" HEIGHT="29">
+            <String ID="B13_L1_W1" CONTENT="calcium" HPOS="1131" VPOS="2136" WIDTH="141" HEIGHT="29" WC="0.9927" />
+            <SP />
+            <String ID="B13_L1_W2" CONTENT="conditions" HPOS="1311" VPOS="2136" WIDTH="194" HEIGHT="29" WC="0.9847" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B14" HPOS="2369" VPOS="144" WIDTH="61" HEIGHT="38">
+          <TextLine ID="B14_L1" HPOS="2369" VPOS="144" WIDTH="61" HEIGHT="38">
+            <String ID="B14_L1_W1" CONTENT="16" HPOS="2369" VPOS="144" WIDTH="61" HEIGHT="38" WC="0.9907" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

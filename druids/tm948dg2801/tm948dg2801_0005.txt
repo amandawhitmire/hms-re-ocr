@@ -1,0 +1,41 @@
+hpolygon' was used to output gray values within the area covered
+by the cuttlefish, and an equal size area on the adjacent
+substrate. The function 'hlist' was used to obtain the mean,
+
+standard deviation, miniumum and maximum values, skew and
+kurtosis of the histograms of the pixel gray scales from
+Each histogram quantatively measures
+
+cuttlefish and background.
+
+how well the animal was matches the overall tone of the
+
+substrate .
+
+A spectral analysis method was used to determine how well the
+
+(on the
+
+cuttlefish were matching pattern. Spectral analysis is often
+used to interpret time in terms of frequency (Chatfield 1984).
+In this study, it was used to convert distance in space
+back of the cuttlefish or on the substrate) into spatial
+frequency. The result of the analysis is presented as
+spectrum. The abcissa represents the spatial frequency of
+periodic patterns in inverse mm. and the ordinate is the power
+spectrum, a measure of the variance in gray scale associated with
+each spatial frequency (Chatfield, 1984).
+
+P
+
+The function 'profile' was used to draw a transect 9
+pixels wide across the back of the animal and an equal-length
+transect through the adjacent substrate. Each pixel corresponds
+to a distance in space of .3mm. The gray values obtained were
+then transferred to an IBM XT personal computer. Here, the gray
+scale values were filtered with a high pass digital filter to
+
+remove the mean and the first five harmonics of the fundamental
+
+spatial frequency. The filtering was done to remove the low
+frequency patterns associated with the overall length of the

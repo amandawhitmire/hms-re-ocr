@@ -1,0 +1,66 @@
+reasonably valid for large depolarizations, they are only used as initial guesses to fit the
+largest command step, after which the fit values for the previous step are used as guesses
+for the next smaller step. The equation used for fitting the conductance traces is a
+variation on the equations used in Hodgkin and Huxley's original 1952 paper, the
+
+primary difference being that the potassium model has an inactivating particle similar to
+
+sodium channels. The equations for the IK-model are thus:
+
+gkf
+
+= n hgkƒ›
+
+n = n- ( n - n ) exp ( -1 / T ) ,
+
+( 2 )
+
+( 3 )
+
+h = h- ( h - h ) exp ( -1 / T ) ,
+
+( 4 )
+
+n∞
+
+where
+
+ho
+
+=
+
+=
+
+an
+
++ Bn
+
+ant
+
+απ
+
+ant Ba
+
+and
+
+n
+
+Th
+
+=
+
+=
+
+1
+
+αn + B
+
+1
+
+an + Bn
+
+10
+
+( 5 )
+
+( 6 )

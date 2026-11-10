@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>hd008gc7852_0025</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2535" HEIGHT="3301" PHYSICAL_IMG_NR="1" PC="0.8116">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2535" HEIGHT="3301">
+        <TextBlock ID="B1" HPOS="620" VPOS="47" WIDTH="635" HEIGHT="91">
+          <TextLine ID="B1_L1" HPOS="620" VPOS="47" WIDTH="635" HEIGHT="91">
+            <String ID="B1_L1_W1" CONTENT="Snodgrass" HPOS="620" VPOS="47" WIDTH="386" HEIGHT="90" WC="0.6604" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="p" HPOS="1034" VPOS="50" WIDTH="67" HEIGHT="86" WC="0.9037" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="1088" VPOS="51" WIDTH="43" HEIGHT="86" WC="0.6955" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="25" HPOS="1127" VPOS="51" WIDTH="128" HEIGHT="87" WC="0.9677" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2336" VPOS="28" WIDTH="159" HEIGHT="57">
+          <TextLine ID="B2_L1" HPOS="2336" VPOS="28" WIDTH="159" HEIGHT="57">
+            <String ID="B2_L1_W1" CONTENT="248" HPOS="2336" VPOS="28" WIDTH="159" HEIGHT="57" WC="0.9903" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1490" VPOS="921" WIDTH="31" HEIGHT="52">
+          <TextLine ID="B3_L1" HPOS="1490" VPOS="921" WIDTH="31" HEIGHT="52">
+            <String ID="B3_L1_W1" CONTENT="A1" HPOS="1490" VPOS="921" WIDTH="31" HEIGHT="52" WC="0.8122" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="675" VPOS="1720" WIDTH="836" HEIGHT="138">
+          <TextLine ID="B4_L1" HPOS="675" VPOS="1720" WIDTH="837" HEIGHT="138">
+            <String ID="B4_L1_W1" CONTENT="Sigine" HPOS="675" VPOS="1742" WIDTH="257" HEIGHT="116" WC="0.7160" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="4" HPOS="938" VPOS="1739" WIDTH="73" HEIGHT="108" WC="0.7029" />
+            <String ID="B4_L1_W3" CONTENT="," HPOS="990" VPOS="1738" WIDTH="60" HEIGHT="107" WC="0.6726" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="Right" HPOS="1064" VPOS="1727" WIDTH="267" HEIGHT="116" WC="0.8188" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="side" HPOS="1303" VPOS="1720" WIDTH="209" HEIGHT="113" WC="0.5961" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

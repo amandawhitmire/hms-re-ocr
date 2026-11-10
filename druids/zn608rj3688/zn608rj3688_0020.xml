@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zn608rj3688_0020</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2508" HEIGHT="3260" PHYSICAL_IMG_NR="1" PC="0.9751">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2508" HEIGHT="3260">
+        <TextBlock ID="B1" HPOS="1481" VPOS="1896" WIDTH="210" HEIGHT="46">
+          <TextLine ID="B1_L1" HPOS="1481" VPOS="1896" WIDTH="210" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="20" HPOS="1481" VPOS="1896" WIDTH="73" HEIGHT="43" WC="0.9852" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="msec" HPOS="1583" VPOS="1898" WIDTH="108" HEIGHT="44" WC="0.9917" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1951" VPOS="19" WIDTH="380" HEIGHT="99">
+          <TextLine ID="B2_L1" HPOS="1951" VPOS="19" WIDTH="380" HEIGHT="99">
+            <String ID="B2_L1_W1" CONTENT="Figure" HPOS="1951" VPOS="21" WIDTH="276" HEIGHT="97" WC="0.9914" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="4" HPOS="2258" VPOS="19" WIDTH="73" HEIGHT="91" WC="0.9875" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1979" VPOS="1465" WIDTH="158" HEIGHT="42">
+          <TextLine ID="B3_L1" HPOS="1979" VPOS="1465" WIDTH="158" HEIGHT="41">
+            <String ID="B3_L1_W1" CONTENT="0.4" HPOS="1979" VPOS="1465" WIDTH="94" HEIGHT="41" WC="0.9424" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="V" HPOS="2099" VPOS="1467" WIDTH="38" HEIGHT="39" WC="0.9523" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

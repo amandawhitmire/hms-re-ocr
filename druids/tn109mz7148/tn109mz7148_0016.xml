@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tn109mz7148_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3276" PHYSICAL_IMG_NR="1" PC="0.9809">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3276">
+        <ComposedBlock ID="B1" TYPE="text" HPOS="302" VPOS="719" WIDTH="1881" HEIGHT="117">
+          <TextBlock ID="B1_P1" HPOS="303" VPOS="719" WIDTH="1880" HEIGHT="62">
+            <TextLine ID="B1_P1_L1" HPOS="303" VPOS="719" WIDTH="1880" HEIGHT="62">
+              <String ID="B1_P1_L1_W1" CONTENT="Table" HPOS="303" VPOS="719" WIDTH="124" HEIGHT="41" WC="0.9847" />
+              <SP />
+              <String ID="B1_P1_L1_W2" CONTENT="1." HPOS="451" VPOS="721" WIDTH="46" HEIGHT="40" WC="0.9206" />
+              <SP />
+              <String ID="B1_P1_L1_W3" CONTENT="Mean" HPOS="550" VPOS="722" WIDTH="103" HEIGHT="40" WC="0.9915" />
+              <SP />
+              <String ID="B1_P1_L1_W4" CONTENT="ammonia" HPOS="678" VPOS="724" WIDTH="172" HEIGHT="40" WC="0.9647" />
+              <SP />
+              <String ID="B1_P1_L1_W5" CONTENT="excretion" HPOS="878" VPOS="726" WIDTH="226" HEIGHT="42" WC="0.9906" />
+              <SP />
+              <String ID="B1_P1_L1_W6" CONTENT="rate" HPOS="1130" VPOS="729" WIDTH="98" HEIGHT="40" WC="0.9931" />
+              <SP />
+              <String ID="B1_P1_L1_W7" CONTENT="values" HPOS="1255" VPOS="731" WIDTH="148" HEIGHT="40" WC="0.9919" />
+              <SP />
+              <String ID="B1_P1_L1_W8" CONTENT="for" HPOS="1431" VPOS="733" WIDTH="74" HEIGHT="40" WC="0.9858" />
+              <SP />
+              <String ID="B1_P1_L1_W9" CONTENT="selected" HPOS="1534" VPOS="734" WIDTH="195" HEIGHT="41" WC="0.9910" />
+              <SP />
+              <String ID="B1_P1_L1_W10" CONTENT="size" HPOS="1759" VPOS="737" WIDTH="96" HEIGHT="40" WC="0.9897" />
+              <SP />
+              <String ID="B1_P1_L1_W11" CONTENT="groupings" HPOS="1884" VPOS="738" WIDTH="223" HEIGHT="42" WC="0.9799" />
+              <SP />
+              <String ID="B1_P1_L1_W12" CONTENT="of" HPOS="2134" VPOS="742" WIDTH="49" HEIGHT="39" WC="0.9808" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B1_P2" HPOS="425" VPOS="773" WIDTH="1551" HEIGHT="60">
+            <TextLine ID="B1_P2_L1" HPOS="425" VPOS="774" WIDTH="1551" HEIGHT="58">
+              <String ID="B1_P2_L1_W1" CONTENT="C." HPOS="425" VPOS="774" WIDTH="46" HEIGHT="42" WC="0.9007" />
+              <SP />
+              <String ID="B1_P2_L1_W2" CONTENT="harfordi" HPOS="500" VPOS="774" WIDTH="202" HEIGHT="44" WC="0.9781" />
+              <String ID="B1_P2_L1_W3" CONTENT="," HPOS="709" VPOS="777" WIDTH="13" HEIGHT="41" WC="0.9683" />
+              <SP />
+              <String ID="B1_P2_L1_W4" CONTENT="with" HPOS="752" VPOS="777" WIDTH="105" HEIGHT="43" WC="0.9862" />
+              <SP />
+              <String ID="B1_P2_L1_W5" CONTENT="average" HPOS="879" VPOS="778" WIDTH="174" HEIGHT="44" WC="0.9946" />
+              <String ID="B1_P2_L1_W6" CONTENT="," HPOS="1060" VPOS="781" WIDTH="14" HEIGHT="41" WC="0.9883" />
+              <SP />
+              <String ID="B1_P2_L1_W7" CONTENT="maximum" HPOS="1104" VPOS="781" WIDTH="177" HEIGHT="44" WC="0.9736" />
+              <String ID="B1_P2_L1_W8" CONTENT="," HPOS="1287" VPOS="783" WIDTH="12" HEIGHT="41" WC="0.9511" />
+              <SP />
+              <String ID="B1_P2_L1_W9" CONTENT="and" HPOS="1330" VPOS="784" WIDTH="76" HEIGHT="42" WC="0.9865" />
+              <SP />
+              <String ID="B1_P2_L1_W10" CONTENT="minimum" HPOS="1429" VPOS="785" WIDTH="177" HEIGHT="44" WC="0.9791" />
+              <SP />
+              <String ID="B1_P2_L1_W11" CONTENT="rate" HPOS="1632" VPOS="787" WIDTH="98" HEIGHT="43" WC="0.9826" />
+              <SP />
+              <String ID="B1_P2_L1_W12" CONTENT="measures" HPOS="1755" VPOS="788" WIDTH="201" HEIGHT="44" WC="0.9915" />
+              <String ID="B1_P2_L1_W13" CONTENT="." HPOS="1962" VPOS="791" WIDTH="14" HEIGHT="41" WC="0.8888" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

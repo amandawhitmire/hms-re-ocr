@@ -1,0 +1,33 @@
+calculated a baseline initial fluorescence (Fo) by averaging all the data points collected
+
+before perfusion with a new solution (baseline=0 to 20 seconds). We then normalized the
+wave by dividing fluorescence at each time point (F) by the initial fluorescence (Fo) to
+obtain values of AF/ Fo. Trials in which the same treatment was applied (e.g. removal or
+addition of extracellular Ca2+) were averaged using Igor Pro. When applicable, the
+results are reported as mean value +/- one standard error.
+
+The percent block graphs were designed using the fluorescence intensity of cells
+bathed in 0 mM Ca2+ saline solution as the hypothetical maximum block of TRPM7.
+Percent block was then calculated by comparing fluorescence intensity at the end of each
+trial (Ffinal) and plotted on a semilog scale to accommodate the range of Mg2+
+
+concentrations studied.
+
+Results :
+
+Response to Changes in Extracellular [Ca2+]:
+
+For TET induced TRPM7 overexpressing cells in 2mM Ca²* buffered saline,
+initial fluorescence (Fo) calculated from all data points before perfusion (from 0 to 20
+seconds) was 0.90 +/- .03 (n=12 trials). Values of AF/ Fo decreased to 0.69 +/- 0.03
+(n=12 trials) following perfusion with the 0mM buffered saline solution (fig. 3). This
+decrease in fluorescence indicates a decrease in internal [Ca2+]. We can infer that the
+decrease in internal [Ca2+] is due to Ca²* efflux through TRPM7 because uninduced
+
+2+
+
+control cells showed a much smaller decreased in fluorescence. For control cells, in
+
+2+
+
+2mM Ca²+ buffered saline, initial fluorescence (Fo) was 0.99 +/- 0.01 (n=12 trials).

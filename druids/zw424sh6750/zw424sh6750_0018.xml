@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zw424sh6750_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2539" HEIGHT="3283" PHYSICAL_IMG_NR="1" PC="0.9724">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2539" HEIGHT="3283">
+        <TextBlock ID="B1" HPOS="970" VPOS="1110" WIDTH="670" HEIGHT="50">
+          <TextLine ID="B1_L1" HPOS="970" VPOS="1110" WIDTH="670" HEIGHT="50">
+            <String ID="B1_L1_W1" CONTENT="HSP" HPOS="970" VPOS="1115" WIDTH="152" HEIGHT="45" WC="0.9735" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="60" HPOS="1175" VPOS="1113" WIDTH="88" HEIGHT="45" WC="0.9744" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Proteins" HPOS="1314" VPOS="1110" WIDTH="326" HEIGHT="47" WC="0.9488" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="936" VPOS="1209" WIDTH="713" HEIGHT="46">
+          <TextLine ID="B2_L1" HPOS="936" VPOS="1209" WIDTH="713" HEIGHT="46">
+            <String ID="B2_L1_W1" CONTENT="present" HPOS="936" VPOS="1209" WIDTH="304" HEIGHT="46" WC="0.9906" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="in" HPOS="1289" VPOS="1209" WIDTH="59" HEIGHT="46" WC="0.9526" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Psolus" HPOS="1397" VPOS="1209" WIDTH="252" HEIGHT="46" WC="0.9574" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1058" VPOS="1469" WIDTH="179" HEIGHT="98">
+          <TextLine ID="B3_L1" HPOS="1058" VPOS="1470" WIDTH="178" HEIGHT="44">
+            <String ID="B3_L1_W1" CONTENT="116-" HPOS="1058" VPOS="1470" WIDTH="178" HEIGHT="44" WC="0.9842" />
+          </TextLine>
+          <TextLine ID="B3_L2" HPOS="1102" VPOS="1522" WIDTH="133" HEIGHT="44">
+            <String ID="B3_L2_W1" CONTENT="84-" HPOS="1102" VPOS="1522" WIDTH="133" HEIGHT="44" WC="0.9811" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1209" VPOS="1606" WIDTH="24" HEIGHT="8">
+          <TextLine ID="B4_L1" HPOS="1209" VPOS="1606" WIDTH="24" HEIGHT="8">
+            <String ID="B4_L1_W1" CONTENT="-" HPOS="1209" VPOS="1606" WIDTH="24" HEIGHT="8" WC="0.9443" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1019" VPOS="1590" WIDTH="209" HEIGHT="97">
+          <TextLine ID="B5_L1" HPOS="1106" VPOS="1591" WIDTH="88" HEIGHT="41">
+            <String ID="B5_L1_W1" CONTENT="58" HPOS="1106" VPOS="1591" WIDTH="88" HEIGHT="41" WC="0.9876" />
+          </TextLine>
+          <TextLine ID="B5_L2" HPOS="1020" VPOS="1638" WIDTH="208" HEIGHT="49">
+            <String ID="B5_L2_W1" CONTENT="48.5-" HPOS="1020" VPOS="1638" WIDTH="208" HEIGHT="49" WC="0.9783" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1020" VPOS="1790" WIDTH="216" HEIGHT="44">
+          <TextLine ID="B6_L1" HPOS="1020" VPOS="1790" WIDTH="216" HEIGHT="44">
+            <String ID="B6_L1_W1" CONTENT="36.5-" HPOS="1020" VPOS="1790" WIDTH="216" HEIGHT="44" WC="0.9792" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1263" VPOS="2785" WIDTH="245" HEIGHT="68">
+          <TextLine ID="B7_L1" HPOS="1263" VPOS="2785" WIDTH="245" HEIGHT="68">
+            <String ID="B7_L1_W1" CONTENT="Figure" HPOS="1263" VPOS="2786" WIDTH="194" HEIGHT="67" WC="0.9889" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="1" HPOS="1481" VPOS="2785" WIDTH="27" HEIGHT="61" WC="0.9857" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

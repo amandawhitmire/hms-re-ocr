@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zs547gn6651_0022</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2559" HEIGHT="3297" PHYSICAL_IMG_NR="1" PC="0.8669">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2559" HEIGHT="3297">
+        <TextBlock ID="B1" HPOS="297" VPOS="308" WIDTH="28" HEIGHT="31">
+          <TextLine ID="B1_L1" HPOS="297" VPOS="308" WIDTH="28" HEIGHT="31">
+            <String ID="B1_L1_W1" CONTENT="7" HPOS="297" VPOS="308" WIDTH="28" HEIGHT="31" WC="0.9694" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1255" VPOS="3096" WIDTH="54" HEIGHT="32">
+          <TextLine ID="B2_L1" HPOS="1255" VPOS="3096" WIDTH="54" HEIGHT="32">
+            <String ID="B2_L1_W1" CONTENT="22" HPOS="1255" VPOS="3096" WIDTH="54" HEIGHT="32" WC="0.9816" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1858" VPOS="383" WIDTH="362" HEIGHT="176">
+          <TextLine ID="B3_L1" HPOS="1858" VPOS="383" WIDTH="362" HEIGHT="176">
+            <String ID="B3_L1_W1" CONTENT="протеорети" HPOS="1858" VPOS="383" WIDTH="362" HEIGHT="176" WC="0.6193" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="2122" VPOS="1088" WIDTH="44" HEIGHT="25">
+          <TextLine ID="B4_L1" HPOS="2122" VPOS="1088" WIDTH="44" HEIGHT="24">
+            <String ID="B4_L1_W1" CONTENT="2" HPOS="2122" VPOS="1088" WIDTH="18" HEIGHT="24" WC="0.9549" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="s" HPOS="2150" VPOS="1088" WIDTH="16" HEIGHT="24" WC="0.8396" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

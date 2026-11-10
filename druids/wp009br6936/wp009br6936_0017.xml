@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wp009br6936_0017</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2530" HEIGHT="3267" PHYSICAL_IMG_NR="1" PC="0.9829">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2530" HEIGHT="3267">
+        <TextBlock ID="B1" HPOS="1229" VPOS="1488" WIDTH="227" HEIGHT="58">
+          <TextLine ID="B1_L1" HPOS="1229" VPOS="1489" WIDTH="227" HEIGHT="57">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="1229" VPOS="1491" WIDTH="145" HEIGHT="55" WC="0.9910" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5a" HPOS="1386" VPOS="1489" WIDTH="60" HEIGHT="51" WC="0.9754" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="1443" VPOS="1489" WIDTH="13" HEIGHT="49" WC="0.9664" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1226" VPOS="1755" WIDTH="229" HEIGHT="55">
+          <TextLine ID="B2_L1" HPOS="1226" VPOS="1755" WIDTH="229" HEIGHT="55">
+            <String ID="B2_L1_W1" CONTENT="Figure" HPOS="1226" VPOS="1757" WIDTH="145" HEIGHT="53" WC="0.9909" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="5b" HPOS="1386" VPOS="1755" WIDTH="57" HEIGHT="49" WC="0.9838" />
+            <String ID="B2_L1_W3" CONTENT="." HPOS="1443" VPOS="1756" WIDTH="12" HEIGHT="47" WC="0.9095" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1306" VPOS="3227" WIDTH="49" HEIGHT="32">
+          <TextLine ID="B3_L1" HPOS="1306" VPOS="3227" WIDTH="49" HEIGHT="32">
+            <String ID="B3_L1_W1" CONTENT="16" HPOS="1306" VPOS="3227" WIDTH="49" HEIGHT="32" WC="0.9836" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

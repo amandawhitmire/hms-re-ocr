@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pn386nz0923_0010</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2468" HEIGHT="3171" PHYSICAL_IMG_NR="1" PC="0.9686">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2468" HEIGHT="3171">
+        <TextBlock ID="B1" HPOS="382" VPOS="17" WIDTH="537" HEIGHT="40">
+          <TextLine ID="B1_L1" HPOS="382" VPOS="17" WIDTH="537" HEIGHT="39">
+            <String ID="B1_L1_W1" CONTENT="two" HPOS="382" VPOS="17" WIDTH="84" HEIGHT="33" WC="0.9919" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="jet" HPOS="507" VPOS="19" WIDTH="80" HEIGHT="33" WC="0.9737" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="sequences" HPOS="624" VPOS="21" WIDTH="268" HEIGHT="35" WC="0.9773" />
+            <String ID="B1_L1_W4" CONTENT="." HPOS="902" VPOS="25" WIDTH="17" HEIGHT="31" WC="0.5793" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="990" VPOS="15" WIDTH="1208" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="990" VPOS="16" WIDTH="1208" HEIGHT="44">
+            <String ID="B2_L1_W1" CONTENT="It" HPOS="990" VPOS="16" WIDTH="50" HEIGHT="36" WC="0.9175" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="is" HPOS="1080" VPOS="16" WIDTH="54" HEIGHT="36" WC="0.9901" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="also" HPOS="1171" VPOS="16" WIDTH="114" HEIGHT="38" WC="0.8845" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="notable" HPOS="1318" VPOS="17" WIDTH="211" HEIGHT="38" WC="0.9862" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="that" HPOS="1567" VPOS="19" WIDTH="111" HEIGHT="38" WC="0.9865" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="all" HPOS="1715" VPOS="20" WIDTH="84" HEIGHT="38" WC="0.9181" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="jets" HPOS="1841" VPOS="21" WIDTH="113" HEIGHT="37" WC="0.9906" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="in" HPOS="1993" VPOS="22" WIDTH="53" HEIGHT="36" WC="0.9849" />
+            <SP />
+            <String ID="B2_L1_W9" CONTENT="each" HPOS="2081" VPOS="22" WIDTH="117" HEIGHT="38" WC="0.9870" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="377" VPOS="118" WIDTH="1572" HEIGHT="35">
+          <TextLine ID="B3_L1" HPOS="377" VPOS="118" WIDTH="1572" HEIGHT="35">
+            <String ID="B3_L1_W1" CONTENT="sequence" HPOS="377" VPOS="118" WIDTH="239" HEIGHT="35" WC="0.9916" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="have" HPOS="649" VPOS="118" WIDTH="122" HEIGHT="35" WC="0.9888" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="the" HPOS="805" VPOS="118" WIDTH="85" HEIGHT="35" WC="0.9932" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="biphasic" HPOS="920" VPOS="118" WIDTH="242" HEIGHT="35" WC="0.9901" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="nature" HPOS="1196" VPOS="118" WIDTH="179" HEIGHT="35" WC="0.9887" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="mentioned" HPOS="1407" VPOS="118" WIDTH="271" HEIGHT="35" WC="0.9895" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="earlier" HPOS="1711" VPOS="118" WIDTH="210" HEIGHT="35" WC="0.9797" />
+            <String ID="B3_L1_W8" CONTENT="." HPOS="1931" VPOS="118" WIDTH="18" HEIGHT="35" WC="0.9558" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

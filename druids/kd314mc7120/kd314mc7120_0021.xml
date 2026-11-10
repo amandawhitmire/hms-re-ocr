@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kd314mc7120_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3271" PHYSICAL_IMG_NR="1" PC="0.9872">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3271">
+        <TextBlock ID="B1" HPOS="731" VPOS="2616" WIDTH="35" HEIGHT="367">
+          <TextLine ID="B1_L1" HPOS="731" VPOS="2616" WIDTH="35" HEIGHT="367">
+            <String ID="B1_L1_W1" CONTENT="Compressed" HPOS="731" VPOS="2770" WIDTH="35" HEIGHT="213" WC="0.9887" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Nitrogen" HPOS="731" VPOS="2616" WIDTH="35" HEIGHT="141" WC="0.9679" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B2" TYPE="text" HPOS="1872" VPOS="2711" WIDTH="88" HEIGHT="206">
+          <TextBlock ID="B2_P1" HPOS="1876" VPOS="2712" WIDTH="27" HEIGHT="203">
+            <TextLine ID="B2_P1_L1" HPOS="1876" VPOS="2712" WIDTH="27" HEIGHT="203">
+              <String ID="B2_P1_L1_W1" CONTENT="submersible" HPOS="1876" VPOS="2712" WIDTH="27" HEIGHT="203" WC="0.9934" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B2_P2" HPOS="1922" VPOS="2716" WIDTH="38" HEIGHT="199">
+            <TextLine ID="B2_P2_L1" HPOS="1922" VPOS="2716" WIDTH="38" HEIGHT="199">
+              <String ID="B2_P2_L1_W1" CONTENT="water" HPOS="1922" VPOS="2819" WIDTH="34" HEIGHT="96" WC="0.9815" />
+              <SP />
+              <String ID="B2_P2_L1_W2" CONTENT="pump" HPOS="1927" VPOS="2716" WIDTH="33" HEIGHT="96" WC="0.9877" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B3" HPOS="702" VPOS="1939" WIDTH="86" HEIGHT="266">
+          <TextLine ID="B3_L1" HPOS="704" VPOS="1945" WIDTH="35" HEIGHT="258">
+            <String ID="B3_L1_W1" CONTENT="air" HPOS="704" VPOS="2161" WIDTH="32" HEIGHT="42" WC="0.9875" />
+            <String ID="B3_L1_W2" CONTENT="/" HPOS="704" VPOS="2150" WIDTH="31" HEIGHT="13" WC="0.9650" />
+            <String ID="B3_L1_W3" CONTENT="nitrogen" HPOS="704" VPOS="2018" WIDTH="34" HEIGHT="132" WC="0.9944" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="gas" HPOS="706" VPOS="1945" WIDTH="33" HEIGHT="60" WC="0.9932" />
+          </TextLine>
+          <TextLine ID="B3_L2" HPOS="749" VPOS="1939" WIDTH="39" HEIGHT="266">
+            <String ID="B3_L2_W1" CONTENT="mixing" HPOS="752" VPOS="2100" WIDTH="36" HEIGHT="105" WC="0.9913" />
+            <SP />
+            <String ID="B3_L2_W2" CONTENT="chamber" HPOS="749" VPOS="1939" WIDTH="36" HEIGHT="149" WC="0.9945" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1175" VPOS="2331" WIDTH="38" HEIGHT="201">
+          <TextLine ID="B4_L1" HPOS="1176" VPOS="2331" WIDTH="37" HEIGHT="201">
+            <String ID="B4_L1_W1" CONTENT="siphon" HPOS="1178" VPOS="2424" WIDTH="35" HEIGHT="108" WC="0.9780" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="hose" HPOS="1176" VPOS="2331" WIDTH="33" HEIGHT="83" WC="0.9830" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1165" VPOS="2099" WIDTH="25" HEIGHT="87">
+          <TextLine ID="B5_L1" HPOS="1165" VPOS="2099" WIDTH="25" HEIGHT="87">
+            <String ID="B5_L1_W1" CONTENT="valve" HPOS="1165" VPOS="2099" WIDTH="25" HEIGHT="87" WC="0.9906" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1647" VPOS="2064" WIDTH="31" HEIGHT="77">
+          <TextLine ID="B6_L1" HPOS="1647" VPOS="2064" WIDTH="31" HEIGHT="77">
+            <String ID="B6_L1_W1" CONTENT="filter" HPOS="1647" VPOS="2064" WIDTH="31" HEIGHT="77" WC="0.9904" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="2081" VPOS="2027" WIDTH="85" HEIGHT="152">
+          <TextLine ID="B7_L1" HPOS="2082" VPOS="2027" WIDTH="36" HEIGHT="152">
+            <String ID="B7_L1_W1" CONTENT="55" HPOS="2082" VPOS="2138" WIDTH="34" HEIGHT="41" WC="0.9580" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="gallon" HPOS="2082" VPOS="2027" WIDTH="36" HEIGHT="100" WC="0.9834" />
+          </TextLine>
+          <TextLine ID="B7_L2" HPOS="2133" VPOS="2053" WIDTH="31" HEIGHT="126">
+            <String ID="B7_L2_W1" CONTENT="aquaria" HPOS="2133" VPOS="2053" WIDTH="31" HEIGHT="126" WC="0.9864" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="950" VPOS="1725" WIDTH="26" HEIGHT="43">
+          <TextLine ID="B8_L1" HPOS="950" VPOS="1725" WIDTH="26" HEIGHT="43">
+            <String ID="B8_L1_W1" CONTENT="air" HPOS="950" VPOS="1725" WIDTH="26" HEIGHT="43" WC="0.9893" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1003" VPOS="1674" WIDTH="27" HEIGHT="95">
+          <TextLine ID="B9_L1" HPOS="1003" VPOS="1674" WIDTH="27" HEIGHT="95">
+            <String ID="B9_L1_W1" CONTENT="pump" HPOS="1003" VPOS="1674" WIDTH="27" HEIGHT="95" WC="0.9889" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1752" VPOS="1511" WIDTH="27" HEIGHT="45">
+          <TextLine ID="B10_L1" HPOS="1752" VPOS="1511" WIDTH="27" HEIGHT="45">
+            <String ID="B10_L1_W1" CONTENT="air" HPOS="1752" VPOS="1511" WIDTH="27" HEIGHT="45" WC="0.9845" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="1803" VPOS="1446" WIDTH="24" HEIGHT="108">
+          <TextLine ID="B11_L1" HPOS="1803" VPOS="1446" WIDTH="24" HEIGHT="108">
+            <String ID="B11_L1_W1" CONTENT="stones" HPOS="1803" VPOS="1446" WIDTH="24" HEIGHT="108" WC="0.9935" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gh227vp3933_0028</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2512" HEIGHT="3205" PHYSICAL_IMG_NR="1" PC="0.9582">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2512" HEIGHT="3205">
+        <TextBlock ID="B1" HPOS="1066" VPOS="1235" WIDTH="34" HEIGHT="33">
+          <TextLine ID="B1_L1" HPOS="1066" VPOS="1235" WIDTH="34" HEIGHT="33">
+            <String ID="B1_L1_W1" CONTENT="B-" HPOS="1066" VPOS="1235" WIDTH="34" HEIGHT="33" WC="0.8109" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1056" VPOS="1540" WIDTH="28" HEIGHT="34">
+          <TextLine ID="B2_L1" HPOS="1056" VPOS="1540" WIDTH="28" HEIGHT="34">
+            <String ID="B2_L1_W1" CONTENT="A" HPOS="1056" VPOS="1540" WIDTH="28" HEIGHT="34" WC="0.9837" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1114" VPOS="536" WIDTH="215" HEIGHT="48">
+          <TextLine ID="B3_L1" HPOS="1114" VPOS="537" WIDTH="215" HEIGHT="47">
+            <String ID="B3_L1_W1" CONTENT="Figure" HPOS="1114" VPOS="537" WIDTH="155" HEIGHT="47" WC="0.9895" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="2" HPOS="1302" VPOS="537" WIDTH="27" HEIGHT="43" WC="0.9895" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1113" VPOS="838" WIDTH="27" HEIGHT="37">
+          <TextLine ID="B4_L1" HPOS="1113" VPOS="838" WIDTH="27" HEIGHT="37">
+            <String ID="B4_L1_W1" CONTENT="C" HPOS="1113" VPOS="838" WIDTH="27" HEIGHT="37" WC="0.9528" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1303" VPOS="709" WIDTH="30" HEIGHT="30">
+          <TextLine ID="B5_L1" HPOS="1303" VPOS="709" WIDTH="30" HEIGHT="30">
+            <String ID="B5_L1_W1" CONTENT="D" HPOS="1303" VPOS="709" WIDTH="30" HEIGHT="30" WC="0.9445" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1534" VPOS="774" WIDTH="25" HEIGHT="33">
+          <TextLine ID="B6_L1" HPOS="1534" VPOS="774" WIDTH="25" HEIGHT="33">
+            <String ID="B6_L1_W1" CONTENT="E" HPOS="1534" VPOS="774" WIDTH="25" HEIGHT="33" WC="0.9879" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1658" VPOS="943" WIDTH="225" HEIGHT="45">
+          <TextLine ID="B7_L1" HPOS="1658" VPOS="943" WIDTH="225" HEIGHT="45">
+            <String ID="B7_L1_W1" CONTENT="Epidermis" HPOS="1658" VPOS="943" WIDTH="225" HEIGHT="45" WC="0.9931" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1700" VPOS="1515" WIDTH="29" HEIGHT="34">
+          <TextLine ID="B8_L1" HPOS="1700" VPOS="1515" WIDTH="29" HEIGHT="34">
+            <String ID="B8_L1_W1" CONTENT="G" HPOS="1700" VPOS="1515" WIDTH="29" HEIGHT="34" WC="0.9591" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1295" VPOS="1820" WIDTH="301" HEIGHT="35">
+          <TextLine ID="B9_L1" HPOS="1295" VPOS="1820" WIDTH="301" HEIGHT="35">
+            <String ID="B9_L1_W1" CONTENT="Zooxanthellae" HPOS="1295" VPOS="1820" WIDTH="301" HEIGHT="35" WC="0.9137" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1793" VPOS="1847" WIDTH="207" HEIGHT="49">
+          <TextLine ID="B10_L1" HPOS="1793" VPOS="1847" WIDTH="207" HEIGHT="49">
+            <String ID="B10_L1_W1" CONTENT="Mesoglea" HPOS="1793" VPOS="1847" WIDTH="207" HEIGHT="49" WC="0.9884" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="748" VPOS="1932" WIDTH="127" HEIGHT="29">
+          <TextLine ID="B11_L1" HPOS="748" VPOS="1933" WIDTH="127" HEIGHT="28">
+            <String ID="B11_L1_W1" CONTENT="0.6" HPOS="748" VPOS="1933" WIDTH="58" HEIGHT="28" WC="0.9883" />
+            <SP />
+            <String ID="B11_L1_W2" CONTENT="mm" HPOS="820" VPOS="1933" WIDTH="55" HEIGHT="27" WC="0.9823" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="1488" VPOS="2346" WIDTH="329" HEIGHT="42">
+          <TextLine ID="B12_L1" HPOS="1488" VPOS="2346" WIDTH="329" HEIGHT="42">
+            <String ID="B12_L1_W1" CONTENT="Gastrodermis" HPOS="1488" VPOS="2346" WIDTH="329" HEIGHT="42" WC="0.9885" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

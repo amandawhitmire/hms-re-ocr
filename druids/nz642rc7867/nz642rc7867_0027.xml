@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nz642rc7867_0027</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2532" HEIGHT="3261" PHYSICAL_IMG_NR="1" PC="0.9828">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2532" HEIGHT="3261">
+        <TextBlock ID="B1" HPOS="1212" VPOS="394" WIDTH="148" HEIGHT="58">
+          <TextLine ID="B1_L1" HPOS="1212" VPOS="394" WIDTH="148" HEIGHT="58">
+            <String ID="B1_L1_W1" CONTENT="Fig" HPOS="1212" VPOS="395" WIDTH="75" HEIGHT="57" WC="0.9847" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="1285" VPOS="396" WIDTH="18" HEIGHT="54" WC="0.9551" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="5" HPOS="1321" VPOS="394" WIDTH="39" HEIGHT="55" WC="0.9778" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1747" VPOS="831" WIDTH="543" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="1747" VPOS="831" WIDTH="543" HEIGHT="45">
+            <String ID="B2_L1_W1" CONTENT="Dorsal" HPOS="1747" VPOS="831" WIDTH="172" HEIGHT="44" WC="0.9483" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Hemal" HPOS="1940" VPOS="832" WIDTH="158" HEIGHT="44" WC="0.9927" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Vessel" HPOS="2119" VPOS="833" WIDTH="171" HEIGHT="43" WC="0.9920" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1729" VPOS="1064" WIDTH="489" HEIGHT="52">
+          <TextLine ID="B3_L1" HPOS="1729" VPOS="1064" WIDTH="489" HEIGHT="52">
+            <String ID="B3_L1_W1" CONTENT="Dorsal" HPOS="1729" VPOS="1064" WIDTH="172" HEIGHT="47" WC="0.9743" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="connections" HPOS="1921" VPOS="1067" WIDTH="297" HEIGHT="49" WC="0.9863" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1805" VPOS="1389" WIDTH="527" HEIGHT="59">
+          <TextLine ID="B4_L1" HPOS="1805" VPOS="1389" WIDTH="527" HEIGHT="58">
+            <String ID="B4_L1_W1" CONTENT="Tubule" HPOS="1805" VPOS="1389" WIDTH="165" HEIGHT="47" WC="0.9904" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="within" HPOS="1992" VPOS="1395" WIDTH="156" HEIGHT="47" WC="0.9841" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="a" HPOS="2169" VPOS="1401" WIDTH="38" HEIGHT="42" WC="0.9880" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="fold" HPOS="2223" VPOS="1402" WIDTH="109" HEIGHT="45" WC="0.9860" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1720" VPOS="1768" WIDTH="564" HEIGHT="47">
+          <TextLine ID="B5_L1" HPOS="1720" VPOS="1768" WIDTH="564" HEIGHT="46">
+            <String ID="B5_L1_W1" CONTENT="Ventral" HPOS="1720" VPOS="1768" WIDTH="200" HEIGHT="44" WC="0.9913" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="Hemal" HPOS="1936" VPOS="1770" WIDTH="158" HEIGHT="43" WC="0.9888" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="Vessel" HPOS="2112" VPOS="1771" WIDTH="172" HEIGHT="43" WC="0.9926" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vs829rg7450_0029</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2520" HEIGHT="3281" PHYSICAL_IMG_NR="1" PC="0.8359">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2520" HEIGHT="3281">
+        <TextBlock ID="B1" HPOS="46" VPOS="314" WIDTH="77" HEIGHT="67">
+          <TextLine ID="B1_L1" HPOS="46" VPOS="314" WIDTH="77" HEIGHT="67">
+            <String ID="B1_L1_W1" CONTENT="." HPOS="46" VPOS="314" WIDTH="77" HEIGHT="67" WC="0.6728" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="825" VPOS="275" WIDTH="960" HEIGHT="88">
+          <TextLine ID="B2_L1" HPOS="825" VPOS="275" WIDTH="960" HEIGHT="88">
+            <String ID="B2_L1_W1" CONTENT="Armadillidium" HPOS="825" VPOS="275" WIDTH="559" HEIGHT="79" WC="0.9866" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="vulgare" HPOS="1478" VPOS="290" WIDTH="307" HEIGHT="73" WC="0.9920" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1779" VPOS="458" WIDTH="40" HEIGHT="44">
+          <TextLine ID="B3_L1" HPOS="1779" VPOS="458" WIDTH="40" HEIGHT="44">
+            <String ID="B3_L1_W1" CONTENT="P" HPOS="1779" VPOS="458" WIDTH="40" HEIGHT="44" WC="0.7108" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1042" VPOS="1482" WIDTH="672" HEIGHT="70">
+          <TextLine ID="B4_L1" HPOS="1042" VPOS="1482" WIDTH="672" HEIGHT="69">
+            <String ID="B4_L1_W1" CONTENT="Porcellio" HPOS="1042" VPOS="1482" WIDTH="337" HEIGHT="64" WC="0.9759" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="scaber" HPOS="1442" VPOS="1489" WIDTH="272" HEIGHT="62" WC="0.9643" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

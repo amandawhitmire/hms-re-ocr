@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>yf344xh0056_0022</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2529" HEIGHT="3284" PHYSICAL_IMG_NR="1" PC="0.6891">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2529" HEIGHT="3284">
+        <TextBlock ID="B1" HPOS="1455" VPOS="2807" WIDTH="92" HEIGHT="91">
+          <TextLine ID="B1_L1" HPOS="1455" VPOS="2807" WIDTH="92" HEIGHT="91">
+            <String ID="B1_L1_W1" CONTENT="D" HPOS="1455" VPOS="2807" WIDTH="92" HEIGHT="91" WC="0.8354" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2094" VPOS="27" WIDTH="369" HEIGHT="268">
+          <TextLine ID="B2_L1" HPOS="2094" VPOS="27" WIDTH="369" HEIGHT="268">
+            <String ID="B2_L1_W1" CONTENT="Figmez" HPOS="2094" VPOS="27" WIDTH="369" HEIGHT="268" WC="0.5428" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,262 @@
+ble l
+
+Selected Correlation Coefficients
+
+Variable - Variable
+
+r
+
+Prob > p
+
+n
+
+pp - schl
+
+0.571
+
+0.0001
+
+93
+
+pp - schl + sphaeo
+
+0.629
+
+0.0001
+
+93
+
+pp - sphaeo
+
+0.528
+
+0.0001
+
+93
+
+pp-int chl
+
+0.735
+
+0.0001
+
+93
+
+PP - PAR
+
+0.603
+
+0.0001
+
+93
+
+pp-surface temp
+
+-0.007
+
+0.9571 (ns)
+
+61
+
+pp-surface salinity
+
+0.556
+
+0.0001
+
+61
+
+pp-surface nitrate
+
+-0.086
+
+0.5127 (ns)
+
+61
+
+pp-surface silicate
+
+-0.131
+
+0.3127 (ns)
+
+61
+
+pp-delta temp
+
+0.544
+
+0.0001
+
+51
+
+pp-all groups
+
+0.72
+
+0.0001
+
+45
+
+pp - autotrophs
+
+0.718
+
+0.0001
+
+45
+
+pp - heterotrophs
+
+0.371
+
+0.012
+
+45
+
+pp - diatoms
+
+0.666
+
+0.0001
+
+45
+
+pp-centric diatoms
+
+0.797
+
+0.0001
+
+45
+
+pp-pennate diatoms
+
+0.136
+
+0.3748 (ns)
+
+45
+
+pp - ultraplankton
+
+0.774
+
+0.0001
+
+45
+
+pp - nanoplankton
+
+0.778
+
+0.0001
+
+45
+
+pp - picoplankton
+
+-0.161
+
+0.2921 (ns)
+
+45
+
+schl - schl + sphaeo
+
+0.971
+
+0.0001
+
+93
+
+schl-int chl
+
+0.792
+
+0.0001
+
+93
+
+schl - autotrophs
+
+0.616
+
+0.0001
+
+45
+
+schl - diatoms
+
+0.692
+
+0.0001
+
+45
+
+schl-pennate diatoms
+
+0.494
+
+0.0001
+
+45
+
+schl-centric diatoms
+
+0.608
+
+0.0001
+
+45
+
+surface salinity-PAR
+
+0.608
+
+0.0001
+
+61
+
+diatoms-pennate diatoms
+diatoms-centric diatoms 0.894
+
+0.691
+
+0.0001
+
+45
+
+0.0001
+
+45
+
+delta temperature-PAR
+
+0.461
+
+0.0007
+
+51
+
+delta temperature-int chl 0.288
+
+0.0401
+
+51
+
+nanoplankton - centrics
+
+0.700
+
+0.0001
+
+45
+
+nanoplankton - pennates
+
+0.091
+
+0.551 (ns)
+
+45

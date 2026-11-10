@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zq245ch7184_0008</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2536" HEIGHT="3281" PHYSICAL_IMG_NR="1" PC="0.8186">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2536" HEIGHT="3281">
+        <TextBlock ID="B1" HPOS="2451" VPOS="832" WIDTH="39" HEIGHT="91">
+          <TextLine ID="B1_L1" HPOS="2451" VPOS="832" WIDTH="39" HEIGHT="91">
+            <String ID="B1_L1_W1" CONTENT="K" HPOS="2451" VPOS="832" WIDTH="39" HEIGHT="39" WC="0.7528" />
+            <String ID="B1_L1_W2" CONTENT="+" HPOS="2451" VPOS="864" WIDTH="39" HEIGHT="27" WC="0.4476" />
+            <String ID="B1_L1_W3" CONTENT="E" HPOS="2451" VPOS="889" WIDTH="39" HEIGHT="34" WC="0.4735" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2447" VPOS="954" WIDTH="46" HEIGHT="302">
+          <TextLine ID="B2_L1" HPOS="2475" VPOS="957" WIDTH="18" HEIGHT="299">
+            <String ID="B2_L1_W1" CONTENT="10" HPOS="2475" VPOS="957" WIDTH="18" HEIGHT="32" WC="0.8913" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="X" HPOS="2475" VPOS="1000" WIDTH="18" HEIGHT="19" WC="0.8761" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="10" HPOS="2475" VPOS="1033" WIDTH="18" HEIGHT="32" WC="0.9597" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="TO" HPOS="2475" VPOS="1077" WIDTH="18" HEIGHT="41" WC="0.9745" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="THE" HPOS="2475" VPOS="1129" WIDTH="18" HEIGHT="59" WC="0.9941" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="CM" HPOS="2475" VPOS="1199" WIDTH="18" HEIGHT="46" WC="0.9824" />
+            <String ID="B2_L1_W7" CONTENT="." HPOS="2475" VPOS="1245" WIDTH="18" HEIGHT="11" WC="0.8986" />
+          </TextLine>
+          <TextLine ID="B2_L2" HPOS="2447" VPOS="954" WIDTH="16" HEIGHT="294">
+            <String ID="B2_L2_W1" CONTENT="KEUFFEL" HPOS="2447" VPOS="954" WIDTH="16" HEIGHT="118" WC="0.9886" />
+            <SP />
+            <String ID="B2_L2_W2" CONTENT="&amp;" HPOS="2447" VPOS="1084" WIDTH="15" HEIGHT="15" WC="0.9417" />
+            <SP />
+            <String ID="B2_L2_W3" CONTENT="ESSER" HPOS="2447" VPOS="1110" WIDTH="15" HEIGHT="83" WC="0.9848" />
+            <SP />
+            <String ID="B2_L2_W4" CONTENT="CO" HPOS="2447" VPOS="1202" WIDTH="15" HEIGHT="37" WC="0.9136" />
+            <String ID="B2_L2_W5" CONTENT="." HPOS="2447" VPOS="1240" WIDTH="15" HEIGHT="8" WC="0.9133" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B3" TYPE="text" HPOS="2447" VPOS="1271" WIDTH="51" HEIGHT="155">
+          <TextBlock ID="B3_P1" HPOS="2476" VPOS="1300" WIDTH="22" HEIGHT="126">
+            <TextLine ID="B3_P1_L1" HPOS="2476" VPOS="1300" WIDTH="22" HEIGHT="126">
+              <String ID="B3_P1_L1_W1" CONTENT="359-14" HPOS="2476" VPOS="1300" WIDTH="22" HEIGHT="126" WC="0.9907" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B3_P2" HPOS="2447" VPOS="1271" WIDTH="16" HEIGHT="153">
+            <TextLine ID="B3_P2_L1" HPOS="2447" VPOS="1271" WIDTH="15" HEIGHT="153">
+              <String ID="B3_P2_L1_W1" CONTENT="MADE" HPOS="2447" VPOS="1271" WIDTH="15" HEIGHT="52" WC="0.9899" />
+              <SP />
+              <String ID="B3_P2_L1_W2" CONTENT="IN" HPOS="2447" VPOS="1329" WIDTH="15" HEIGHT="22" WC="0.9871" />
+              <SP />
+              <String ID="B3_P2_L1_W3" CONTENT="U.S.A." HPOS="2447" VPOS="1359" WIDTH="15" HEIGHT="65" WC="0.8275" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

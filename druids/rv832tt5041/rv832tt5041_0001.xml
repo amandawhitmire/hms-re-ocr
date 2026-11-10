@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rv832tt5041_0001</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2503" HEIGHT="3270" PHYSICAL_IMG_NR="1" PC="0.9674">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2503" HEIGHT="3270">
+        <TextBlock ID="B1" HPOS="897" VPOS="1344" WIDTH="594" HEIGHT="34">
+          <TextLine ID="B1_L1" HPOS="897" VPOS="1344" WIDTH="594" HEIGHT="34">
+            <String ID="B1_L1_W1" CONTENT="PREDATORS" HPOS="897" VPOS="1344" WIDTH="265" HEIGHT="34" WC="0.9674" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="OF" HPOS="1197" VPOS="1344" WIDTH="56" HEIGHT="34" WC="0.9793" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="PAGURUS" HPOS="1287" VPOS="1344" WIDTH="204" HEIGHT="34" WC="0.9873" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="954" VPOS="1444" WIDTH="422" HEIGHT="36">
+          <TextLine ID="B2_L1" HPOS="954" VPOS="1444" WIDTH="422" HEIGHT="36">
+            <String ID="B2_L1_W1" CONTENT="Robert" HPOS="954" VPOS="1444" WIDTH="178" HEIGHT="36" WC="0.9916" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="T." HPOS="1166" VPOS="1444" WIDTH="57" HEIGHT="36" WC="0.7667" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Cook" HPOS="1257" VPOS="1444" WIDTH="119" HEIGHT="36" WC="0.9540" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="866" VPOS="1547" WIDTH="658" HEIGHT="35">
+          <TextLine ID="B3_L1" HPOS="866" VPOS="1547" WIDTH="658" HEIGHT="35">
+            <String ID="B3_L1_W1" CONTENT="Hopkins" HPOS="866" VPOS="1547" WIDTH="205" HEIGHT="35" WC="0.9488" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Marine" HPOS="1106" VPOS="1547" WIDTH="178" HEIGHT="35" WC="0.9741" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="Station" HPOS="1318" VPOS="1547" WIDTH="206" HEIGHT="35" WC="0.9714" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="2429" VPOS="12" WIDTH="55" HEIGHT="37">
+          <TextLine ID="B4_L1" HPOS="2429" VPOS="12" WIDTH="55" HEIGHT="37">
+            <String ID="B4_L1_W1" CONTENT="85" HPOS="2429" VPOS="12" WIDTH="55" HEIGHT="37" WC="0.9874" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

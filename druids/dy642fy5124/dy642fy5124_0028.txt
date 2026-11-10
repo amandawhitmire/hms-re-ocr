@@ -1,0 +1,152 @@
+Inuse. C
+
+#include < stdio.h >
+
+#include < math.h >
+
+#define min(x,y) ((x < y)? (x) (y))
+
+#define max(x,y) ((x > y) ? (x) : (y))
+
+#define nl printf("\n")
+
+#define write printf (
+
+#define nuts_lost .01
+
+#define depth 50
+
+#define MAX 25
+
+char *get_file();
+
+double phyto [50], N_up[49],
+
+N_ltd [49], N_pool,
+C_ltd [49], prodn [49],
+C_out [49], recyc [49];
+
+/* phyto is actual biomass; N_up is upwelled N
+/* N_ltd is N-limitted prodn for current mo
+/*C_ltd is biomass-limitted prodn for current mo
+/* prodn is current mo's total photosynthesis
+
+* 1
+
+* 1
+
+* 1
+* 1
+
+/* C_out is amount of (mo-1)'s biomass lost from phyto */
+/* recyc is amount of (mo-1)'s biomass incorporated in */
+/* current mo's prodn
+
+* /
+
+int
+
+void
+
+options(), num_yr();
+
+clear(), find_N_prodn(), find_C_prodn(),
+find_prodn(), find_C_out(), find_phyto(),
+get_new(), wkly_output(), output();
+
+main ( )
+
+{
+
+int i, yr, mo, wk, box, opt;
+char *file_name, c;
+
+FILE *fp1, *fp2, *fopen();
+
+file_name = get_file(); nl;
+
+i = num_yr();
+
+opt =
+
+options ( ) ;
+
+if (opt == 3) {
+
+* /
+
+/* Get ouput file name from user
+
+/* Ask user how many years to run simulation
+/* and which type of simulation to run
+
+* /
+
+* /
+
+c = yes_or_no(); nl; nl;
+
+/* if full sim., does user want to enter own
+/* weekly biomass values?
+
+* 1
+
+* /
+
+* /
+
+/* User's output file
+
+} else c = 'n';
+
+=
+
+fp1 fopen(file_name, "w");
+fp2 = fopen("nitrate", "w");
+
+for (yr=1; yr<=i; yr++) {
+clear ( yr ) ;
+
+for (mo=1; mo<=12; mo++) {
+for (wk=1; wk<=4; wk++) {
+
+/* Temporary output file in which nitrate pool */
+/* data is stored (used in NO3 pool comparisons)*/
+
+/* twelve month year (30 days per month)
+
+/* four weeks per month => 7.5 days per week
+box (mo-1)*4 + wk; /* given week in given yr (cycles from 1 to 48) */
+find_C_prodn(mo, box); /* find biomass and nutrient limits on prodn
+find_N_prodn(mo, box); /* (also finds recycled term for current wk)
+find_prodn (box);
+/* production = min(N_ltd and C_ltd)
+
+* /
+
+* /
+
+* 1
+
+* /
+
+find_C_out(yr, box); /* find prodn and carbon fallout for current wk */
+find phyto(opt, box); /* find biomass values for current wk
+wkly output (yr, box, fp2);
+
+if ((c == 'y') || (c
+get_new(yr, mo, box);
+
+==
+
+/* prints out weekly values for all variables
+' Y ' ) )
+
+* /
+
+/* if user opted to enter weekly values, get
+/* value and re-print weekly values
+
+* /
+
+* /

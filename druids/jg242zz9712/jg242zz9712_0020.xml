@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jg242zz9712_0020</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2540" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9812">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2540" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="924" VPOS="1419" WIDTH="220" HEIGHT="41">
+          <TextLine ID="B1_L1" HPOS="924" VPOS="1419" WIDTH="220" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="924" VPOS="1421" WIDTH="149" HEIGHT="39" WC="0.9937" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5" HPOS="1101" VPOS="1419" WIDTH="24" HEIGHT="35" WC="0.9905" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="1131" VPOS="1420" WIDTH="13" HEIGHT="34" WC="0.9494" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1203" VPOS="1412" WIDTH="857" HEIGHT="89">
+          <TextLine ID="B2_L1" HPOS="1203" VPOS="1412" WIDTH="786" HEIGHT="43">
+            <String ID="B2_L1_W1" CONTENT="Graph" HPOS="1203" VPOS="1417" WIDTH="125" HEIGHT="38" WC="0.9875" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1354" VPOS="1417" WIDTH="49" HEIGHT="36" WC="0.9744" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="reaction" HPOS="1432" VPOS="1416" WIDTH="201" HEIGHT="37" WC="0.9892" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="to" HPOS="1661" VPOS="1415" WIDTH="46" HEIGHT="36" WC="0.9935" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="turbulence" HPOS="1736" VPOS="1412" WIDTH="253" HEIGHT="39" WC="0.9225" />
+          </TextLine>
+          <TextLine ID="B2_L2" HPOS="1204" VPOS="1463" WIDTH="855" HEIGHT="38">
+            <String ID="B2_L2_W1" CONTENT="of" HPOS="1204" VPOS="1469" WIDTH="48" HEIGHT="32" WC="0.9836" />
+            <SP />
+            <String ID="B2_L2_W2" CONTENT="animals" HPOS="1280" VPOS="1468" WIDTH="174" HEIGHT="32" WC="0.9722" />
+            <SP />
+            <String ID="B2_L2_W3" CONTENT="illuminated" HPOS="1482" VPOS="1465" WIDTH="277" HEIGHT="34" WC="0.9931" />
+            <SP />
+            <String ID="B2_L2_W4" CONTENT="from" HPOS="1787" VPOS="1464" WIDTH="102" HEIGHT="33" WC="0.9761" />
+            <SP />
+            <String ID="B2_L2_W5" CONTENT="above" HPOS="1915" VPOS="1463" WIDTH="124" HEIGHT="33" WC="0.9920" />
+            <String ID="B2_L2_W6" CONTENT="." HPOS="2045" VPOS="1464" WIDTH="14" HEIGHT="31" WC="0.9786" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

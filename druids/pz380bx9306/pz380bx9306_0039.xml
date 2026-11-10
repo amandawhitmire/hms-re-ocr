@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pz380bx9306_0039</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2502" HEIGHT="3253" PHYSICAL_IMG_NR="1" PC="0.9185">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2502" HEIGHT="3253">
+        <TextBlock ID="B1" HPOS="384" VPOS="734" WIDTH="177" HEIGHT="54">
+          <TextLine ID="B1_L1" HPOS="384" VPOS="734" WIDTH="177" HEIGHT="54">
+            <String ID="B1_L1_W1" CONTENT="FIG" HPOS="384" VPOS="737" WIDTH="117" HEIGHT="51" WC="0.9101" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5" HPOS="511" VPOS="734" WIDTH="50" HEIGHT="48" WC="0.9330" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2254" VPOS="35" WIDTH="204" HEIGHT="80">
+          <TextLine ID="B2_L1" HPOS="2254" VPOS="35" WIDTH="204" HEIGHT="80">
+            <String ID="B2_L1_W1" CONTENT="326" HPOS="2254" VPOS="35" WIDTH="204" HEIGHT="80" WC="0.9944" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B3" TYPE="text" HPOS="2254" VPOS="3095" WIDTH="159" HEIGHT="135">
+          <TextBlock ID="B3_P1" HPOS="2256" VPOS="3102" WIDTH="139" HEIGHT="52">
+            <TextLine ID="B3_P1_L1" HPOS="2256" VPOS="3102" WIDTH="139" HEIGHT="52">
+              <String ID="B3_P1_L1_W1" CONTENT="Miller" HPOS="2256" VPOS="3102" WIDTH="139" HEIGHT="52" WC="0.8152" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B3_P2" HPOS="2269" VPOS="3162" WIDTH="144" HEIGHT="67">
+            <TextLine ID="B3_P2_L1" HPOS="2269" VPOS="3162" WIDTH="144" HEIGHT="67">
+              <String ID="B3_P2_L1_W1" CONTENT="F195" HPOS="2269" VPOS="3162" WIDTH="144" HEIGHT="67" WC="0.8904" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

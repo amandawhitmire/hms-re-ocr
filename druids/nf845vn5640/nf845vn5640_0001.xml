@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nf845vn5640_0001</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2542" HEIGHT="3303" PHYSICAL_IMG_NR="1" PC="0.9778">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2542" HEIGHT="3303">
+        <TextBlock ID="B1" HPOS="706" VPOS="1425" WIDTH="1172" HEIGHT="42">
+          <TextLine ID="B1_L1" HPOS="706" VPOS="1425" WIDTH="1172" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="CHEMORECEPTION" HPOS="706" VPOS="1425" WIDTH="415" HEIGHT="39" WC="0.9841" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="IN" HPOS="1159" VPOS="1427" WIDTH="54" HEIGHT="37" WC="0.9849" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="MYXICOLA" HPOS="1249" VPOS="1427" WIDTH="238" HEIGHT="38" WC="0.9865" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="INFUNDIBULUM" HPOS="1522" VPOS="1429" WIDTH="356" HEIGHT="37" WC="0.9908" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1069" VPOS="1529" WIDTH="417" HEIGHT="34">
+          <TextLine ID="B2_L1" HPOS="1069" VPOS="1529" WIDTH="417" HEIGHT="34">
+            <String ID="B2_L1_W1" CONTENT="Jill" HPOS="1069" VPOS="1529" WIDTH="114" HEIGHT="34" WC="0.9649" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Anne" HPOS="1219" VPOS="1529" WIDTH="118" HEIGHT="34" WC="0.9626" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Ward" HPOS="1369" VPOS="1529" WIDTH="117" HEIGHT="34" WC="0.9585" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1103" VPOS="2673" WIDTH="355" HEIGHT="40">
+          <TextLine ID="B3_L1" HPOS="1103" VPOS="2673" WIDTH="355" HEIGHT="40">
+            <String ID="B3_L1_W1" CONTENT="June" HPOS="1103" VPOS="2673" WIDTH="116" HEIGHT="40" WC="0.9769" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="4" HPOS="1252" VPOS="2673" WIDTH="27" HEIGHT="40" WC="0.9815" />
+            <String ID="B3_L1_W3" CONTENT="," HPOS="1287" VPOS="2673" WIDTH="17" HEIGHT="40" WC="0.9941" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="1976" HPOS="1343" VPOS="2673" WIDTH="115" HEIGHT="40" WC="0.9901" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

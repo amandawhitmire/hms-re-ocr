@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vw383jj6666_0022</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2538" HEIGHT="3288" PHYSICAL_IMG_NR="1" PC="0.8825">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2538" HEIGHT="3288">
+        <TextBlock ID="B1" HPOS="2028" VPOS="2964" WIDTH="66" HEIGHT="89">
+          <TextLine ID="B1_L1" HPOS="2028" VPOS="2964" WIDTH="66" HEIGHT="89">
+            <String ID="B1_L1_W1" CONTENT="B." HPOS="2028" VPOS="2964" WIDTH="66" HEIGHT="89" WC="0.9670" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1858" VPOS="2596" WIDTH="133" HEIGHT="177">
+          <TextLine ID="B2_L1" HPOS="1858" VPOS="2596" WIDTH="133" HEIGHT="177">
+            <String ID="B2_L1_W1" CONTENT="☐" HPOS="1858" VPOS="2596" WIDTH="133" HEIGHT="177" WC="0.6466" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="430" VPOS="1430" WIDTH="85" HEIGHT="216">
+          <TextLine ID="B3_L1" HPOS="430" VPOS="1430" WIDTH="85" HEIGHT="216">
+            <String ID="B3_L1_W1" CONTENT="Fig.4" HPOS="430" VPOS="1430" WIDTH="85" HEIGHT="216" WC="0.9666" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="762" VPOS="1264" WIDTH="64" HEIGHT="95">
+          <TextLine ID="B4_L1" HPOS="762" VPOS="1264" WIDTH="64" HEIGHT="95">
+            <String ID="B4_L1_W1" CONTENT="A." HPOS="762" VPOS="1264" WIDTH="64" HEIGHT="95" WC="0.9496" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>mc581jy9772_0026</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3257" PHYSICAL_IMG_NR="1" PC="0.9840">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3257">
+        <TextBlock ID="B1" HPOS="357" VPOS="423" WIDTH="256" HEIGHT="71">
+          <TextLine ID="B1_L1" HPOS="357" VPOS="423" WIDTH="256" HEIGHT="71">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="357" VPOS="424" WIDTH="201" HEIGHT="70" WC="0.9889" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="576" VPOS="423" WIDTH="37" HEIGHT="65" WC="0.9740" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="847" VPOS="949" WIDTH="839" HEIGHT="62">
+          <TextLine ID="B2_L1" HPOS="847" VPOS="949" WIDTH="839" HEIGHT="62">
+            <String ID="B2_L1_W1" CONTENT="Extraction" HPOS="847" VPOS="950" WIDTH="417" HEIGHT="61" WC="0.9890" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1294" VPOS="951" WIDTH="84" HEIGHT="58" WC="0.9862" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Protein" HPOS="1392" VPOS="949" WIDTH="294" HEIGHT="60" WC="0.9774" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="536" VPOS="1595" WIDTH="1461" HEIGHT="85">
+          <TextLine ID="B3_L1" HPOS="536" VPOS="1595" WIDTH="1461" HEIGHT="85">
+            <String ID="B3_L1_W1" CONTENT="Non" HPOS="536" VPOS="1595" WIDTH="162" HEIGHT="85" WC="0.9793" />
+            <String ID="B3_L1_W2" CONTENT="-" HPOS="702" VPOS="1595" WIDTH="35" HEIGHT="85" WC="0.9776" />
+            <String ID="B3_L1_W3" CONTENT="Denaturing" HPOS="733" VPOS="1595" WIDTH="457" HEIGHT="85" WC="0.9891" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="Polyacrylamide" HPOS="1210" VPOS="1595" WIDTH="625" HEIGHT="85" WC="0.9896" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="Gel" HPOS="1858" VPOS="1595" WIDTH="139" HEIGHT="85" WC="0.9899" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="953" VPOS="1707" WIDTH="617" HEIGHT="76">
+          <TextLine ID="B4_L1" HPOS="953" VPOS="1707" WIDTH="617" HEIGHT="76">
+            <String ID="B4_L1_W1" CONTENT="Electrophoresis" HPOS="953" VPOS="1707" WIDTH="617" HEIGHT="76" WC="0.9852" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="575" VPOS="2342" WIDTH="1380" HEIGHT="98">
+          <TextLine ID="B5_L1" HPOS="575" VPOS="2342" WIDTH="1380" HEIGHT="98">
+            <String ID="B5_L1_W1" CONTENT="Staining" HPOS="575" VPOS="2355" WIDTH="328" HEIGHT="85" WC="0.9791" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="for" HPOS="928" VPOS="2354" WIDTH="119" HEIGHT="81" WC="0.9921" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="Activity" HPOS="1068" VPOS="2349" WIDTH="321" HEIGHT="85" WC="0.9606" />
+            <SP />
+            <String ID="B5_L1_W4" CONTENT="of" HPOS="1411" VPOS="2348" WIDTH="89" HEIGHT="82" WC="0.9876" />
+            <SP />
+            <String ID="B5_L1_W5" CONTENT="the" HPOS="1512" VPOS="2346" WIDTH="124" HEIGHT="82" WC="0.9748" />
+            <SP />
+            <String ID="B5_L1_W6" CONTENT="Protein" HPOS="1659" VPOS="2342" WIDTH="296" HEIGHT="85" WC="0.9782" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

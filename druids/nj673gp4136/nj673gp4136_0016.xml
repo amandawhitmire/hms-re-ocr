@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nj673gp4136_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2533" HEIGHT="3283" PHYSICAL_IMG_NR="1" PC="0.8530">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2533" HEIGHT="3283">
+        <TextBlock ID="B1" HPOS="803" VPOS="2701" WIDTH="199" HEIGHT="245">
+          <TextLine ID="B1_L1" HPOS="803" VPOS="2700" WIDTH="199" HEIGHT="246">
+            <String ID="B1_L1_W1" CONTENT="Helix" HPOS="869" VPOS="2791" WIDTH="133" HEIGHT="155" WC="0.9897" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="αH" HPOS="803" VPOS="2700" WIDTH="95" HEIGHT="105" WC="0.6315" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2212" VPOS="2472" WIDTH="66" HEIGHT="425">
+          <TextLine ID="B2_L1" HPOS="2212" VPOS="2472" WIDTH="66" HEIGHT="425">
+            <String ID="B2_L1_W1" CONTENT="BH" HPOS="2212" VPOS="2816" WIDTH="66" HEIGHT="81" WC="0.7597" />
+            <String ID="B2_L1_W2" CONTENT="-" HPOS="2212" VPOS="2785" WIDTH="65" HEIGHT="27" WC="0.8546" />
+            <String ID="B2_L1_W3" CONTENT="α1G" HPOS="2212" VPOS="2651" WIDTH="65" HEIGHT="134" WC="0.7619" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="Loop" HPOS="2212" VPOS="2472" WIDTH="65" HEIGHT="153" WC="0.9401" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="231" VPOS="1524" WIDTH="117" HEIGHT="259">
+          <TextLine ID="B3_L1" HPOS="232" VPOS="1524" WIDTH="116" HEIGHT="259">
+            <String ID="B3_L1_W1" CONTENT="Fig" HPOS="241" VPOS="1641" WIDTH="107" HEIGHT="142" WC="0.9862" />
+            <String ID="B3_L1_W2" CONTENT="." HPOS="239" VPOS="1618" WIDTH="97" HEIGHT="27" WC="0.9825" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="3" HPOS="232" VPOS="1524" WIDTH="100" HEIGHT="68" WC="0.9707" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="464" VPOS="1248" WIDTH="65" HEIGHT="563">
+          <TextLine ID="B4_L1" HPOS="465" VPOS="1248" WIDTH="64" HEIGHT="563">
+            <String ID="B4_L1_W1" CONTENT="aD" HPOS="465" VPOS="1722" WIDTH="61" HEIGHT="89" WC="0.8803" />
+            <String ID="B4_L1_W2" CONTENT="/" HPOS="465" VPOS="1696" WIDTH="60" HEIGHT="25" WC="0.9727" />
+            <String ID="B4_L1_W3" CONTENT="Catalytic" HPOS="465" VPOS="1424" WIDTH="63" HEIGHT="272" WC="0.9927" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="Loop" HPOS="467" VPOS="1248" WIDTH="62" HEIGHT="156" WC="0.9874" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1869" VPOS="1349" WIDTH="50" HEIGHT="472">
+          <TextLine ID="B5_L1" HPOS="1869" VPOS="1349" WIDTH="50" HEIGHT="472">
+            <String ID="B5_L1_W1" CONTENT="Helix" HPOS="1869" VPOS="1667" WIDTH="50" HEIGHT="154" WC="0.9888" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="α1G" HPOS="1869" VPOS="1511" WIDTH="50" HEIGHT="136" WC="0.7280" />
+            <String ID="B5_L1_W3" CONTENT="-" HPOS="1869" VPOS="1483" WIDTH="50" HEIGHT="24" WC="0.8476" />
+            <String ID="B5_L1_W4" CONTENT="α2G" HPOS="1869" VPOS="1349" WIDTH="50" HEIGHT="134" WC="0.7238" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1352" VPOS="435" WIDTH="50" HEIGHT="96">
+          <TextLine ID="B6_L1" HPOS="1352" VPOS="435" WIDTH="50" HEIGHT="96">
+            <String ID="B6_L1_W1" CONTENT="αA" HPOS="1352" VPOS="435" WIDTH="50" HEIGHT="96" WC="0.5848" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

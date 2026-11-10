@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>dy063pf0945_0017</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2519" HEIGHT="3277" PHYSICAL_IMG_NR="1" PC="0.9883">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2519" HEIGHT="3277">
+        <TextBlock ID="B1" HPOS="586" VPOS="2712" WIDTH="199" HEIGHT="47">
+          <TextLine ID="B1_L1" HPOS="586" VPOS="2713" WIDTH="199" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="586" VPOS="2713" WIDTH="146" HEIGHT="46" WC="0.9926" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="759" VPOS="2713" WIDTH="26" HEIGHT="42" WC="0.9875" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="883" VPOS="2716" WIDTH="1155" HEIGHT="41">
+          <TextLine ID="B2_L1" HPOS="883" VPOS="2716" WIDTH="1155" HEIGHT="41">
+            <String ID="B2_L1_W1" CONTENT="Trypanorhynchid" HPOS="883" VPOS="2716" WIDTH="376" HEIGHT="41" WC="0.9859" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="larva" HPOS="1288" VPOS="2716" WIDTH="121" HEIGHT="41" WC="0.9831" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="from" HPOS="1436" VPOS="2716" WIDTH="102" HEIGHT="41" WC="0.9900" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="the" HPOS="1561" VPOS="2716" WIDTH="74" HEIGHT="41" WC="0.9701" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="visceral" HPOS="1661" VPOS="2716" WIDTH="196" HEIGHT="41" WC="0.9854" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="cavity" HPOS="1888" VPOS="2716" WIDTH="150" HEIGHT="41" WC="0.9858" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

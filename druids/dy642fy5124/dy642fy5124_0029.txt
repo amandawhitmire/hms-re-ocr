@@ -1,0 +1,127 @@
+}
+
+}
+
+}
+
+output ( fp1 ) ;
+
+/* At end of year, print all array values to
+/* output file
+
+* /
+
+* /
+
+fcloseall ( ) ;
+
+void clear(int yr)
+
+{
+
+int x;
+
+}
+
+if (yr==1) {
+
+N_ltd[0] = C_ltd [0] = N_pool = prodn [0] =
+
+C_out [0] = recyc [0] = phyto [0] = 0;
+
+N_up [0] = 6000;
+phyto [1] = 600;
+
+/* initialize program so biomass doesn't blow up
+/* mgC/m^2; measure N in C equivalents
+
+* /
+
+* 1
+
+else {
+
+}
+
+phyto [1] = phyto [49];
+for (x=2; x<=47; x++)
+N_ltd [x] =C_ltd [x]
+recyc [x] = N_up [x] =
+
+= phyto [x] = prodn [x] = C_out [x] =
+
+0 ;
+
+/* initialize all but Jan and Dec with zeros (Jan and
+/* Dec values are used in future calculations
+
+* /
+
+void find_C_prodn(int mo, int box)
+
+{
+
+double light, chl,
+
+int
+
+PAR [13] = {0, 24.7, 28.6, 40.6, 49.4, 56.5,
+60.6, 57.2, 47.3, 38.8, 25.4, 25, 22);
+
+Chl_convers [13] = (0, 20, 21, 23, 30, 45, 55, 57, 51, 45,
+37, 30, 25);
+
+chl = phyto [box]/(double) Chl_convers [mo];
+
+}
+
+light = PAR[mo] * 7.5;
+
+/* Phytoplankton concentration converted to Chl_a/m^2
+/* Light over 1/4 of month
+
+* /
+* /
+
+C_ltd [box] = (chl)*(.069+.45*light);
+
+/* Platt's equation relating light to photosynthesis
+
+* /
+
+void find_N_prodn(int mo, int box)
+
+{
+
+double upw();
+
+}
+
+N_up [box] = upw(mo);
+
+N_pool += N_up [box];
+
+N_ltd [box] = ((N_pool) < 4687) ?
+
+(sqrt(N_pool/(.0025*.048))) = (N_pool/.75);
+
+/* .048 is conversion factor; have to convert
+
+/* Eppley equation for new: total production (using
+/* a max ration of .75 instead of .5)
+
+* 1
+
+* /
+
+* /
+
+/* from gC/yr to mgC/wk; (* 1000mg/g * yr/12mo * mo/4wk)*/
+
+double upw(int mo)
+
+{
+
+double arrows(), upwell, N;
+
+int iso [13] = (0, 100, 95, 70, 30, 20, 25, 60,

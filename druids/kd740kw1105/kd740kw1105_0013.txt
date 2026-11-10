@@ -1,0 +1,323 @@
+Table 1
+
+DENSITY (0)
+
+Salinity 30.000/00 to 39.99°/00
+
+T. ˚C.
+
+f
+
+T. ˚C.
+
+σι
+
+f
+
+T. ˚C.
+
+σι
+
+f
+
+-2.00
+
+24.15
+
+4.07
+
+23.83
+
+7.37
+
+-1.75
+
+.8120
+
+23.46
+
+.14
+
+.18
+
+.82
+
+.7860
+
+.45
+
+.29
+
+.81
+
+.7940
+
+.45
+
+-1.13
+
+24.13
+
+.8100
+
+.40
+
+.80
+
+7.52
+
+23.44
+
+.60
+
+.43
+
+-0.71 24.12 .8090
+
+4.50
+
+23.79
+
+.67
+
+.42
+
+.60
+
+.78
+
+.75
+
+حياء
+
+.7850
+
+-0.37 24.11
+
+.70
+
+.77
+
+.7930
+
+.82
+
+.40
+
+-0.08
+
+.10
+
+.8070
+
+.80
+
+.76
+
+.89
+
+.39
+
+.90
+
+.75
+
+.96
+
+.38
+
+0.18
+
+24.09
+
+0.42
+
+.8050
+
+.08
+
+5.00
+
+23.74
+
+8.04
+
+23.37
+
+.09
+
+.73
+
+.11
+
+.36
+
+0.64
+
+24.07
+
+i
+
+.19
+
+.72
+
+.18
+
+0.85
+
+.06
+
+.8040
+
+.7910
+
+.35
+
+.27
+
+.71
+
+.25
+
+.34
+
+.7840
+
+.37
+
+.70
+
+.32
+
+.33
+
+1.05
+
+24.05
+
+.46
+
+.69
+
+.39
+
+.32
+
+.24
+
+.04 .8020
+
+.46
+
+.31
+
+.41
+
+.03
+
+5.56
+
+23.68
+
+.65
+
+.67
+
+8.53
+
+23.30
+
+1.58
+
+24.02
+
+.73
+
+.66 .7900
+
+.60
+
+.29
+
+.75
+
+.01 .8010
+
+.82
+
+.65
+
+.67
+
+.28
+
+.91
+
+24.00
+
+.91
+
+.64
+
+.74
+
+.27 .7830
+
+80
+
+26
+
+EXAMPLE OF COMPUTATION:
+
+Given a temperature of 15.70° C. and a salinity of 36.47%. compute the σ, value.
+
+1. Select the salinity interval of 30.00 to 39.99%..
+
+2. In column one, find the temperature interval in which 15.70 falls (always use the
+lower limit of the interval). The lower limit is 15.69° C.
+
+3. Entering column one at 15.69° C. read the corresponding value of 22.00 in column
+two. This is the correct σ value for the base of the salinity interval, that is, for a salinity
+of 30.00%.. and temperature of 15.69° C.
+
+4. To find the correct σ value for the given salinity of 36.47%, multiply the desig-
+nated f-factor in column three (.7680) by the last three digits of the given salinity (6.47),
+observing decimal places, and add the value obtained to the base value 22.00.
+
+5. Round the value obtained (26.96896) to two decimal places. ANSWER 26.97.
+Thus: Given 15.70° C. and 36.47%. S.
+
+From table for Salinity 30.00 to 39.99%., enter column one at lower limit of tem-
+perature interval (15.69):
+
+Obtain base
+
+f - factor
+
+value in
+
+column two +
+
+of column
+three
+
+×
+
+last three
+digits of
+given S.
+
+=
+
+22.00
+
+.7680
+
+6.47
+
+26.968960 (round to two decimal places)
+
+ANSWER 26.97
+
+(U.S. Naval Oceanographic Office, 1962)

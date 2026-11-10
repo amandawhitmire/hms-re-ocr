@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cs572bw0877_0023</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9356">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="153" VPOS="1652" WIDTH="31" HEIGHT="57">
+          <TextLine ID="B1_L1" HPOS="153" VPOS="1652" WIDTH="31" HEIGHT="57">
+            <String ID="B1_L1_W1" CONTENT="+/-" HPOS="153" VPOS="1652" WIDTH="31" HEIGHT="57" WC="0.8336" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="147" VPOS="1227" WIDTH="46" HEIGHT="379">
+          <TextLine ID="B2_L1" HPOS="147" VPOS="1227" WIDTH="46" HEIGHT="379">
+            <String ID="B2_L1_W1" CONTENT="Verapamil" HPOS="149" VPOS="1388" WIDTH="44" HEIGHT="218" WC="0.9758" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="Ratio" HPOS="147" VPOS="1227" WIDTH="43" HEIGHT="112" WC="0.9463" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="460" VPOS="1751" WIDTH="14" HEIGHT="24">
+          <TextLine ID="B3_L1" HPOS="460" VPOS="1751" WIDTH="14" HEIGHT="24">
+            <String ID="B3_L1_W1" CONTENT="1" HPOS="460" VPOS="1751" WIDTH="14" HEIGHT="24" WC="0.9787" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="455" VPOS="1428" WIDTH="26" HEIGHT="27">
+          <TextLine ID="B4_L1" HPOS="455" VPOS="1428" WIDTH="26" HEIGHT="27">
+            <String ID="B4_L1_W1" CONTENT="2" HPOS="455" VPOS="1428" WIDTH="26" HEIGHT="27" WC="0.9846" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="457" VPOS="1111" WIDTH="24" HEIGHT="24">
+          <TextLine ID="B5_L1" HPOS="457" VPOS="1111" WIDTH="24" HEIGHT="24">
+            <String ID="B5_L1_W1" CONTENT="3" HPOS="457" VPOS="1111" WIDTH="24" HEIGHT="24" WC="0.9763" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="457" VPOS="788" WIDTH="28" HEIGHT="26">
+          <TextLine ID="B6_L1" HPOS="457" VPOS="788" WIDTH="28" HEIGHT="26">
+            <String ID="B6_L1_W1" CONTENT="4" HPOS="457" VPOS="788" WIDTH="28" HEIGHT="26" WC="0.9820" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1095" VPOS="614" WIDTH="271" HEIGHT="49">
+          <TextLine ID="B7_L1" HPOS="1095" VPOS="614" WIDTH="271" HEIGHT="49">
+            <String ID="B7_L1_W1" CONTENT="Figure" HPOS="1095" VPOS="616" WIDTH="177" HEIGHT="47" WC="0.8867" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="4" HPOS="1333" VPOS="614" WIDTH="33" HEIGHT="44" WC="0.9719" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="456" VPOS="2072" WIDTH="24" HEIGHT="26">
+          <TextLine ID="B8_L1" HPOS="456" VPOS="2072" WIDTH="24" HEIGHT="26">
+            <String ID="B8_L1_W1" CONTENT="0" HPOS="456" VPOS="2072" WIDTH="24" HEIGHT="26" WC="0.7700" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="735" VPOS="2119" WIDTH="288" HEIGHT="36">
+          <TextLine ID="B9_L1" HPOS="735" VPOS="2119" WIDTH="288" HEIGHT="36">
+            <String ID="B9_L1_W1" CONTENT="+" HPOS="735" VPOS="2119" WIDTH="20" HEIGHT="36" WC="0.8968" />
+            <String ID="B9_L1_W2" CONTENT="formaldehyde" HPOS="756" VPOS="2119" WIDTH="267" HEIGHT="36" WC="0.9909" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1451" VPOS="2117" WIDTH="287" HEIGHT="36">
+          <TextLine ID="B10_L1" HPOS="1451" VPOS="2117" WIDTH="287" HEIGHT="36">
+            <String ID="B10_L1_W1" CONTENT="-formaldehyde" HPOS="1451" VPOS="2117" WIDTH="287" HEIGHT="36" WC="0.9831" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

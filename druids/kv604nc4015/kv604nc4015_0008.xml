@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kv604nc4015_0008</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9874">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="1032" VPOS="373" WIDTH="402" HEIGHT="31">
+          <TextLine ID="B1_L1" HPOS="1032" VPOS="373" WIDTH="402" HEIGHT="31">
+            <String ID="B1_L1_W1" CONTENT="ACKNOWLEDGEMENTS" HPOS="1032" VPOS="373" WIDTH="402" HEIGHT="31" WC="0.9913" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="533" VPOS="517" WIDTH="1579" HEIGHT="49">
+          <TextLine ID="B2_L1" HPOS="533" VPOS="517" WIDTH="1579" HEIGHT="49">
+            <String ID="B2_L1_W1" CONTENT="I" HPOS="533" VPOS="528" WIDTH="23" HEIGHT="38" WC="0.9809" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="wish" HPOS="579" VPOS="526" WIDTH="103" HEIGHT="40" WC="0.9925" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="to" HPOS="708" VPOS="526" WIDTH="46" HEIGHT="38" WC="0.9829" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="acknowledge" HPOS="782" VPOS="523" WIDTH="276" HEIGHT="41" WC="0.9930" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="Dr." HPOS="1081" VPOS="523" WIDTH="70" HEIGHT="39" WC="0.9647" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="Isabella" HPOS="1186" VPOS="522" WIDTH="197" HEIGHT="40" WC="0.9856" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="and" HPOS="1410" VPOS="521" WIDTH="72" HEIGHT="39" WC="0.9788" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="Dr." HPOS="1509" VPOS="521" WIDTH="70" HEIGHT="38" WC="0.9703" />
+            <SP />
+            <String ID="B2_L1_W9" CONTENT="Donald" HPOS="1609" VPOS="519" WIDTH="149" HEIGHT="40" WC="0.9887" />
+            <SP />
+            <String ID="B2_L1_W10" CONTENT="P." HPOS="1787" VPOS="519" WIDTH="44" HEIGHT="38" WC="0.9684" />
+            <SP />
+            <String ID="B2_L1_W11" CONTENT="Abbott" HPOS="1860" VPOS="517" WIDTH="152" HEIGHT="40" WC="0.9792" />
+            <SP />
+            <String ID="B2_L1_W12" CONTENT="for" HPOS="2040" VPOS="517" WIDTH="72" HEIGHT="38" WC="0.9854" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="408" VPOS="624" WIDTH="1000" HEIGHT="41">
+          <TextLine ID="B3_L1" HPOS="408" VPOS="624" WIDTH="1000" HEIGHT="41">
+            <String ID="B3_L1_W1" CONTENT="their" HPOS="408" VPOS="624" WIDTH="122" HEIGHT="41" WC="0.9919" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="time" HPOS="558" VPOS="624" WIDTH="99" HEIGHT="41" WC="0.9893" />
+            <String ID="B3_L1_W3" CONTENT="," HPOS="662" VPOS="624" WIDTH="13" HEIGHT="41" WC="0.9466" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="patience" HPOS="708" VPOS="624" WIDTH="199" HEIGHT="41" WC="0.9891" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="and" HPOS="934" VPOS="624" WIDTH="74" HEIGHT="41" WC="0.9901" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="endless" HPOS="1036" VPOS="624" WIDTH="172" HEIGHT="41" WC="0.9886" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="energy" HPOS="1237" VPOS="624" WIDTH="152" HEIGHT="41" WC="0.9902" />
+            <String ID="B3_L1_W8" CONTENT="." HPOS="1393" VPOS="624" WIDTH="15" HEIGHT="41" WC="0.9383" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nv769sk2051_0025</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3382" HEIGHT="4355" PHYSICAL_IMG_NR="1" PC="0.6167">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3382" HEIGHT="4355">
+        <TextBlock ID="B1" HPOS="2953" VPOS="4253" WIDTH="366" HEIGHT="79">
+          <TextLine ID="B1_L1" HPOS="2953" VPOS="4254" WIDTH="366" HEIGHT="78">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="3033" VPOS="4257" WIDTH="286" HEIGHT="75" WC="0.8489" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="2953" VPOS="4254" WIDTH="55" HEIGHT="63" WC="0.8360" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="2410" VPOS="4096" WIDTH="63" HEIGHT="102">
+          <TextLine ID="B2_L1" HPOS="2410" VPOS="4096" WIDTH="63" HEIGHT="102">
+            <String ID="B2_L1_W1" CONTENT="30" HPOS="2410" VPOS="4096" WIDTH="63" HEIGHT="102" WC="0.6715" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="693" VPOS="4140" WIDTH="1416" HEIGHT="108">
+          <TextLine ID="B3_L1" HPOS="693" VPOS="4140" WIDTH="1416" HEIGHT="108">
+            <String ID="B3_L1_W1" CONTENT="June" HPOS="1560" VPOS="4140" WIDTH="549" HEIGHT="102" WC="0.2766" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="to" HPOS="1358" VPOS="4145" WIDTH="122" HEIGHT="98" WC="0.4022" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="HTOMJ" HPOS="693" VPOS="4146" WIDTH="599" HEIGHT="102" WC="0.5995" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1845" VPOS="3618" WIDTH="253" HEIGHT="94">
+          <TextLine ID="B4_L1" HPOS="1845" VPOS="3618" WIDTH="253" HEIGHT="94">
+            <String ID="B4_L1_W1" CONTENT="BED" HPOS="1845" VPOS="3618" WIDTH="253" HEIGHT="94" WC="0.5670" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="120" VPOS="1926" WIDTH="106" HEIGHT="994">
+          <TextLine ID="B5_L1" HPOS="121" VPOS="1926" WIDTH="105" HEIGHT="994">
+            <String ID="B5_L1_W1" CONTENT="(" HPOS="121" VPOS="1926" WIDTH="95" HEIGHT="59" WC="0.7083" />
+            <String ID="B5_L1_W2" CONTENT="@AUGH" HPOS="121" VPOS="1956" WIDTH="99" HEIGHT="481" WC="0.4664" />
+            <String ID="B5_L1_W3" CONTENT=")" HPOS="126" VPOS="2458" WIDTH="95" HEIGHT="54" WC="0.8340" />
+            <SP />
+            <String ID="B5_L1_W4" CONTENT="3DA" HPOS="128" VPOS="2590" WIDTH="98" HEIGHT="330" WC="0.5470" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

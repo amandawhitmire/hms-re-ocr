@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cs558kf6394_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2515" HEIGHT="3249" PHYSICAL_IMG_NR="1" PC="0.9584">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2515" HEIGHT="3249">
+        <TextBlock ID="B1" HPOS="1595" VPOS="695" WIDTH="31" HEIGHT="35">
+          <TextLine ID="B1_L1" HPOS="1595" VPOS="695" WIDTH="31" HEIGHT="35">
+            <String ID="B1_L1_W1" CONTENT="a" HPOS="1595" VPOS="695" WIDTH="31" HEIGHT="35" WC="0.9483" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1887" VPOS="1105" WIDTH="23" HEIGHT="31">
+          <TextLine ID="B2_L1" HPOS="1887" VPOS="1105" WIDTH="23" HEIGHT="31">
+            <String ID="B2_L1_W1" CONTENT="C" HPOS="1887" VPOS="1105" WIDTH="23" HEIGHT="31" WC="0.9643" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1177" VPOS="1904" WIDTH="26" HEIGHT="41">
+          <TextLine ID="B3_L1" HPOS="1177" VPOS="1904" WIDTH="26" HEIGHT="41">
+            <String ID="B3_L1_W1" CONTENT="d" HPOS="1177" VPOS="1904" WIDTH="26" HEIGHT="41" WC="0.9602" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1976" VPOS="1857" WIDTH="23" HEIGHT="28">
+          <TextLine ID="B4_L1" HPOS="1976" VPOS="1857" WIDTH="23" HEIGHT="28">
+            <String ID="B4_L1_W1" CONTENT="e" HPOS="1976" VPOS="1857" WIDTH="23" HEIGHT="28" WC="0.9607" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

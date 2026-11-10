@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>qq810nv1357_0003</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2495" HEIGHT="3251" PHYSICAL_IMG_NR="1" PC="0.9852">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2495" HEIGHT="3251">
+        <TextBlock ID="B1" HPOS="431" VPOS="327" WIDTH="1826" HEIGHT="48">
+          <TextLine ID="B1_L1" HPOS="431" VPOS="327" WIDTH="1826" HEIGHT="48">
+            <String ID="B1_L1_W1" CONTENT="capacity" HPOS="431" VPOS="327" WIDTH="236" HEIGHT="41" WC="0.9878" />
+            <String ID="B1_L1_W2" CONTENT="?" HPOS="673" VPOS="329" WIDTH="21" HEIGHT="39" WC="0.9166" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Can" HPOS="729" VPOS="329" WIDTH="88" HEIGHT="39" WC="0.9813" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="the" HPOS="851" VPOS="329" WIDTH="85" HEIGHT="40" WC="0.9938" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="starved" HPOS="970" VPOS="329" WIDTH="209" HEIGHT="41" WC="0.9819" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="slugs" HPOS="1212" VPOS="330" WIDTH="144" HEIGHT="41" WC="0.9861" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="regain" HPOS="1390" VPOS="331" WIDTH="179" HEIGHT="41" WC="0.9918" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="photosynthetic" HPOS="1599" VPOS="332" WIDTH="419" HEIGHT="42" WC="0.9919" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="ability" HPOS="2052" VPOS="334" WIDTH="205" HEIGHT="41" WC="0.9896" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="432" VPOS="432" WIDTH="1498" HEIGHT="38">
+          <TextLine ID="B2_L1" HPOS="432" VPOS="432" WIDTH="1498" HEIGHT="38">
+            <String ID="B2_L1_W1" CONTENT="on" HPOS="432" VPOS="432" WIDTH="58" HEIGHT="38" WC="0.9551" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="a" HPOS="522" VPOS="432" WIDTH="27" HEIGHT="38" WC="0.9910" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="diet" HPOS="579" VPOS="432" WIDTH="118" HEIGHT="38" WC="0.9921" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="of" HPOS="732" VPOS="432" WIDTH="56" HEIGHT="38" WC="0.9829" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="isolated" HPOS="821" VPOS="432" WIDTH="238" HEIGHT="38" WC="0.9841" />
+            <SP />
+            <String ID="B2_L1_W6" CONTENT="Codium" HPOS="1092" VPOS="432" WIDTH="179" HEIGHT="38" WC="0.9838" />
+            <SP />
+            <String ID="B2_L1_W7" CONTENT="fragile" HPOS="1304" VPOS="432" WIDTH="208" HEIGHT="38" WC="0.9935" />
+            <SP />
+            <String ID="B2_L1_W8" CONTENT="chloroplasts" HPOS="1543" VPOS="432" WIDTH="356" HEIGHT="38" WC="0.9913" />
+            <String ID="B2_L1_W9" CONTENT="?" HPOS="1906" VPOS="432" WIDTH="24" HEIGHT="38" WC="0.9286" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1163" VPOS="3133" WIDTH="29" HEIGHT="29">
+          <TextLine ID="B3_L1" HPOS="1163" VPOS="3133" WIDTH="29" HEIGHT="29">
+            <String ID="B3_L1_W1" CONTENT="4" HPOS="1163" VPOS="3133" WIDTH="29" HEIGHT="29" WC="0.9826" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cd935wb7388_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2503" HEIGHT="3224" PHYSICAL_IMG_NR="1" PC="0.7458">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2503" HEIGHT="3224">
+        <TextBlock ID="B1" HPOS="962" VPOS="306" WIDTH="869" HEIGHT="111">
+          <TextLine ID="B1_L1" HPOS="962" VPOS="306" WIDTH="869" HEIGHT="111">
+            <String ID="B1_L1_W1" CONTENT="Field" HPOS="962" VPOS="306" WIDTH="174" HEIGHT="76" WC="0.9620" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Lines" HPOS="1181" VPOS="317" WIDTH="157" HEIGHT="76" WC="0.9816" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Around" HPOS="1369" VPOS="327" WIDTH="202" HEIGHT="77" WC="0.9655" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Torpedo" HPOS="1600" VPOS="338" WIDTH="231" HEIGHT="79" WC="0.9878" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1071" VPOS="1193" WIDTH="125" HEIGHT="61">
+          <TextLine ID="B2_L1" HPOS="1071" VPOS="1193" WIDTH="125" HEIGHT="61">
+            <String ID="B2_L1_W1" CONTENT="++++" HPOS="1071" VPOS="1193" WIDTH="125" HEIGHT="61" WC="0.4893" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1276" VPOS="2029" WIDTH="33" HEIGHT="31">
+          <TextLine ID="B3_L1" HPOS="1276" VPOS="2029" WIDTH="33" HEIGHT="31">
+            <String ID="B3_L1_W1" CONTENT="+" HPOS="1276" VPOS="2029" WIDTH="33" HEIGHT="31" WC="0.7731" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

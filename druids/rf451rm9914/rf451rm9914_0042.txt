@@ -1,0 +1,386 @@
+42
+
+TABLE 13
+
+Explanation of Column Headings
+
+Sample 1: first data set, Sample 2: second data set, X: mean of data set,
+
+:
+
+n: number of values in a data set, DF: degrees of freedon, sa pooled variance,
+SS: sum of squares of deviations from the nean of a data set,
+crit'l value: critical value (to (2), OF), α (2): significance level
+
+Equations for two-tailed t test
+
+Sample 1 - Sample Z
+
+t value = standard error of difference between means
+
+Statistical Test Results
+two-sample, two-tailed t tests
+
+Se
+
++
+
+standard error =
+
+n 1 n Z
+
+Sp
+
+SS 1 + SSZ
+
+SS = Σl data value -7)²
+
+DF = n 1 + n 2-2
+
+DF
+
+Two-tailed hypotheses
+
+Ho
+
+: x Sample 1 = * Sample Z
+
+A
+
+H: Sample 1 x Sample 2
+
+Reject H. if It value > critical value
+
+2
+
+Comparison
+
+Sample 1
+
+Sample 2 ☑Sample 1 Sample 2
+
+SS 1
+
+SS 2
+
+01 02
+
+DF
+
+t value
+
+crit'l value
+
+α ( 2 )
+
+1. Vertical Distribution
+
+Depth Range 200-250 m
+
+H₂O Colum
+
+Depth Range 250-300 m
+
+H₂O Colun
+
+C4 - C5
+C4 - C5
+
+Depth Range 300-350 m
+
+H₂O Column
+
+C4 - C5
+
+Depth Range 350-400 m
+
+H₂O Column
+
+C4 - C5
+
+Depth Range 400-450 m
+Depth Range 450-500 m
+Patchiness Data
+C4-CS Depth Range Data
+
+H₂O Colum
+
+04-05
+
+H₂O Column
+
+C4 - C5
+
+0.394913
+0.6721304
+1.7303913
+2.1385
+1.852
+0.7991666
+
+H₂O Column
+
+04-05
+
+0.2371363
+
+2.375 77.419893 383.65625
+9.8678 136.19355 2342.4177
+13.3434 703.86198 2784.1591
+9.3392
+1.8861666
+1.5666
+1.0075333
+
+23
+
+15
+
+23
+
+15
+
+36 12.80767 -1.66712
+36 68.850315 -3.339243
+
+1.306
+
+0.2
+
+3.333
+
+0.002
+
+23
+
+15
+
+36 96.889474
+
+-3.554873
+
+3.333 0.002
+
+186.48595 1423.1628
+
+22
+
+15
+
+35 45.989964 -3.171022
+
+2.996
+
+0.005
+
+162.68679 41.172974
+
+16
+
+6
+
+20 10.192988
+
+4.5810188
+
+13.089711
+
+6
+
+5
+
+9
+
+-0.022355
+1.9634144 -0.904479
+
+not significant
+
+0.703
+
+0.5
+
+1.3938405 19.374475
+
+22
+
+15
+
+35 0.5933804
+
+-2.986785
+
+2.724
+
+0.01
+
+200-250 M
+
+250-300 M
+
+2.375
+
+9.8678
+
+383.65625 2342.4177
+
+15
+
+15
+
+28 97.359787 -2.079624
+
+2.048
+
+0.05
+
+C4-C5 Depth Range Data
+
+300-350 m
+
+250-300 M
+
+13.3434
+
+9.8678
+
+2784.1591 2342.4177
+
+15
+
+15
+
+28 183.09203
+
+0.7034377
+
+0.683
+
+0.5
+
+C4-C5 Depth Range Data
+C4-C5 Depth Range Data
+H2O Col. Depth Range Data
+H₂O Col. Depth Range Data
+H2O Col. Depth Range Data
+H2O Col. Depth Range Data
+
+300-350 m
+
+350-400 M
+
+13.3434
+
+9.3392
+
+2784.1591 1423.1628
+
+15
+
+15
+
+28 150.26149
+
+0.8945869
+
+0.683
+
+0.5
+
+400-450 m
+
+350-400 M
+
+1.8861666
+
+9.3392 41.172974 1423.1628
+
+6 15
+
+19 77.070303
+
+-1.757523
+
+1.729
+
+0.1
+
+200-250 M
+
+250-300 M
+
+0.394913
+
+0.6721304
+
+300-350 M
+
+250-300 M
+
+1.7303913
+
+0.6721304
+
+77.419893
+703.86198 136.19355
+
+136.19355
+
+23
+
+23
+
+44 4.8548511
+
+-0.426659
+
+not significant
+
+23
+
+23
+
+44 19.092171
+
+300-350 M
+
+330-400 M
+
+400-450 M
+
+350-400 M
+
+1.7303913
+1.852
+
+2.1385
+
+703.86198 186.48595
+
+23
+
+22
+
+43 20.705766
+
+2.1385
+
+162.68679 186.48595
+
+16
+
+22
+
+36 9.6992432
+
+0.821323
+-0.300745
+-0.279985
+
+0.68
+
+0.5
+
+not significant
+
+not significant

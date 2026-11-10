@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sr097dz1109_0037</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2508" HEIGHT="3243" PHYSICAL_IMG_NR="1" PC="0.8106">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2508" HEIGHT="3243">
+        <TextBlock ID="B1" HPOS="2348" VPOS="2705" WIDTH="115" HEIGHT="223">
+          <TextLine ID="B1_L1" HPOS="2348" VPOS="2705" WIDTH="115" HEIGHT="223">
+            <String ID="B1_L1_W1" CONTENT="shy" HPOS="2348" VPOS="2705" WIDTH="115" HEIGHT="223" WC="0.4558" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="348" VPOS="510" WIDTH="51" HEIGHT="708">
+          <TextLine ID="B2_L1" HPOS="348" VPOS="510" WIDTH="51" HEIGHT="708">
+            <String ID="B2_L1_W1" CONTENT="PHOTOSYNTHETIC" HPOS="350" VPOS="737" WIDTH="49" HEIGHT="481" WC="0.9912" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="OUTPUT" HPOS="348" VPOS="510" WIDTH="47" HEIGHT="212" WC="0.9782" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="991" VPOS="1675" WIDTH="539" HEIGHT="59">
+          <TextLine ID="B3_L1" HPOS="991" VPOS="1675" WIDTH="539" HEIGHT="59">
+            <String ID="B3_L1_W1" CONTENT="SOLAR" HPOS="991" VPOS="1685" WIDTH="185" HEIGHT="49" WC="0.9881" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="IRRADIANCE" HPOS="1191" VPOS="1675" WIDTH="339" HEIGHT="54" WC="0.9890" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

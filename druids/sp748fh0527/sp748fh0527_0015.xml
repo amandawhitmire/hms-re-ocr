@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sp748fh0527_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2517" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9609">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2517" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="982" VPOS="426" WIDTH="274" HEIGHT="49">
+          <TextLine ID="B1_L1" HPOS="982" VPOS="427" WIDTH="274" HEIGHT="48">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="982" VPOS="429" WIDTH="171" HEIGHT="46" WC="0.9561" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5" HPOS="1208" VPOS="427" WIDTH="29" HEIGHT="42" WC="0.9673" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="1242" VPOS="427" WIDTH="14" HEIGHT="41" WC="0.9081" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="933" VPOS="1627" WIDTH="350" HEIGHT="56">
+          <TextLine ID="B2_L1" HPOS="933" VPOS="1627" WIDTH="350" HEIGHT="56">
+            <String ID="B2_L1_W1" CONTENT="1" HPOS="933" VPOS="1627" WIDTH="53" HEIGHT="56" WC="0.9533" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="2" HPOS="1032" VPOS="1627" WIDTH="72" HEIGHT="56" WC="0.9747" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="3" HPOS="1132" VPOS="1627" WIDTH="75" HEIGHT="56" WC="0.9683" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="4" HPOS="1226" VPOS="1627" WIDTH="57" HEIGHT="56" WC="0.9850" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

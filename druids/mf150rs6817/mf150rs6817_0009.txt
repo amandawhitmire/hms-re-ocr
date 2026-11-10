@@ -1,0 +1,17 @@
+Biotechnologies, Inc.) was used to translate and align sequences. Hydrophilicity
+profiles were also created in Mac Vector using the Kyte-Doolittle scale of
+hydrophilicity .
+
+Sequences were aligned in CLUSTALV in an appropriate format for the
+Phylogeny Inference Package (PHYLIP 3.5) (University of Washington, WA). A
+parsimony tree with 500 bootstrap resamplings was derived using the Seqboot,
+Propars, and Consense programs in PHYLIP. The PHYLIP Protdist and
+Neighbor programs were used to generate a distance tree. The algorithm used to
+determine branch lengths was provided by the Dayhoff PAM matrix which makes
+a transition probability matrix based on the sequences. This matrix weights
+amino acid switches by predicting the probability of changing from one amino
+acid to another. The probabilities are used to determine branch distances scaled
+in units of expected fraction of amino acids changed. The PHYLIP programs,
+Drawgram and Drawtree were used to produce pictures of each type of tree.
+
+9

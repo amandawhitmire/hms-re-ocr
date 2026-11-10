@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zm833xm7783_0009</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2518" HEIGHT="3223" PHYSICAL_IMG_NR="1" PC="0.9895">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2518" HEIGHT="3223">
+        <TextBlock ID="B1" HPOS="484" VPOS="219" WIDTH="125" HEIGHT="28">
+          <TextLine ID="B1_L1" HPOS="484" VPOS="219" WIDTH="125" HEIGHT="28">
+            <String ID="B1_L1_W1" CONTENT="Shabb" HPOS="484" VPOS="219" WIDTH="125" HEIGHT="28" WC="0.9883" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="480" VPOS="418" WIDTH="378" HEIGHT="31">
+          <TextLine ID="B2_L1" HPOS="480" VPOS="418" WIDTH="378" HEIGHT="31">
+            <String ID="B2_L1_W1" CONTENT="ACKNOWLEDGMENTS" HPOS="480" VPOS="418" WIDTH="378" HEIGHT="31" WC="0.9935" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="608" VPOS="567" WIDTH="1427" HEIGHT="38">
+          <TextLine ID="B3_L1" HPOS="608" VPOS="567" WIDTH="1427" HEIGHT="38">
+            <String ID="B3_L1_W1" CONTENT="I" HPOS="608" VPOS="567" WIDTH="22" HEIGHT="38" WC="0.9554" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="would" HPOS="655" VPOS="567" WIDTH="123" HEIGHT="38" WC="0.9767" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="like" HPOS="809" VPOS="567" WIDTH="98" HEIGHT="38" WC="0.9923" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="to" HPOS="932" VPOS="567" WIDTH="49" HEIGHT="38" WC="0.9880" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="thank" HPOS="1008" VPOS="567" WIDTH="124" HEIGHT="38" WC="0.9928" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="Charles" HPOS="1161" VPOS="567" WIDTH="173" HEIGHT="38" WC="0.9798" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="Baxter" HPOS="1362" VPOS="567" WIDTH="147" HEIGHT="38" WC="0.9894" />
+            <SP />
+            <String ID="B3_L1_W8" CONTENT="for" HPOS="1535" VPOS="567" WIDTH="76" HEIGHT="38" WC="0.9840" />
+            <SP />
+            <String ID="B3_L1_W9" CONTENT="his" HPOS="1634" VPOS="567" WIDTH="74" HEIGHT="38" WC="0.9926" />
+            <SP />
+            <String ID="B3_L1_W10" CONTENT="patience" HPOS="1736" VPOS="567" WIDTH="198" HEIGHT="38" WC="0.9888" />
+            <SP />
+            <String ID="B3_L1_W11" CONTENT="and" HPOS="1962" VPOS="567" WIDTH="73" HEIGHT="38" WC="0.9926" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="480" VPOS="662" WIDTH="749" HEIGHT="50">
+          <TextLine ID="B4_L1" HPOS="480" VPOS="662" WIDTH="749" HEIGHT="49">
+            <String ID="B4_L1_W1" CONTENT="advice" HPOS="480" VPOS="662" WIDTH="151" HEIGHT="42" WC="0.9916" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="throughout" HPOS="656" VPOS="664" WIDTH="246" HEIGHT="43" WC="0.9896" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="the" HPOS="931" VPOS="668" WIDTH="74" HEIGHT="41" WC="0.9928" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="quarter" HPOS="1029" VPOS="669" WIDTH="178" HEIGHT="42" WC="0.9931" />
+            <String ID="B4_L1_W5" CONTENT="." HPOS="1213" VPOS="672" WIDTH="16" HEIGHT="39" WC="0.9554" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="2038" VPOS="219" WIDTH="48" HEIGHT="31">
+          <TextLine ID="B5_L1" HPOS="2038" VPOS="219" WIDTH="48" HEIGHT="31">
+            <String ID="B5_L1_W1" CONTENT="10" HPOS="2038" VPOS="219" WIDTH="48" HEIGHT="31" WC="0.9893" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

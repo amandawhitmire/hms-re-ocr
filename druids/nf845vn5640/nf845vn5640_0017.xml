@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nf845vn5640_0017</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2517" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9854">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2517" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="353" VPOS="59" WIDTH="781" HEIGHT="46">
+          <TextLine ID="B1_L1" HPOS="353" VPOS="59" WIDTH="781" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="Chemoreception" HPOS="353" VPOS="59" WIDTH="420" HEIGHT="45" WC="0.9889" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="in" HPOS="806" VPOS="61" WIDTH="56" HEIGHT="42" WC="0.9900" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Myxicola" HPOS="890" VPOS="61" WIDTH="244" HEIGHT="44" WC="0.9590" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="285" VPOS="511" WIDTH="420" HEIGHT="61">
+          <TextLine ID="B2_L1" HPOS="285" VPOS="511" WIDTH="420" HEIGHT="61">
+            <String ID="B2_L1_W1" CONTENT="FIGURE" HPOS="285" VPOS="511" WIDTH="331" HEIGHT="61" WC="0.9912" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="1" HPOS="669" VPOS="514" WIDTH="36" HEIGHT="58" WC="0.9895" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1980" VPOS="45" WIDTH="209" HEIGHT="45">
+          <TextLine ID="B3_L1" HPOS="1980" VPOS="45" WIDTH="209" HEIGHT="45">
+            <String ID="B3_L1_W1" CONTENT="page" HPOS="1980" VPOS="50" WIDTH="118" HEIGHT="40" WC="0.9845" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="14" HPOS="2132" VPOS="45" WIDTH="57" HEIGHT="36" WC="0.9893" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

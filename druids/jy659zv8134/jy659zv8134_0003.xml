@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jy659zv8134_0003</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="3365" HEIGHT="4361" PHYSICAL_IMG_NR="1" PC="0.8388">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3365" HEIGHT="4361">
+        <ComposedBlock ID="B1" TYPE="text" HPOS="1480" VPOS="2574" WIDTH="1112" HEIGHT="636">
+          <TextBlock ID="B1_P1" HPOS="1627" VPOS="2576" WIDTH="846" HEIGHT="183">
+            <TextLine ID="B1_P1_L1" HPOS="1627" VPOS="2576" WIDTH="846" HEIGHT="183">
+              <String ID="B1_P1_L1_W1" CONTENT="CATON'S" HPOS="1627" VPOS="2576" WIDTH="846" HEIGHT="183" WC="0.7013" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B1_P2" HPOS="1480" VPOS="2832" WIDTH="1110" HEIGHT="377">
+            <TextLine ID="B1_P2_L1" HPOS="1482" VPOS="2832" WIDTH="1108" HEIGHT="175">
+              <String ID="B1_P2_L1_W1" CONTENT="CORRASABLE" HPOS="1482" VPOS="2832" WIDTH="1108" HEIGHT="175" WC="0.8376" />
+            </TextLine>
+            <TextLine ID="B1_P2_L2" HPOS="1770" VPOS="3075" WIDTH="550" HEIGHT="128">
+              <String ID="B1_P2_L2_W1" CONTENT="BOND" HPOS="1770" VPOS="3075" WIDTH="550" HEIGHT="128" WC="0.9861" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B2" HPOS="1864" VPOS="3269" WIDTH="380" HEIGHT="116">
+          <TextLine ID="B2_L1" HPOS="1864" VPOS="3269" WIDTH="380" HEIGHT="116">
+            <String ID="B2_L1_W1" CONTENT="USA" HPOS="1864" VPOS="3269" WIDTH="380" HEIGHT="116" WC="0.9183" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B3" TYPE="text" HPOS="1244" VPOS="3298" WIDTH="1422" HEIGHT="587">
+          <TextBlock ID="B3_P1" HPOS="1532" VPOS="3308" WIDTH="1029" HEIGHT="311">
+            <TextLine ID="B3_P1_L1" HPOS="1532" VPOS="3308" WIDTH="1029" HEIGHT="311">
+              <String ID="B3_P1_L1_W1" CONTENT="BERKSHIRE" HPOS="1532" VPOS="3308" WIDTH="1029" HEIGHT="311" WC="0.6573" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B3_P2" HPOS="1245" VPOS="3731" WIDTH="1418" HEIGHT="154">
+            <TextLine ID="B3_P2_L1" HPOS="1245" VPOS="3732" WIDTH="1418" HEIGHT="153">
+              <String ID="B3_P2_L1_W1" CONTENT="*" HPOS="1245" VPOS="3732" WIDTH="89" HEIGHT="125" WC="0.3262" />
+              <SP />
+              <String ID="B3_P2_L1_W2" CONTENT="COTTON" HPOS="1428" VPOS="3735" WIDTH="414" HEIGHT="133" WC="0.6520" />
+              <SP />
+              <String ID="B3_P2_L1_W3" CONTENT="FIBER" HPOS="1866" VPOS="3745" WIDTH="306" HEIGHT="129" WC="0.8257" />
+              <SP />
+              <String ID="B3_P2_L1_W4" CONTENT="CONTENT" HPOS="2179" VPOS="3751" WIDTH="484" HEIGHT="134" WC="0.4955" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B4" HPOS="3146" VPOS="13" WIDTH="175" HEIGHT="108">
+          <TextLine ID="B4_L1" HPOS="3146" VPOS="13" WIDTH="175" HEIGHT="108">
+            <String ID="B4_L1_W1" CONTENT="401" HPOS="3146" VPOS="13" WIDTH="175" HEIGHT="108" WC="0.9823" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>mc581jy9772_0025</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3257" PHYSICAL_IMG_NR="1" PC="0.9913">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3257">
+        <TextBlock ID="B1" HPOS="306" VPOS="169" WIDTH="256" HEIGHT="67">
+          <TextLine ID="B1_L1" HPOS="306" VPOS="169" WIDTH="256" HEIGHT="67">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="306" VPOS="170" WIDTH="200" HEIGHT="66" WC="0.9920" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="2" HPOS="520" VPOS="169" WIDTH="42" HEIGHT="62" WC="0.9864" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="356" VPOS="816" WIDTH="274" HEIGHT="65">
+          <TextLine ID="B2_L1" HPOS="356" VPOS="816" WIDTH="274" HEIGHT="65">
+            <String ID="B2_L1_W1" CONTENT="Hayward" HPOS="356" VPOS="816" WIDTH="274" HEIGHT="65" WC="0.9908" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="726" VPOS="1545" WIDTH="318" HEIGHT="69">
+          <TextLine ID="B3_L1" HPOS="726" VPOS="1546" WIDTH="318" HEIGHT="68">
+            <String ID="B3_L1_W1" CONTENT="San" HPOS="726" VPOS="1546" WIDTH="115" HEIGHT="62" WC="0.9891" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Diego" HPOS="858" VPOS="1549" WIDTH="186" HEIGHT="65" WC="0.9923" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="920" VPOS="1838" WIDTH="327" HEIGHT="66">
+          <TextLine ID="B4_L1" HPOS="920" VPOS="1838" WIDTH="327" HEIGHT="65">
+            <String ID="B4_L1_W1" CONTENT="San" HPOS="920" VPOS="1838" WIDTH="116" HEIGHT="63" WC="0.9905" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="Felipe" HPOS="1052" VPOS="1840" WIDTH="195" HEIGHT="63" WC="0.9929" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

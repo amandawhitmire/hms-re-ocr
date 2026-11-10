@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>gq801gw3740_0013</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2535" HEIGHT="3277" PHYSICAL_IMG_NR="1" PC="0.9786">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2535" HEIGHT="3277">
+        <TextBlock ID="B1" HPOS="406" VPOS="233" WIDTH="813" HEIGHT="36">
+          <TextLine ID="B1_L1" HPOS="406" VPOS="233" WIDTH="813" HEIGHT="36">
+            <String ID="B1_L1_W1" CONTENT="Calcium" HPOS="406" VPOS="233" WIDTH="212" HEIGHT="36" WC="0.9870" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Spikes" HPOS="649" VPOS="233" WIDTH="173" HEIGHT="36" WC="0.9910" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="in" HPOS="860" VPOS="233" WIDTH="56" HEIGHT="36" WC="0.9890" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Metridium" HPOS="946" VPOS="233" WIDTH="273" HEIGHT="36" WC="0.9902" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="407" VPOS="378" WIDTH="476" HEIGHT="48">
+          <TextLine ID="B2_L1" HPOS="407" VPOS="378" WIDTH="476" HEIGHT="48">
+            <String ID="B2_L1_W1" CONTENT="Caption" HPOS="407" VPOS="382" WIDTH="207" HEIGHT="44" WC="0.9758" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="to" HPOS="648" VPOS="380" WIDTH="56" HEIGHT="43" WC="0.9919" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Table" HPOS="736" VPOS="378" WIDTH="147" HEIGHT="44" WC="0.9937" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="406" VPOS="535" WIDTH="230" HEIGHT="32">
+          <TextLine ID="B3_L1" HPOS="406" VPOS="535" WIDTH="230" HEIGHT="32">
+            <String ID="B3_L1_W1" CONTENT="Table" HPOS="406" VPOS="535" WIDTH="145" HEIGHT="32" WC="0.9916" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="1" HPOS="587" VPOS="535" WIDTH="26" HEIGHT="32" WC="0.7461" />
+            <String ID="B3_L1_W3" CONTENT="." HPOS="622" VPOS="535" WIDTH="14" HEIGHT="32" WC="0.9647" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="708" VPOS="527" WIDTH="1470" HEIGHT="49">
+          <TextLine ID="B4_L1" HPOS="708" VPOS="528" WIDTH="1470" HEIGHT="48">
+            <String ID="B4_L1_W1" CONTENT="Comparison" HPOS="708" VPOS="532" WIDTH="297" HEIGHT="44" WC="0.9831" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="of" HPOS="1039" VPOS="532" WIDTH="55" HEIGHT="42" WC="0.9870" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="Electrically" HPOS="1126" VPOS="530" WIDTH="364" HEIGHT="44" WC="0.9795" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="Initiated" HPOS="1524" VPOS="529" WIDTH="264" HEIGHT="44" WC="0.9901" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="Contractions" HPOS="1823" VPOS="528" WIDTH="355" HEIGHT="44" WC="0.9873" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="709" VPOS="632" WIDTH="1047" HEIGHT="35">
+          <TextLine ID="B5_L1" HPOS="709" VPOS="632" WIDTH="1047" HEIGHT="35">
+            <String ID="B5_L1_W1" CONTENT="to" HPOS="709" VPOS="632" WIDTH="54" HEIGHT="35" WC="0.9652" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="Nerve" HPOS="797" VPOS="632" WIDTH="146" HEIGHT="35" WC="0.9896" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="Net" HPOS="978" VPOS="632" WIDTH="89" HEIGHT="35" WC="0.9910" />
+            <SP />
+            <String ID="B5_L1_W4" CONTENT="Initiated" HPOS="1103" VPOS="632" WIDTH="264" HEIGHT="35" WC="0.9901" />
+            <SP />
+            <String ID="B5_L1_W5" CONTENT="Contractions" HPOS="1402" VPOS="632" WIDTH="354" HEIGHT="35" WC="0.9724" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

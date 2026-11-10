@@ -1,0 +1,34 @@
+Here T is the absolute temperature of the object, AL is the radiative area of the
+object, & is infrared emissivity, and σ is the Stefan-Boltzmann constant. Because
+the rock and limpet are at about the same temperature, there is little net IR
+transfer between the two, and that factor was ignored. Most of the IR transfer is
+between the limpet and the sky. The net long-wave radiation energy is then:
+
+(eq. 5)
+
+Wnet = Win - Wout = Vsky AL Esky σ Tair - Vsky AL Elimpet σ T limpet
+where Vsky is the fraction of a limpet's lateral area exposed to the sky. The goal
+of this equation is to calculate T limpet So we use a Taylor series to reduce eq. 5 to
+an approximate expression containing Tlimpet
+
+3
+
+Wnet = V sky AL & limpet σ Tair (Esky - 1) + 4 Vsky & AL limpet σT air³ (Esky Tair-T limpet) (eq. 6)
+Determination of heat transfer coefficient. Energy exchange by convection
+was calculated using Newton's Law of Cooling:
+
+Wconv=hc (Tair - Tlimpet) Aconv
+
+(eq. 7)
+
+where he is the heat transfer coefficient and A conv is the surface area of the limpet
+exposed to wind. he is a measure of the heat exhanged as a function of limpet
+size, shape, and wind speed, and is expressed in units of W/m²/AT. I measured
+hc empirically using a low-speed wind tunnel (described in Bell 1995) to find the
+rate at which limpets lose heat to the air due to forced convection. Four limpet
+models were used in this experiment, described in Table 1. The models are
+silver alloy casts of actual L. digitalis. Silver was used because it conducts heat
+very well. As a result it maintains a constant temperature throughout its mass,
+simplifying the measurement of body temperature.
+
+9

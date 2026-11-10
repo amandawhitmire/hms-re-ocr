@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>dy063pf0945_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2519" HEIGHT="3277" PHYSICAL_IMG_NR="1" PC="0.9874">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2519" HEIGHT="3277">
+        <TextBlock ID="B1" HPOS="603" VPOS="2708" WIDTH="201" HEIGHT="44">
+          <TextLine ID="B1_L1" HPOS="603" VPOS="2709" WIDTH="201" HEIGHT="43">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="603" VPOS="2709" WIDTH="147" HEIGHT="43" WC="0.9934" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="2" HPOS="778" VPOS="2709" WIDTH="26" HEIGHT="40" WC="0.9893" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="905" VPOS="2710" WIDTH="899" HEIGHT="39">
+          <TextLine ID="B2_L1" HPOS="905" VPOS="2710" WIDTH="899" HEIGHT="39">
+            <String ID="B2_L1_W1" CONTENT="Digenetic" HPOS="905" VPOS="2710" WIDTH="223" HEIGHT="39" WC="0.9914" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="trematode" HPOS="1156" VPOS="2710" WIDTH="223" HEIGHT="39" WC="0.9900" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="from" HPOS="1407" VPOS="2710" WIDTH="100" HEIGHT="39" WC="0.9869" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="the" HPOS="1532" VPOS="2710" WIDTH="72" HEIGHT="39" WC="0.9737" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="stomach" HPOS="1632" VPOS="2710" WIDTH="172" HEIGHT="39" WC="0.9605" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

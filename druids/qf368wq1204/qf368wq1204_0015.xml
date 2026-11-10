@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>qf368wq1204_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2550" HEIGHT="3300" PHYSICAL_IMG_NR="1" PC="0.9840">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2550" HEIGHT="3300">
+        <TextBlock ID="B1" HPOS="375" VPOS="291" WIDTH="310" HEIGHT="40">
+          <TextLine ID="B1_L1" HPOS="375" VPOS="291" WIDTH="310" HEIGHT="40">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="375" VPOS="291" WIDTH="140" HEIGHT="40" WC="0.9907" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Legend" HPOS="528" VPOS="291" WIDTH="157" HEIGHT="40" WC="0.9932" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B2" TYPE="text" HPOS="371" VPOS="393" WIDTH="1783" HEIGHT="248">
+          <TextBlock ID="B2_P1" HPOS="372" VPOS="399" WIDTH="1782" HEIGHT="119">
+            <TextLine ID="B2_P1_L1" HPOS="374" VPOS="400" WIDTH="1780" HEIGHT="57">
+              <String ID="B2_P1_L1_W1" CONTENT="Fig" HPOS="374" VPOS="400" WIDTH="70" HEIGHT="47" WC="0.9863" />
+              <String ID="B2_P1_L1_W2" CONTENT="." HPOS="439" VPOS="400" WIDTH="13" HEIGHT="47" WC="0.9601" />
+              <SP />
+              <String ID="B2_P1_L1_W3" CONTENT="1." HPOS="469" VPOS="400" WIDTH="32" HEIGHT="47" WC="0.9458" />
+              <SP />
+              <String ID="B2_P1_L1_W4" CONTENT="Change" HPOS="520" VPOS="400" WIDTH="154" HEIGHT="49" WC="0.9721" />
+              <SP />
+              <String ID="B2_P1_L1_W5" CONTENT="in" HPOS="687" VPOS="401" WIDTH="36" HEIGHT="47" WC="0.9935" />
+              <SP />
+              <String ID="B2_P1_L1_W6" CONTENT="the" HPOS="739" VPOS="402" WIDTH="60" HEIGHT="47" WC="0.9907" />
+              <SP />
+              <String ID="B2_P1_L1_W7" CONTENT="behavior" HPOS="813" VPOS="402" WIDTH="178" HEIGHT="48" WC="0.9893" />
+              <SP />
+              <String ID="B2_P1_L1_W8" CONTENT="of" HPOS="1004" VPOS="403" WIDTH="46" HEIGHT="47" WC="0.9858" />
+              <SP />
+              <String ID="B2_P1_L1_W9" CONTENT="one" HPOS="1056" VPOS="403" WIDTH="70" HEIGHT="48" WC="0.9913" />
+              <SP />
+              <String ID="B2_P1_L1_W10" CONTENT="pacemaker" HPOS="1135" VPOS="403" WIDTH="224" HEIGHT="49" WC="0.9942" />
+              <SP />
+              <String ID="B2_P1_L1_W11" CONTENT="neuron" HPOS="1371" VPOS="405" WIDTH="142" HEIGHT="49" WC="0.9923" />
+              <SP />
+              <String ID="B2_P1_L1_W12" CONTENT="during" HPOS="1526" VPOS="406" WIDTH="136" HEIGHT="49" WC="0.9898" />
+              <SP />
+              <String ID="B2_P1_L1_W13" CONTENT="a" HPOS="1673" VPOS="407" WIDTH="25" HEIGHT="47" WC="0.9918" />
+              <SP />
+              <String ID="B2_P1_L1_W14" CONTENT="two" HPOS="1711" VPOS="407" WIDTH="73" HEIGHT="47" WC="0.9918" />
+              <SP />
+              <String ID="B2_P1_L1_W15" CONTENT="hour" HPOS="1796" VPOS="408" WIDTH="99" HEIGHT="48" WC="0.9932" />
+              <SP />
+              <String ID="B2_P1_L1_W16" CONTENT="temperature" HPOS="1905" VPOS="408" WIDTH="249" HEIGHT="49" WC="0.9906" />
+            </TextLine>
+            <TextLine ID="B2_P1_L2" HPOS="372" VPOS="467" WIDTH="1568" HEIGHT="46">
+              <String ID="B2_P1_L2_W1" CONTENT="ramp" HPOS="372" VPOS="467" WIDTH="107" HEIGHT="46" WC="0.9826" />
+              <SP />
+              <String ID="B2_P1_L2_W2" CONTENT="from" HPOS="483" VPOS="467" WIDTH="100" HEIGHT="46" WC="0.9891" />
+              <SP />
+              <String ID="B2_P1_L2_W3" CONTENT="10" HPOS="602" VPOS="467" WIDTH="47" HEIGHT="46" WC="0.9710" />
+              <String ID="B2_P1_L2_W4" CONTENT="°" HPOS="654" VPOS="467" WIDTH="22" HEIGHT="46" WC="0.8126" />
+              <SP />
+              <String ID="B2_P1_L2_W5" CONTENT="to" HPOS="681" VPOS="467" WIDTH="39" HEIGHT="46" WC="0.9865" />
+              <SP />
+              <String ID="B2_P1_L2_W6" CONTENT="20" HPOS="733" VPOS="467" WIDTH="52" HEIGHT="46" WC="0.9835" />
+              <SP />
+              <String ID="B2_P1_L2_W7" CONTENT="°" HPOS="792" VPOS="467" WIDTH="23" HEIGHT="46" WC="0.6922" />
+              <String ID="B2_P1_L2_W8" CONTENT="C" HPOS="807" VPOS="467" WIDTH="31" HEIGHT="46" WC="0.8881" />
+              <SP />
+              <String ID="B2_P1_L2_W9" CONTENT="and" HPOS="850" VPOS="467" WIDTH="77" HEIGHT="46" WC="0.9779" />
+              <SP />
+              <String ID="B2_P1_L2_W10" CONTENT="back" HPOS="938" VPOS="467" WIDTH="99" HEIGHT="46" WC="0.9929" />
+              <SP />
+              <String ID="B2_P1_L2_W11" CONTENT="Voltage" HPOS="1058" VPOS="467" WIDTH="159" HEIGHT="46" WC="0.9926" />
+              <SP />
+              <String ID="B2_P1_L2_W12" CONTENT="in" HPOS="1229" VPOS="467" WIDTH="39" HEIGHT="46" WC="0.9738" />
+              <SP />
+              <String ID="B2_P1_L2_W13" CONTENT="millivolts" HPOS="1279" VPOS="467" WIDTH="194" HEIGHT="46" WC="0.9898" />
+              <SP />
+              <String ID="B2_P1_L2_W14" CONTENT="on" HPOS="1486" VPOS="467" WIDTH="50" HEIGHT="46" WC="0.9818" />
+              <SP />
+              <String ID="B2_P1_L2_W15" CONTENT="the" HPOS="1548" VPOS="467" WIDTH="62" HEIGHT="46" WC="0.9865" />
+              <SP />
+              <String ID="B2_P1_L2_W16" CONTENT="y" HPOS="1622" VPOS="467" WIDTH="27" HEIGHT="46" WC="0.9894" />
+              <String ID="B2_P1_L2_W17" CONTENT="-" HPOS="1647" VPOS="467" WIDTH="16" HEIGHT="46" WC="0.9808" />
+              <String ID="B2_P1_L2_W18" CONTENT="axes" HPOS="1665" VPOS="467" WIDTH="89" HEIGHT="46" WC="0.9781" />
+              <String ID="B2_P1_L2_W19" CONTENT="," HPOS="1755" VPOS="467" WIDTH="12" HEIGHT="46" WC="0.9451" />
+              <SP />
+              <String ID="B2_P1_L2_W20" CONTENT="Time" HPOS="1779" VPOS="467" WIDTH="110" HEIGHT="46" WC="0.9913" />
+              <SP />
+              <String ID="B2_P1_L2_W21" CONTENT="in" HPOS="1899" VPOS="467" WIDTH="41" HEIGHT="46" WC="0.9928" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B2_P2" HPOS="374" VPOS="505" WIDTH="1773" HEIGHT="136">
+            <TextLine ID="B2_P2_L1" HPOS="375" VPOS="522" WIDTH="1772" HEIGHT="49">
+              <String ID="B2_P2_L1_W1" CONTENT="milliseconds" HPOS="375" VPOS="522" WIDTH="250" HEIGHT="49" WC="0.9922" />
+              <SP />
+              <String ID="B2_P2_L1_W2" CONTENT="on" HPOS="641" VPOS="522" WIDTH="47" HEIGHT="49" WC="0.9914" />
+              <SP />
+              <String ID="B2_P2_L1_W3" CONTENT="the" HPOS="701" VPOS="522" WIDTH="64" HEIGHT="49" WC="0.9860" />
+              <SP />
+              <String ID="B2_P2_L1_W4" CONTENT="x" HPOS="775" VPOS="522" WIDTH="24" HEIGHT="49" WC="0.9438" />
+              <String ID="B2_P2_L1_W5" CONTENT="-" HPOS="800" VPOS="522" WIDTH="17" HEIGHT="49" WC="0.9901" />
+              <String ID="B2_P2_L1_W6" CONTENT="axes" HPOS="819" VPOS="522" WIDTH="86" HEIGHT="49" WC="0.9738" />
+              <String ID="B2_P2_L1_W7" CONTENT="." HPOS="909" VPOS="522" WIDTH="10" HEIGHT="49" WC="0.9553" />
+              <SP />
+              <String ID="B2_P2_L1_W8" CONTENT="One" HPOS="945" VPOS="522" WIDTH="83" HEIGHT="49" WC="0.9897" />
+              <SP />
+              <String ID="B2_P2_L1_W9" CONTENT="minute" HPOS="1040" VPOS="522" WIDTH="140" HEIGHT="49" WC="0.9740" />
+              <SP />
+              <String ID="B2_P2_L1_W10" CONTENT="traces" HPOS="1191" VPOS="522" WIDTH="116" HEIGHT="49" WC="0.9926" />
+              <String ID="B2_P2_L1_W11" CONTENT="." HPOS="1311" VPOS="522" WIDTH="9" HEIGHT="49" WC="0.9803" />
+              <SP />
+              <String ID="B2_P2_L1_W12" CONTENT="Times" HPOS="1346" VPOS="522" WIDTH="124" HEIGHT="49" WC="0.9884" />
+              <SP />
+              <String ID="B2_P2_L1_W13" CONTENT="in" HPOS="1486" VPOS="522" WIDTH="38" HEIGHT="49" WC="0.9815" />
+              <SP />
+              <String ID="B2_P2_L1_W14" CONTENT="parentheses" HPOS="1535" VPOS="522" WIDTH="234" HEIGHT="49" WC="0.9902" />
+              <SP />
+              <String ID="B2_P2_L1_W15" CONTENT="are" HPOS="1784" VPOS="522" WIDTH="61" HEIGHT="49" WC="0.9915" />
+              <SP />
+              <String ID="B2_P2_L1_W16" CONTENT="times" HPOS="1856" VPOS="522" WIDTH="110" HEIGHT="49" WC="0.9903" />
+              <SP />
+              <String ID="B2_P2_L1_W17" CONTENT="after" HPOS="1982" VPOS="522" WIDTH="93" HEIGHT="49" WC="0.9938" />
+              <SP />
+              <String ID="B2_P2_L1_W18" CONTENT="the" HPOS="2083" VPOS="522" WIDTH="64" HEIGHT="49" WC="0.9929" />
+            </TextLine>
+            <TextLine ID="B2_P2_L2" HPOS="373" VPOS="577" WIDTH="591" HEIGHT="52">
+              <String ID="B2_P2_L2_W1" CONTENT="start" HPOS="373" VPOS="577" WIDTH="86" HEIGHT="43" WC="0.9444" />
+              <SP />
+              <String ID="B2_P2_L2_W2" CONTENT="of" HPOS="472" VPOS="579" WIDTH="46" HEIGHT="42" WC="0.9930" />
+              <SP />
+              <String ID="B2_P2_L2_W3" CONTENT="the" HPOS="523" VPOS="580" WIDTH="63" HEIGHT="42" WC="0.9926" />
+              <SP />
+              <String ID="B2_P2_L2_W4" CONTENT="temperature" HPOS="597" VPOS="582" WIDTH="244" HEIGHT="45" WC="0.9895" />
+              <SP />
+              <String ID="B2_P2_L2_W5" CONTENT="ramp" HPOS="850" VPOS="586" WIDTH="106" HEIGHT="43" WC="0.9867" />
+              <String ID="B2_P2_L2_W6" CONTENT="." HPOS="954" VPOS="589" WIDTH="10" HEIGHT="40" WC="0.9246" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B3" HPOS="370" VPOS="686" WIDTH="1774" HEIGHT="245">
+          <TextLine ID="B3_L1" HPOS="372" VPOS="691" WIDTH="1641" HEIGHT="56">
+            <String ID="B3_L1_W1" CONTENT="Fig" HPOS="372" VPOS="691" WIDTH="72" HEIGHT="48" WC="0.9853" />
+            <String ID="B3_L1_W2" CONTENT="." HPOS="439" VPOS="691" WIDTH="12" HEIGHT="48" WC="0.9537" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="2." HPOS="465" VPOS="691" WIDTH="35" HEIGHT="48" WC="0.9678" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="Change" HPOS="519" VPOS="691" WIDTH="154" HEIGHT="50" WC="0.9616" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="in" HPOS="687" VPOS="692" WIDTH="37" HEIGHT="48" WC="0.9908" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="the" HPOS="737" VPOS="692" WIDTH="63" HEIGHT="49" WC="0.9910" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="behavior" HPOS="812" VPOS="692" WIDTH="180" HEIGHT="50" WC="0.9921" />
+            <SP />
+            <String ID="B3_L1_W8" CONTENT="of" HPOS="1003" VPOS="694" WIDTH="46" HEIGHT="48" WC="0.9723" />
+            <SP />
+            <String ID="B3_L1_W9" CONTENT="a" HPOS="1055" VPOS="694" WIDTH="22" HEIGHT="48" WC="0.9901" />
+            <SP />
+            <String ID="B3_L1_W10" CONTENT="second" HPOS="1092" VPOS="694" WIDTH="141" HEIGHT="50" WC="0.9732" />
+            <SP />
+            <String ID="B3_L1_W11" CONTENT="pacemaker" HPOS="1240" VPOS="695" WIDTH="223" HEIGHT="49" WC="0.9916" />
+            <SP />
+            <String ID="B3_L1_W12" CONTENT="neuron" HPOS="1476" VPOS="696" WIDTH="142" HEIGHT="49" WC="0.9922" />
+            <SP />
+            <String ID="B3_L1_W13" CONTENT="during" HPOS="1630" VPOS="696" WIDTH="136" HEIGHT="50" WC="0.9906" />
+            <SP />
+            <String ID="B3_L1_W14" CONTENT="a" HPOS="1778" VPOS="698" WIDTH="24" HEIGHT="48" WC="0.9895" />
+            <SP />
+            <String ID="B3_L1_W15" CONTENT="four" HPOS="1808" VPOS="698" WIDTH="94" HEIGHT="48" WC="0.9844" />
+            <SP />
+            <String ID="B3_L1_W16" CONTENT="hour" HPOS="1913" VPOS="698" WIDTH="100" HEIGHT="49" WC="0.9835" />
+          </TextLine>
+          <TextLine ID="B3_L2" HPOS="371" VPOS="758" WIDTH="1772" HEIGHT="45">
+            <String ID="B3_L2_W1" CONTENT="temperature" HPOS="371" VPOS="758" WIDTH="247" HEIGHT="45" WC="0.9939" />
+            <SP />
+            <String ID="B3_L2_W2" CONTENT="ramp" HPOS="629" VPOS="758" WIDTH="108" HEIGHT="45" WC="0.9899" />
+            <SP />
+            <String ID="B3_L2_W3" CONTENT="from" HPOS="741" VPOS="758" WIDTH="101" HEIGHT="45" WC="0.9822" />
+            <SP />
+            <String ID="B3_L2_W4" CONTENT="14" HPOS="859" VPOS="758" WIDTH="46" HEIGHT="45" WC="0.9431" />
+            <String ID="B3_L2_W5" CONTENT="°" HPOS="913" VPOS="758" WIDTH="20" HEIGHT="45" WC="0.7968" />
+            <SP />
+            <String ID="B3_L2_W6" CONTENT="to" HPOS="938" VPOS="758" WIDTH="39" HEIGHT="45" WC="0.9880" />
+            <SP />
+            <String ID="B3_L2_W7" CONTENT="25" HPOS="991" VPOS="758" WIDTH="51" HEIGHT="45" WC="0.9775" />
+            <SP />
+            <String ID="B3_L2_W8" CONTENT="°" HPOS="1050" VPOS="758" WIDTH="23" HEIGHT="45" WC="0.6315" />
+            <String ID="B3_L2_W9" CONTENT="C" HPOS="1063" VPOS="758" WIDTH="31" HEIGHT="45" WC="0.8825" />
+            <SP />
+            <String ID="B3_L2_W10" CONTENT="and" HPOS="1107" VPOS="758" WIDTH="77" HEIGHT="45" WC="0.9759" />
+            <SP />
+            <String ID="B3_L2_W11" CONTENT="back" HPOS="1195" VPOS="758" WIDTH="98" HEIGHT="45" WC="0.9890" />
+            <SP />
+            <String ID="B3_L2_W12" CONTENT="Voltage" HPOS="1313" VPOS="758" WIDTH="160" HEIGHT="45" WC="0.9920" />
+            <SP />
+            <String ID="B3_L2_W13" CONTENT="in" HPOS="1486" VPOS="758" WIDTH="39" HEIGHT="45" WC="0.9741" />
+            <SP />
+            <String ID="B3_L2_W14" CONTENT="millivolts" HPOS="1538" VPOS="758" WIDTH="192" HEIGHT="45" WC="0.9907" />
+            <SP />
+            <String ID="B3_L2_W15" CONTENT="on" HPOS="1745" VPOS="758" WIDTH="49" HEIGHT="45" WC="0.9794" />
+            <SP />
+            <String ID="B3_L2_W16" CONTENT="the" HPOS="1806" VPOS="758" WIDTH="63" HEIGHT="45" WC="0.9885" />
+            <SP />
+            <String ID="B3_L2_W17" CONTENT="y" HPOS="1881" VPOS="758" WIDTH="27" HEIGHT="45" WC="0.9918" />
+            <String ID="B3_L2_W18" CONTENT="-" HPOS="1906" VPOS="758" WIDTH="16" HEIGHT="45" WC="0.9851" />
+            <String ID="B3_L2_W19" CONTENT="axes" HPOS="1925" VPOS="758" WIDTH="86" HEIGHT="45" WC="0.9880" />
+            <String ID="B3_L2_W20" CONTENT="," HPOS="2015" VPOS="758" WIDTH="8" HEIGHT="45" WC="0.9845" />
+            <SP />
+            <String ID="B3_L2_W21" CONTENT="Time" HPOS="2040" VPOS="758" WIDTH="103" HEIGHT="45" WC="0.9615" />
+          </TextLine>
+          <TextLine ID="B3_L3" HPOS="375" VPOS="810" WIDTH="1750" HEIGHT="54">
+            <String ID="B3_L3_W1" CONTENT="in" HPOS="375" VPOS="811" WIDTH="37" HEIGHT="47" WC="0.9805" />
+            <SP />
+            <String ID="B3_L3_W2" CONTENT="milliseconds" HPOS="424" VPOS="810" WIDTH="252" HEIGHT="49" WC="0.9898" />
+            <SP />
+            <String ID="B3_L3_W3" CONTENT="on" HPOS="691" VPOS="812" WIDTH="49" HEIGHT="47" WC="0.9825" />
+            <SP />
+            <String ID="B3_L3_W4" CONTENT="the" HPOS="752" VPOS="812" WIDTH="63" HEIGHT="47" WC="0.9851" />
+            <SP />
+            <String ID="B3_L3_W5" CONTENT="x" HPOS="826" VPOS="812" WIDTH="24" HEIGHT="47" WC="0.9701" />
+            <String ID="B3_L3_W6" CONTENT="-" HPOS="851" VPOS="812" WIDTH="16" HEIGHT="47" WC="0.9923" />
+            <String ID="B3_L3_W7" CONTENT="axes" HPOS="871" VPOS="812" WIDTH="87" HEIGHT="48" WC="0.9760" />
+            <String ID="B3_L3_W8" CONTENT="." HPOS="961" VPOS="813" WIDTH="9" HEIGHT="47" WC="0.9568" />
+            <SP />
+            <String ID="B3_L3_W9" CONTENT="One" HPOS="996" VPOS="813" WIDTH="83" HEIGHT="47" WC="0.9790" />
+            <SP />
+            <String ID="B3_L3_W10" CONTENT="minute" HPOS="1091" VPOS="813" WIDTH="140" HEIGHT="49" WC="0.9878" />
+            <SP />
+            <String ID="B3_L3_W11" CONTENT="traces" HPOS="1242" VPOS="814" WIDTH="116" HEIGHT="47" WC="0.9925" />
+            <String ID="B3_L3_W12" CONTENT="." HPOS="1362" VPOS="814" WIDTH="8" HEIGHT="47" WC="0.9790" />
+            <SP />
+            <String ID="B3_L3_W13" CONTENT="Times" HPOS="1399" VPOS="815" WIDTH="123" HEIGHT="47" WC="0.9916" />
+            <SP />
+            <String ID="B3_L3_W14" CONTENT="in" HPOS="1537" VPOS="815" WIDTH="37" HEIGHT="47" WC="0.9762" />
+            <SP />
+            <String ID="B3_L3_W15" CONTENT="parentheses" HPOS="1587" VPOS="815" WIDTH="234" HEIGHT="49" WC="0.9874" />
+            <SP />
+            <String ID="B3_L3_W16" CONTENT="are" HPOS="1836" VPOS="816" WIDTH="60" HEIGHT="47" WC="0.9914" />
+            <SP />
+            <String ID="B3_L3_W17" CONTENT="times" HPOS="1908" VPOS="817" WIDTH="110" HEIGHT="47" WC="0.9933" />
+            <SP />
+            <String ID="B3_L3_W18" CONTENT="after" HPOS="2031" VPOS="817" WIDTH="94" HEIGHT="47" WC="0.9951" />
+          </TextLine>
+          <TextLine ID="B3_L4" HPOS="372" VPOS="868" WIDTH="667" HEIGHT="54">
+            <String ID="B3_L4_W1" CONTENT="the" HPOS="372" VPOS="868" WIDTH="62" HEIGHT="42" WC="0.9892" />
+            <SP />
+            <String ID="B3_L4_W2" CONTENT="start" HPOS="447" VPOS="870" WIDTH="86" HEIGHT="42" WC="0.9563" />
+            <SP />
+            <String ID="B3_L4_W3" CONTENT="of" HPOS="545" VPOS="872" WIDTH="47" HEIGHT="41" WC="0.9930" />
+            <SP />
+            <String ID="B3_L4_W4" CONTENT="the" HPOS="597" VPOS="873" WIDTH="64" HEIGHT="41" WC="0.9918" />
+            <SP />
+            <String ID="B3_L4_W5" CONTENT="temperature" HPOS="673" VPOS="874" WIDTH="240" HEIGHT="46" WC="0.9940" />
+            <SP />
+            <String ID="B3_L4_W6" CONTENT="ramp" HPOS="924" VPOS="879" WIDTH="107" HEIGHT="43" WC="0.9856" />
+            <String ID="B3_L4_W7" CONTENT="." HPOS="1027" VPOS="882" WIDTH="12" HEIGHT="40" WC="0.9391" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="373" VPOS="987" WIDTH="1531" HEIGHT="46">
+          <TextLine ID="B4_L1" HPOS="373" VPOS="987" WIDTH="1531" HEIGHT="46">
+            <String ID="B4_L1_W1" CONTENT="Fig" HPOS="373" VPOS="987" WIDTH="72" HEIGHT="46" WC="0.9842" />
+            <String ID="B4_L1_W2" CONTENT="." HPOS="438" VPOS="987" WIDTH="11" HEIGHT="46" WC="0.9774" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="3." HPOS="467" VPOS="987" WIDTH="36" HEIGHT="46" WC="0.9706" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="A" HPOS="528" VPOS="987" WIDTH="33" HEIGHT="46" WC="0.9921" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="train" HPOS="572" VPOS="987" WIDTH="97" HEIGHT="46" WC="0.9886" />
+            <SP />
+            <String ID="B4_L1_W6" CONTENT="of" HPOS="684" VPOS="987" WIDTH="45" HEIGHT="46" WC="0.9900" />
+            <SP />
+            <String ID="B4_L1_W7" CONTENT="action" HPOS="736" VPOS="987" WIDTH="124" HEIGHT="46" WC="0.9865" />
+            <SP />
+            <String ID="B4_L1_W8" CONTENT="potentials" HPOS="870" VPOS="987" WIDTH="200" HEIGHT="46" WC="0.9852" />
+            <SP />
+            <String ID="B4_L1_W9" CONTENT="during" HPOS="1084" VPOS="987" WIDTH="138" HEIGHT="46" WC="0.9895" />
+            <SP />
+            <String ID="B4_L1_W10" CONTENT="a" HPOS="1231" VPOS="987" WIDTH="25" HEIGHT="46" WC="0.9755" />
+            <SP />
+            <String ID="B4_L1_W11" CONTENT="5" HPOS="1270" VPOS="987" WIDTH="24" HEIGHT="46" WC="0.9875" />
+            <SP />
+            <String ID="B4_L1_W12" CONTENT="second" HPOS="1305" VPOS="987" WIDTH="144" HEIGHT="46" WC="0.9936" />
+            <SP />
+            <String ID="B4_L1_W13" CONTENT="depolarizing" HPOS="1457" VPOS="987" WIDTH="258" HEIGHT="46" WC="0.9929" />
+            <SP />
+            <String ID="B4_L1_W14" CONTENT="stimulus" HPOS="1724" VPOS="987" WIDTH="171" HEIGHT="46" WC="0.9892" />
+            <String ID="B4_L1_W15" CONTENT="." HPOS="1894" VPOS="987" WIDTH="10" HEIGHT="46" WC="0.9536" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="372" VPOS="1096" WIDTH="1729" HEIGHT="166">
+          <TextLine ID="B5_L1" HPOS="372" VPOS="1100" WIDTH="1694" HEIGHT="48">
+            <String ID="B5_L1_W1" CONTENT="Fig" HPOS="372" VPOS="1100" WIDTH="71" HEIGHT="48" WC="0.9853" />
+            <String ID="B5_L1_W2" CONTENT="." HPOS="440" VPOS="1100" WIDTH="12" HEIGHT="48" WC="0.9708" />
+            <SP />
+            <String ID="B5_L1_W3" CONTENT="4." HPOS="464" VPOS="1100" WIDTH="38" HEIGHT="48" WC="0.9551" />
+            <SP />
+            <String ID="B5_L1_W4" CONTENT="Average" HPOS="528" VPOS="1100" WIDTH="166" HEIGHT="48" WC="0.9952" />
+            <SP />
+            <String ID="B5_L1_W5" CONTENT="firing" HPOS="702" VPOS="1100" WIDTH="122" HEIGHT="48" WC="0.9690" />
+            <SP />
+            <String ID="B5_L1_W6" CONTENT="frequency" HPOS="826" VPOS="1100" WIDTH="206" HEIGHT="48" WC="0.9851" />
+            <SP />
+            <String ID="B5_L1_W7" CONTENT="during" HPOS="1044" VPOS="1100" WIDTH="134" HEIGHT="48" WC="0.9938" />
+            <SP />
+            <String ID="B5_L1_W8" CONTENT="a" HPOS="1191" VPOS="1100" WIDTH="23" HEIGHT="48" WC="0.9838" />
+            <SP />
+            <String ID="B5_L1_W9" CONTENT="5" HPOS="1228" VPOS="1100" WIDTH="23" HEIGHT="48" WC="0.9842" />
+            <SP />
+            <String ID="B5_L1_W10" CONTENT="second" HPOS="1265" VPOS="1100" WIDTH="142" HEIGHT="48" WC="0.9708" />
+            <SP />
+            <String ID="B5_L1_W11" CONTENT="depolarizing" HPOS="1417" VPOS="1100" WIDTH="255" HEIGHT="48" WC="0.9929" />
+            <SP />
+            <String ID="B5_L1_W12" CONTENT="stimulus" HPOS="1683" VPOS="1100" WIDTH="169" HEIGHT="48" WC="0.9884" />
+            <SP />
+            <String ID="B5_L1_W13" CONTENT="given" HPOS="1864" VPOS="1100" WIDTH="110" HEIGHT="48" WC="0.9923" />
+            <SP />
+            <String ID="B5_L1_W14" CONTENT="to" HPOS="1987" VPOS="1100" WIDTH="44" HEIGHT="48" WC="0.9806" />
+            <SP />
+            <String ID="B5_L1_W15" CONTENT="a" HPOS="2038" VPOS="1100" WIDTH="28" HEIGHT="48" WC="0.9899" />
+          </TextLine>
+          <TextLine ID="B5_L2" HPOS="372" VPOS="1165" WIDTH="1729" HEIGHT="45">
+            <String ID="B5_L2_W1" CONTENT="neuron" HPOS="372" VPOS="1165" WIDTH="141" HEIGHT="45" WC="0.9908" />
+            <SP />
+            <String ID="B5_L2_W2" CONTENT="with" HPOS="527" VPOS="1165" WIDTH="88" HEIGHT="45" WC="0.9918" />
+            <SP />
+            <String ID="B5_L2_W3" CONTENT="no" HPOS="626" VPOS="1165" WIDTH="51" HEIGHT="45" WC="0.9926" />
+            <SP />
+            <String ID="B5_L2_W4" CONTENT="spontaneous" HPOS="687" VPOS="1165" WIDTH="252" HEIGHT="45" WC="0.9832" />
+            <SP />
+            <String ID="B5_L2_W5" CONTENT="activity" HPOS="952" VPOS="1165" WIDTH="151" HEIGHT="45" WC="0.9930" />
+            <SP />
+            <String ID="B5_L2_W6" CONTENT="during" HPOS="1113" VPOS="1165" WIDTH="136" HEIGHT="45" WC="0.9869" />
+            <SP />
+            <String ID="B5_L2_W7" CONTENT="a" HPOS="1259" VPOS="1165" WIDTH="24" HEIGHT="45" WC="0.9940" />
+            <SP />
+            <String ID="B5_L2_W8" CONTENT="two" HPOS="1298" VPOS="1165" WIDTH="71" HEIGHT="45" WC="0.9905" />
+            <SP />
+            <String ID="B5_L2_W9" CONTENT="hour" HPOS="1383" VPOS="1165" WIDTH="95" HEIGHT="45" WC="0.9817" />
+            <SP />
+            <String ID="B5_L2_W10" CONTENT="temperature" HPOS="1489" VPOS="1165" WIDTH="247" HEIGHT="45" WC="0.9934" />
+            <SP />
+            <String ID="B5_L2_W11" CONTENT="ramp" HPOS="1746" VPOS="1165" WIDTH="111" HEIGHT="45" WC="0.9823" />
+            <SP />
+            <String ID="B5_L2_W12" CONTENT="from" HPOS="1859" VPOS="1165" WIDTH="106" HEIGHT="45" WC="0.9839" />
+            <SP />
+            <String ID="B5_L2_W13" CONTENT="10" HPOS="1978" VPOS="1165" WIDTH="51" HEIGHT="45" WC="0.9213" />
+            <String ID="B5_L2_W14" CONTENT="°" HPOS="2032" VPOS="1165" WIDTH="24" HEIGHT="45" WC="0.7535" />
+            <SP />
+            <String ID="B5_L2_W15" CONTENT="to" HPOS="2057" VPOS="1165" WIDTH="44" HEIGHT="45" WC="0.9376" />
+          </TextLine>
+          <TextLine ID="B5_L3" HPOS="374" VPOS="1222" WIDTH="306" HEIGHT="37">
+            <String ID="B5_L3_W1" CONTENT="20" HPOS="374" VPOS="1222" WIDTH="49" HEIGHT="35" WC="0.9823" />
+            <String ID="B5_L3_W2" CONTENT="°" HPOS="430" VPOS="1222" WIDTH="26" HEIGHT="35" WC="0.7974" />
+            <String ID="B5_L3_W3" CONTENT="C" HPOS="445" VPOS="1222" WIDTH="30" HEIGHT="35" WC="0.9166" />
+            <SP />
+            <String ID="B5_L3_W4" CONTENT="and" HPOS="489" VPOS="1222" WIDTH="76" HEIGHT="36" WC="0.9908" />
+            <SP />
+            <String ID="B5_L3_W5" CONTENT="back" HPOS="576" VPOS="1223" WIDTH="98" HEIGHT="36" WC="0.9784" />
+            <String ID="B5_L3_W6" CONTENT="." HPOS="670" VPOS="1223" WIDTH="10" HEIGHT="35" WC="0.8327" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="371" VPOS="1335" WIDTH="1745" HEIGHT="160">
+          <TextLine ID="B6_L1" HPOS="373" VPOS="1338" WIDTH="1693" HEIGHT="48">
+            <String ID="B6_L1_W1" CONTENT="Fig" HPOS="373" VPOS="1338" WIDTH="72" HEIGHT="48" WC="0.9901" />
+            <String ID="B6_L1_W2" CONTENT="." HPOS="439" VPOS="1338" WIDTH="12" HEIGHT="48" WC="0.9757" />
+            <SP />
+            <String ID="B6_L1_W3" CONTENT="5." HPOS="467" VPOS="1338" WIDTH="36" HEIGHT="48" WC="0.9626" />
+            <SP />
+            <String ID="B6_L1_W4" CONTENT="Average" HPOS="529" VPOS="1338" WIDTH="166" HEIGHT="48" WC="0.9930" />
+            <SP />
+            <String ID="B6_L1_W5" CONTENT="firing" HPOS="702" VPOS="1338" WIDTH="121" HEIGHT="48" WC="0.9863" />
+            <SP />
+            <String ID="B6_L1_W6" CONTENT="frequency" HPOS="827" VPOS="1338" WIDTH="207" HEIGHT="48" WC="0.9913" />
+            <SP />
+            <String ID="B6_L1_W7" CONTENT="during" HPOS="1044" VPOS="1338" WIDTH="136" HEIGHT="48" WC="0.9848" />
+            <SP />
+            <String ID="B6_L1_W8" CONTENT="a" HPOS="1190" VPOS="1338" WIDTH="25" HEIGHT="48" WC="0.9776" />
+            <SP />
+            <String ID="B6_L1_W9" CONTENT="5" HPOS="1229" VPOS="1338" WIDTH="24" HEIGHT="48" WC="0.9885" />
+            <SP />
+            <String ID="B6_L1_W10" CONTENT="second" HPOS="1265" VPOS="1338" WIDTH="141" HEIGHT="48" WC="0.9879" />
+            <SP />
+            <String ID="B6_L1_W11" CONTENT="depolarizing" HPOS="1417" VPOS="1338" WIDTH="257" HEIGHT="48" WC="0.9920" />
+            <SP />
+            <String ID="B6_L1_W12" CONTENT="stimulus" HPOS="1683" VPOS="1338" WIDTH="171" HEIGHT="48" WC="0.9889" />
+            <SP />
+            <String ID="B6_L1_W13" CONTENT="given" HPOS="1864" VPOS="1338" WIDTH="110" HEIGHT="48" WC="0.9942" />
+            <SP />
+            <String ID="B6_L1_W14" CONTENT="to" HPOS="1988" VPOS="1338" WIDTH="42" HEIGHT="48" WC="0.9868" />
+            <SP />
+            <String ID="B6_L1_W15" CONTENT="a" HPOS="2040" VPOS="1338" WIDTH="26" HEIGHT="48" WC="0.9907" />
+          </TextLine>
+          <TextLine ID="B6_L2" HPOS="371" VPOS="1392" WIDTH="1745" HEIGHT="58">
+            <String ID="B6_L2_W1" CONTENT="second" HPOS="371" VPOS="1392" WIDTH="143" HEIGHT="49" WC="0.9905" />
+            <SP />
+            <String ID="B6_L2_W2" CONTENT="neuron" HPOS="523" VPOS="1393" WIDTH="143" HEIGHT="49" WC="0.9946" />
+            <SP />
+            <String ID="B6_L2_W3" CONTENT="with" HPOS="678" VPOS="1394" WIDTH="91" HEIGHT="47" WC="0.9910" />
+            <SP />
+            <String ID="B6_L2_W4" CONTENT="no" HPOS="779" VPOS="1395" WIDTH="49" HEIGHT="47" WC="0.9907" />
+            <SP />
+            <String ID="B6_L2_W5" CONTENT="spontaneous" HPOS="840" VPOS="1394" WIDTH="251" HEIGHT="49" WC="0.9787" />
+            <SP />
+            <String ID="B6_L2_W6" CONTENT="activity" HPOS="1104" VPOS="1396" WIDTH="151" HEIGHT="49" WC="0.9921" />
+            <SP />
+            <String ID="B6_L2_W7" CONTENT="during" HPOS="1264" VPOS="1397" WIDTH="138" HEIGHT="49" WC="0.9901" />
+            <SP />
+            <String ID="B6_L2_W8" CONTENT="a" HPOS="1412" VPOS="1398" WIDTH="24" HEIGHT="47" WC="0.9924" />
+            <SP />
+            <String ID="B6_L2_W9" CONTENT="two" HPOS="1450" VPOS="1398" WIDTH="72" HEIGHT="47" WC="0.9918" />
+            <SP />
+            <String ID="B6_L2_W10" CONTENT="hour" HPOS="1534" VPOS="1399" WIDTH="96" HEIGHT="48" WC="0.9811" />
+            <SP />
+            <String ID="B6_L2_W11" CONTENT="temperature" HPOS="1642" VPOS="1399" WIDTH="249" HEIGHT="49" WC="0.9900" />
+            <SP />
+            <String ID="B6_L2_W12" CONTENT="ramp" HPOS="1902" VPOS="1401" WIDTH="107" HEIGHT="48" WC="0.9907" />
+            <SP />
+            <String ID="B6_L2_W13" CONTENT="from" HPOS="2014" VPOS="1401" WIDTH="102" HEIGHT="49" WC="0.9847" />
+          </TextLine>
+          <TextLine ID="B6_L3" HPOS="376" VPOS="1458" WIDTH="439" HEIGHT="34">
+            <String ID="B6_L3_W1" CONTENT="10" HPOS="376" VPOS="1458" WIDTH="48" HEIGHT="34" WC="0.9844" />
+            <String ID="B6_L3_W2" CONTENT="°" HPOS="429" VPOS="1458" WIDTH="22" HEIGHT="34" WC="0.5429" />
+            <SP />
+            <String ID="B6_L3_W3" CONTENT="to" HPOS="455" VPOS="1458" WIDTH="37" HEIGHT="34" WC="0.9894" />
+            <SP />
+            <String ID="B6_L3_W4" CONTENT="20" HPOS="507" VPOS="1458" WIDTH="50" HEIGHT="34" WC="0.9900" />
+            <String ID="B6_L3_W5" CONTENT="°" HPOS="564" VPOS="1458" WIDTH="25" HEIGHT="34" WC="0.7656" />
+            <String ID="B6_L3_W6" CONTENT="C" HPOS="580" VPOS="1458" WIDTH="30" HEIGHT="34" WC="0.9313" />
+            <SP />
+            <String ID="B6_L3_W7" CONTENT="and" HPOS="623" VPOS="1458" WIDTH="77" HEIGHT="34" WC="0.9919" />
+            <SP />
+            <String ID="B6_L3_W8" CONTENT="back" HPOS="711" VPOS="1458" WIDTH="98" HEIGHT="34" WC="0.9915" />
+            <String ID="B6_L3_W9" CONTENT="." HPOS="805" VPOS="1458" WIDTH="10" HEIGHT="34" WC="0.8966" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="371" VPOS="1568" WIDTH="1726" HEIGHT="116">
+          <TextLine ID="B7_L1" HPOS="373" VPOS="1569" WIDTH="1724" HEIGHT="53">
+            <String ID="B7_L1_W1" CONTENT="Fig" HPOS="373" VPOS="1569" WIDTH="70" HEIGHT="46" WC="0.9854" />
+            <String ID="B7_L1_W2" CONTENT="." HPOS="438" VPOS="1569" WIDTH="12" HEIGHT="46" WC="0.9700" />
+            <SP />
+            <String ID="B7_L1_W3" CONTENT="6." HPOS="467" VPOS="1569" WIDTH="33" HEIGHT="46" WC="0.9710" />
+            <SP />
+            <String ID="B7_L1_W4" CONTENT="Utilization" HPOS="533" VPOS="1569" WIDTH="212" HEIGHT="48" WC="0.9848" />
+            <SP />
+            <String ID="B7_L1_W5" CONTENT="time" HPOS="758" VPOS="1570" WIDTH="87" HEIGHT="46" WC="0.9912" />
+            <SP />
+            <String ID="B7_L1_W6" CONTENT="between" HPOS="856" VPOS="1570" WIDTH="164" HEIGHT="48" WC="0.9908" />
+            <SP />
+            <String ID="B7_L1_W7" CONTENT="a" HPOS="1034" VPOS="1571" WIDTH="23" HEIGHT="46" WC="0.9913" />
+            <SP />
+            <String ID="B7_L1_W8" CONTENT="depolarizing" HPOS="1071" VPOS="1571" WIDTH="255" HEIGHT="48" WC="0.9911" />
+            <SP />
+            <String ID="B7_L1_W9" CONTENT="stimulus" HPOS="1339" VPOS="1572" WIDTH="165" HEIGHT="48" WC="0.9896" />
+            <SP />
+            <String ID="B7_L1_W10" CONTENT="and" HPOS="1518" VPOS="1573" WIDTH="77" HEIGHT="46" WC="0.9931" />
+            <SP />
+            <String ID="B7_L1_W11" CONTENT="the" HPOS="1605" VPOS="1574" WIDTH="63" HEIGHT="46" WC="0.9927" />
+            <SP />
+            <String ID="B7_L1_W12" CONTENT="first" HPOS="1672" VPOS="1574" WIDTH="91" HEIGHT="46" WC="0.9682" />
+            <SP />
+            <String ID="B7_L1_W13" CONTENT="action" HPOS="1774" VPOS="1574" WIDTH="126" HEIGHT="48" WC="0.9942" />
+            <SP />
+            <String ID="B7_L1_W14" CONTENT="potential" HPOS="1910" VPOS="1574" WIDTH="187" HEIGHT="48" WC="0.9931" />
+          </TextLine>
+          <TextLine ID="B7_L2" HPOS="371" VPOS="1635" WIDTH="1303" HEIGHT="45">
+            <String ID="B7_L2_W1" CONTENT="during" HPOS="371" VPOS="1635" WIDTH="138" HEIGHT="45" WC="0.9886" />
+            <SP />
+            <String ID="B7_L2_W2" CONTENT="a" HPOS="518" VPOS="1635" WIDTH="26" HEIGHT="45" WC="0.9914" />
+            <SP />
+            <String ID="B7_L2_W3" CONTENT="two" HPOS="554" VPOS="1635" WIDTH="76" HEIGHT="45" WC="0.9936" />
+            <SP />
+            <String ID="B7_L2_W4" CONTENT="hour" HPOS="641" VPOS="1635" WIDTH="98" HEIGHT="45" WC="0.9794" />
+            <SP />
+            <String ID="B7_L2_W5" CONTENT="temperature" HPOS="749" VPOS="1635" WIDTH="246" HEIGHT="45" WC="0.9881" />
+            <SP />
+            <String ID="B7_L2_W6" CONTENT="ramp" HPOS="1007" VPOS="1635" WIDTH="107" HEIGHT="45" WC="0.9917" />
+            <SP />
+            <String ID="B7_L2_W7" CONTENT="from" HPOS="1117" VPOS="1635" WIDTH="101" HEIGHT="45" WC="0.9892" />
+            <SP />
+            <String ID="B7_L2_W8" CONTENT="10" HPOS="1235" VPOS="1635" WIDTH="47" HEIGHT="45" WC="0.9679" />
+            <String ID="B7_L2_W9" CONTENT="°" HPOS="1289" VPOS="1635" WIDTH="22" HEIGHT="45" WC="0.8258" />
+            <SP />
+            <String ID="B7_L2_W10" CONTENT="to" HPOS="1314" VPOS="1635" WIDTH="40" HEIGHT="45" WC="0.9897" />
+            <SP />
+            <String ID="B7_L2_W11" CONTENT="20" HPOS="1367" VPOS="1635" WIDTH="51" HEIGHT="45" WC="0.9781" />
+            <SP />
+            <String ID="B7_L2_W12" CONTENT="°" HPOS="1425" VPOS="1635" WIDTH="23" HEIGHT="45" WC="0.8387" />
+            <String ID="B7_L2_W13" CONTENT="C" HPOS="1439" VPOS="1635" WIDTH="34" HEIGHT="45" WC="0.9067" />
+            <SP />
+            <String ID="B7_L2_W14" CONTENT="and" HPOS="1482" VPOS="1635" WIDTH="79" HEIGHT="45" WC="0.9922" />
+            <SP />
+            <String ID="B7_L2_W15" CONTENT="back" HPOS="1570" VPOS="1635" WIDTH="101" HEIGHT="45" WC="0.9884" />
+            <String ID="B7_L2_W16" CONTENT="." HPOS="1662" VPOS="1635" WIDTH="12" HEIGHT="45" WC="0.9251" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="371" VPOS="1744" WIDTH="1812" HEIGHT="115">
+          <TextLine ID="B8_L1" HPOS="373" VPOS="1745" WIDTH="1810" HEIGHT="55">
+            <String ID="B8_L1_W1" CONTENT="Fig" HPOS="373" VPOS="1745" WIDTH="69" HEIGHT="47" WC="0.9851" />
+            <String ID="B8_L1_W2" CONTENT="." HPOS="439" VPOS="1745" WIDTH="12" HEIGHT="47" WC="0.9682" />
+            <SP />
+            <String ID="B8_L1_W3" CONTENT="7." HPOS="469" VPOS="1745" WIDTH="34" HEIGHT="47" WC="0.9646" />
+            <SP />
+            <String ID="B8_L1_W4" CONTENT="Utilization" HPOS="532" VPOS="1745" WIDTH="213" HEIGHT="49" WC="0.9866" />
+            <SP />
+            <String ID="B8_L1_W5" CONTENT="time" HPOS="758" VPOS="1746" WIDTH="86" HEIGHT="48" WC="0.9917" />
+            <SP />
+            <String ID="B8_L1_W6" CONTENT="between" HPOS="856" VPOS="1746" WIDTH="165" HEIGHT="49" WC="0.9921" />
+            <SP />
+            <String ID="B8_L1_W7" CONTENT="a" HPOS="1034" VPOS="1748" WIDTH="23" HEIGHT="47" WC="0.9916" />
+            <SP />
+            <String ID="B8_L1_W8" CONTENT="depolarizing" HPOS="1071" VPOS="1747" WIDTH="254" HEIGHT="49" WC="0.9919" />
+            <SP />
+            <String ID="B8_L1_W9" CONTENT="stimulus" HPOS="1339" VPOS="1749" WIDTH="165" HEIGHT="48" WC="0.9925" />
+            <SP />
+            <String ID="B8_L1_W10" CONTENT="and" HPOS="1518" VPOS="1750" WIDTH="77" HEIGHT="47" WC="0.9921" />
+            <SP />
+            <String ID="B8_L1_W11" CONTENT="the" HPOS="1605" VPOS="1750" WIDTH="65" HEIGHT="48" WC="0.9948" />
+            <SP />
+            <String ID="B8_L1_W12" CONTENT="first" HPOS="1673" VPOS="1751" WIDTH="89" HEIGHT="47" WC="0.9665" />
+            <SP />
+            <String ID="B8_L1_W13" CONTENT="action" HPOS="1774" VPOS="1751" WIDTH="126" HEIGHT="49" WC="0.9924" />
+            <SP />
+            <String ID="B8_L1_W14" CONTENT="potential" HPOS="1911" VPOS="1751" WIDTH="185" HEIGHT="49" WC="0.9935" />
+            <SP />
+            <String ID="B8_L1_W15" CONTENT="of" HPOS="2106" VPOS="1753" WIDTH="48" HEIGHT="47" WC="0.9898" />
+            <SP />
+            <String ID="B8_L1_W16" CONTENT="a" HPOS="2159" VPOS="1753" WIDTH="24" HEIGHT="47" WC="0.9906" />
+          </TextLine>
+          <TextLine ID="B8_L2" HPOS="371" VPOS="1811" WIDTH="1613" HEIGHT="44">
+            <String ID="B8_L2_W1" CONTENT="second" HPOS="371" VPOS="1811" WIDTH="141" HEIGHT="44" WC="0.9881" />
+            <SP />
+            <String ID="B8_L2_W2" CONTENT="neuron" HPOS="523" VPOS="1811" WIDTH="141" HEIGHT="44" WC="0.9940" />
+            <SP />
+            <String ID="B8_L2_W3" CONTENT="during" HPOS="678" VPOS="1811" WIDTH="135" HEIGHT="44" WC="0.9927" />
+            <SP />
+            <String ID="B8_L2_W4" CONTENT="a" HPOS="825" VPOS="1811" WIDTH="24" HEIGHT="44" WC="0.9892" />
+            <SP />
+            <String ID="B8_L2_W5" CONTENT="two" HPOS="862" VPOS="1811" WIDTH="73" HEIGHT="44" WC="0.9932" />
+            <SP />
+            <String ID="B8_L2_W6" CONTENT="hour" HPOS="949" VPOS="1811" WIDTH="95" HEIGHT="44" WC="0.9805" />
+            <SP />
+            <String ID="B8_L2_W7" CONTENT="temperature" HPOS="1054" VPOS="1811" WIDTH="247" HEIGHT="44" WC="0.9888" />
+            <SP />
+            <String ID="B8_L2_W8" CONTENT="ramp" HPOS="1312" VPOS="1811" WIDTH="107" HEIGHT="44" WC="0.9911" />
+            <SP />
+            <String ID="B8_L2_W9" CONTENT="from" HPOS="1423" VPOS="1811" WIDTH="101" HEIGHT="44" WC="0.9914" />
+            <SP />
+            <String ID="B8_L2_W10" CONTENT="10" HPOS="1541" VPOS="1811" WIDTH="48" HEIGHT="44" WC="0.9797" />
+            <String ID="B8_L2_W11" CONTENT="°" HPOS="1596" VPOS="1811" WIDTH="19" HEIGHT="44" WC="0.8194" />
+            <SP />
+            <String ID="B8_L2_W12" CONTENT="to" HPOS="1622" VPOS="1811" WIDTH="39" HEIGHT="44" WC="0.9825" />
+            <SP />
+            <String ID="B8_L2_W13" CONTENT="20" HPOS="1674" VPOS="1811" WIDTH="50" HEIGHT="44" WC="0.9849" />
+            <SP />
+            <String ID="B8_L2_W14" CONTENT="°" HPOS="1732" VPOS="1811" WIDTH="25" HEIGHT="44" WC="0.8287" />
+            <String ID="B8_L2_W15" CONTENT="C" HPOS="1746" VPOS="1811" WIDTH="31" HEIGHT="44" WC="0.9201" />
+            <SP />
+            <String ID="B8_L2_W16" CONTENT="and" HPOS="1790" VPOS="1811" WIDTH="78" HEIGHT="44" WC="0.9834" />
+            <SP />
+            <String ID="B8_L2_W17" CONTENT="back" HPOS="1880" VPOS="1811" WIDTH="99" HEIGHT="44" WC="0.9780" />
+            <String ID="B8_L2_W18" CONTENT="." HPOS="1974" VPOS="1811" WIDTH="10" HEIGHT="44" WC="0.8560" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="371" VPOS="1913" WIDTH="1741" HEIGHT="118">
+          <TextLine ID="B9_L1" HPOS="373" VPOS="1920" WIDTH="1739" HEIGHT="57">
+            <String ID="B9_L1_W1" CONTENT="Fig" HPOS="373" VPOS="1920" WIDTH="70" HEIGHT="47" WC="0.9842" />
+            <String ID="B9_L1_W2" CONTENT="." HPOS="439" VPOS="1920" WIDTH="11" HEIGHT="47" WC="0.9522" />
+            <SP />
+            <String ID="B9_L1_W3" CONTENT="8." HPOS="466" VPOS="1920" WIDTH="35" HEIGHT="47" WC="0.9576" />
+            <SP />
+            <String ID="B9_L1_W4" CONTENT="The" HPOS="530" VPOS="1920" WIDTH="73" HEIGHT="48" WC="0.9907" />
+            <SP />
+            <String ID="B9_L1_W5" CONTENT="kinetics" HPOS="616" VPOS="1921" WIDTH="153" HEIGHT="48" WC="0.9883" />
+            <SP />
+            <String ID="B9_L1_W6" CONTENT="of" HPOS="785" VPOS="1922" WIDTH="45" HEIGHT="47" WC="0.9899" />
+            <SP />
+            <String ID="B9_L1_W7" CONTENT="unitary" HPOS="834" VPOS="1922" WIDTH="148" HEIGHT="49" WC="0.9880" />
+            <SP />
+            <String ID="B9_L1_W8" CONTENT="post" HPOS="989" VPOS="1923" WIDTH="90" HEIGHT="49" WC="0.9659" />
+            <String ID="B9_L1_W9" CONTENT="-" HPOS="1077" VPOS="1924" WIDTH="15" HEIGHT="47" WC="0.9837" />
+            <String ID="B9_L1_W10" CONTENT="synaptic" HPOS="1093" VPOS="1923" WIDTH="168" HEIGHT="49" WC="0.9896" />
+            <SP />
+            <String ID="B9_L1_W11" CONTENT="potentials" HPOS="1269" VPOS="1924" WIDTH="201" HEIGHT="49" WC="0.9904" />
+            <SP />
+            <String ID="B9_L1_W12" CONTENT="during" HPOS="1484" VPOS="1926" WIDTH="134" HEIGHT="49" WC="0.9943" />
+            <SP />
+            <String ID="B9_L1_W13" CONTENT="a" HPOS="1631" VPOS="1927" WIDTH="24" HEIGHT="47" WC="0.9927" />
+            <SP />
+            <String ID="B9_L1_W14" CONTENT="two" HPOS="1669" VPOS="1927" WIDTH="73" HEIGHT="47" WC="0.9930" />
+            <SP />
+            <String ID="B9_L1_W15" CONTENT="hour" HPOS="1754" VPOS="1928" WIDTH="97" HEIGHT="48" WC="0.9829" />
+            <SP />
+            <String ID="B9_L1_W16" CONTENT="temperature" HPOS="1862" VPOS="1928" WIDTH="250" HEIGHT="49" WC="0.9915" />
+          </TextLine>
+          <TextLine ID="B9_L2" HPOS="371" VPOS="1979" WIDTH="669" HEIGHT="52">
+            <String ID="B9_L2_W1" CONTENT="ramp" HPOS="371" VPOS="1986" WIDTH="105" HEIGHT="45" WC="0.9907" />
+            <SP />
+            <String ID="B9_L2_W2" CONTENT="from" HPOS="482" VPOS="1985" WIDTH="99" HEIGHT="45" WC="0.9902" />
+            <SP />
+            <String ID="B9_L2_W3" CONTENT="10" HPOS="600" VPOS="1983" WIDTH="46" HEIGHT="45" WC="0.9796" />
+            <String ID="B9_L2_W4" CONTENT="°" HPOS="652" VPOS="1984" WIDTH="26" HEIGHT="43" WC="0.6853" />
+            <SP />
+            <String ID="B9_L2_W5" CONTENT="to" HPOS="679" VPOS="1983" WIDTH="39" HEIGHT="44" WC="0.9883" />
+            <SP />
+            <String ID="B9_L2_W6" CONTENT="20" HPOS="731" VPOS="1982" WIDTH="51" HEIGHT="44" WC="0.9924" />
+            <String ID="B9_L2_W7" CONTENT="°" HPOS="790" VPOS="1982" WIDTH="26" HEIGHT="43" WC="0.8680" />
+            <String ID="B9_L2_W8" CONTENT="C" HPOS="804" VPOS="1982" WIDTH="31" HEIGHT="43" WC="0.9390" />
+            <SP />
+            <String ID="B9_L2_W9" CONTENT="and" HPOS="848" VPOS="1980" WIDTH="77" HEIGHT="45" WC="0.9789" />
+            <SP />
+            <String ID="B9_L2_W10" CONTENT="back" HPOS="935" VPOS="1979" WIDTH="101" HEIGHT="45" WC="0.9729" />
+            <String ID="B9_L2_W11" CONTENT="." HPOS="1028" VPOS="1979" WIDTH="12" HEIGHT="43" WC="0.8530" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="372" VPOS="2101" WIDTH="1752" HEIGHT="104">
+          <TextLine ID="B10_L1" HPOS="372" VPOS="2101" WIDTH="1752" HEIGHT="47">
+            <String ID="B10_L1_W1" CONTENT="Fig" HPOS="372" VPOS="2101" WIDTH="72" HEIGHT="47" WC="0.9892" />
+            <String ID="B10_L1_W2" CONTENT="." HPOS="439" VPOS="2101" WIDTH="12" HEIGHT="47" WC="0.9827" />
+            <SP />
+            <String ID="B10_L1_W3" CONTENT="9." HPOS="467" VPOS="2101" WIDTH="34" HEIGHT="47" WC="0.9615" />
+            <SP />
+            <String ID="B10_L1_W4" CONTENT="The" HPOS="530" VPOS="2101" WIDTH="75" HEIGHT="47" WC="0.9930" />
+            <SP />
+            <String ID="B10_L1_W5" CONTENT="post" HPOS="614" VPOS="2101" WIDTH="88" HEIGHT="47" WC="0.9781" />
+            <String ID="B10_L1_W6" CONTENT="-" HPOS="702" VPOS="2101" WIDTH="15" HEIGHT="47" WC="0.9821" />
+            <String ID="B10_L1_W7" CONTENT="synaptic" HPOS="719" VPOS="2101" WIDTH="167" HEIGHT="47" WC="0.9930" />
+            <SP />
+            <String ID="B10_L1_W8" CONTENT="potential" HPOS="895" VPOS="2101" WIDTH="183" HEIGHT="47" WC="0.9914" />
+            <SP />
+            <String ID="B10_L1_W9" CONTENT="in" HPOS="1090" VPOS="2101" WIDTH="37" HEIGHT="47" WC="0.9913" />
+            <SP />
+            <String ID="B10_L1_W10" CONTENT="one" HPOS="1142" VPOS="2101" WIDTH="72" HEIGHT="47" WC="0.9848" />
+            <SP />
+            <String ID="B10_L1_W11" CONTENT="neuron" HPOS="1225" VPOS="2101" WIDTH="141" HEIGHT="47" WC="0.9906" />
+            <SP />
+            <String ID="B10_L1_W12" CONTENT="from" HPOS="1373" VPOS="2101" WIDTH="100" HEIGHT="47" WC="0.9870" />
+            <SP />
+            <String ID="B10_L1_W13" CONTENT="a" HPOS="1488" VPOS="2101" WIDTH="23" HEIGHT="47" WC="0.9922" />
+            <SP />
+            <String ID="B10_L1_W14" CONTENT="photo" HPOS="1521" VPOS="2101" WIDTH="119" HEIGHT="47" WC="0.9850" />
+            <SP />
+            <String ID="B10_L1_W15" CONTENT="receptor" HPOS="1652" VPOS="2101" WIDTH="173" HEIGHT="47" WC="0.9788" />
+            <SP />
+            <String ID="B10_L1_W16" CONTENT="after" HPOS="1837" VPOS="2101" WIDTH="96" HEIGHT="47" WC="0.9903" />
+            <SP />
+            <String ID="B10_L1_W17" CONTENT="a" HPOS="1945" VPOS="2101" WIDTH="24" HEIGHT="47" WC="0.9917" />
+            <SP />
+            <String ID="B10_L1_W18" CONTENT="light" HPOS="1984" VPOS="2101" WIDTH="97" HEIGHT="47" WC="0.9888" />
+            <SP />
+            <String ID="B10_L1_W19" CONTENT="is" HPOS="2088" VPOS="2101" WIDTH="36" HEIGHT="47" WC="0.9780" />
+          </TextLine>
+          <TextLine ID="B10_L2" HPOS="372" VPOS="2163" WIDTH="544" HEIGHT="42">
+            <String ID="B10_L2_W1" CONTENT="turned" HPOS="372" VPOS="2163" WIDTH="131" HEIGHT="42" WC="0.9850" />
+            <SP />
+            <String ID="B10_L2_W2" CONTENT="off" HPOS="517" VPOS="2163" WIDTH="59" HEIGHT="42" WC="0.9841" />
+            <SP />
+            <String ID="B10_L2_W3" CONTENT="at" HPOS="582" VPOS="2163" WIDTH="39" HEIGHT="42" WC="0.9896" />
+            <SP />
+            <String ID="B10_L2_W4" CONTENT="10" HPOS="635" VPOS="2163" WIDTH="49" HEIGHT="42" WC="0.9813" />
+            <String ID="B10_L2_W5" CONTENT="°" HPOS="691" VPOS="2163" WIDTH="20" HEIGHT="42" WC="0.7411" />
+            <SP />
+            <String ID="B10_L2_W6" CONTENT="and" HPOS="717" VPOS="2163" WIDTH="77" HEIGHT="42" WC="0.9921" />
+            <SP />
+            <String ID="B10_L2_W7" CONTENT="20" HPOS="804" VPOS="2163" WIDTH="52" HEIGHT="42" WC="0.9391" />
+            <String ID="B10_L2_W8" CONTENT="°" HPOS="863" VPOS="2163" WIDTH="23" HEIGHT="42" WC="0.7060" />
+            <String ID="B10_L2_W9" CONTENT="C" HPOS="875" VPOS="2163" WIDTH="34" HEIGHT="42" WC="0.8698" />
+            <String ID="B10_L2_W10" CONTENT="." HPOS="906" VPOS="2163" WIDTH="10" HEIGHT="42" WC="0.9117" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="2138" VPOS="3083" WIDTH="49" HEIGHT="36">
+          <TextLine ID="B11_L1" HPOS="2138" VPOS="3083" WIDTH="49" HEIGHT="36">
+            <String ID="B11_L1_W1" CONTENT="16" HPOS="2138" VPOS="3083" WIDTH="49" HEIGHT="36" WC="0.9870" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

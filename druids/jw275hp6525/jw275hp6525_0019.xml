@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jw275hp6525_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2545" HEIGHT="3293" PHYSICAL_IMG_NR="1" PC="0.9788">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2545" HEIGHT="3293">
+        <TextBlock ID="B1" HPOS="494" VPOS="2901" WIDTH="1593" HEIGHT="59">
+          <TextLine ID="B1_L1" HPOS="494" VPOS="2901" WIDTH="1593" HEIGHT="59">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="494" VPOS="2901" WIDTH="142" HEIGHT="59" WC="0.9904" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="6" HPOS="640" VPOS="2901" WIDTH="37" HEIGHT="59" WC="0.9445" />
+            <String ID="B1_L1_W3" CONTENT=":" HPOS="675" VPOS="2901" WIDTH="18" HEIGHT="59" WC="0.9395" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Example" HPOS="708" VPOS="2901" WIDTH="194" HEIGHT="59" WC="0.9920" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="of" HPOS="919" VPOS="2901" WIDTH="53" HEIGHT="59" WC="0.9870" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="a" HPOS="990" VPOS="2901" WIDTH="25" HEIGHT="59" WC="0.9905" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="reacted" HPOS="1038" VPOS="2901" WIDTH="184" HEIGHT="59" WC="0.9850" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="(" HPOS="1239" VPOS="2901" WIDTH="24" HEIGHT="59" WC="0.8871" />
+            <String ID="B1_L1_W9" CONTENT="bottom" HPOS="1260" VPOS="2901" WIDTH="160" HEIGHT="59" WC="0.9739" />
+            <String ID="B1_L1_W10" CONTENT=")" HPOS="1424" VPOS="2901" WIDTH="23" HEIGHT="59" WC="0.9526" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="and" HPOS="1464" VPOS="2901" WIDTH="86" HEIGHT="59" WC="0.9733" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="unreacted" HPOS="1565" VPOS="2901" WIDTH="236" HEIGHT="59" WC="0.9869" />
+            <SP />
+            <String ID="B1_L1_W13" CONTENT="(" HPOS="1819" VPOS="2901" WIDTH="24" HEIGHT="59" WC="0.9240" />
+            <String ID="B1_L1_W14" CONTENT="top" HPOS="1839" VPOS="2901" WIDTH="74" HEIGHT="59" WC="0.9805" />
+            <String ID="B1_L1_W15" CONTENT=")" HPOS="1912" VPOS="2901" WIDTH="24" HEIGHT="59" WC="0.8977" />
+            <SP />
+            <String ID="B1_L1_W16" CONTENT="sperm" HPOS="1954" VPOS="2901" WIDTH="133" HEIGHT="59" WC="0.9913" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

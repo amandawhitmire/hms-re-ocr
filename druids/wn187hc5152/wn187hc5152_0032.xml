@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wn187hc5152_0032</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2538" HEIGHT="3273" PHYSICAL_IMG_NR="1" PC="0.9798">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2538" HEIGHT="3273">
+        <TextBlock ID="B1" HPOS="599" VPOS="334" WIDTH="1507" HEIGHT="205">
+          <TextLine ID="B1_L1" HPOS="721" VPOS="339" WIDTH="1352" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="721" VPOS="341" WIDTH="179" HEIGHT="44" WC="0.9920" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="14." HPOS="932" VPOS="339" WIDTH="83" HEIGHT="42" WC="0.9679" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Counts" HPOS="1083" VPOS="343" WIDTH="179" HEIGHT="41" WC="0.9483" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="per" HPOS="1292" VPOS="343" WIDTH="90" HEIGHT="41" WC="0.9923" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="hour" HPOS="1412" VPOS="343" WIDTH="120" HEIGHT="41" WC="0.9869" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="vs." HPOS="1564" VPOS="343" WIDTH="81" HEIGHT="41" WC="0.9664" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="salinity" HPOS="1688" VPOS="343" WIDTH="237" HEIGHT="41" WC="0.9865" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="at" HPOS="1954" VPOS="343" WIDTH="57" HEIGHT="41" WC="0.9834" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="1" HPOS="2046" VPOS="343" WIDTH="27" HEIGHT="41" WC="0.9412" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="599" VPOS="413" WIDTH="1507" HEIGHT="47">
+            <String ID="B1_L2_W1" CONTENT="hour" HPOS="599" VPOS="413" WIDTH="123" HEIGHT="47" WC="0.9534" />
+            <String ID="B1_L2_W2" CONTENT="," HPOS="728" VPOS="413" WIDTH="15" HEIGHT="47" WC="0.9734" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="14" HPOS="784" VPOS="413" WIDTH="56" HEIGHT="47" WC="0.9894" />
+            <SP />
+            <String ID="B1_L2_W4" CONTENT="hrs" HPOS="870" VPOS="413" WIDTH="88" HEIGHT="47" WC="0.9792" />
+            <String ID="B1_L2_W5" CONTENT="," HPOS="966" VPOS="413" WIDTH="16" HEIGHT="47" WC="0.9617" />
+            <SP />
+            <String ID="B1_L2_W6" CONTENT="and" HPOS="1023" VPOS="413" WIDTH="87" HEIGHT="47" WC="0.9801" />
+            <SP />
+            <String ID="B1_L2_W7" CONTENT="18" HPOS="1145" VPOS="413" WIDTH="56" HEIGHT="47" WC="0.9893" />
+            <SP />
+            <String ID="B1_L2_W8" CONTENT="hrs" HPOS="1232" VPOS="413" WIDTH="90" HEIGHT="47" WC="0.9842" />
+            <SP />
+            <String ID="B1_L2_W9" CONTENT="after" HPOS="1354" VPOS="413" WIDTH="150" HEIGHT="47" WC="0.9914" />
+            <SP />
+            <String ID="B1_L2_W10" CONTENT="being" HPOS="1532" VPOS="413" WIDTH="153" HEIGHT="47" WC="0.9920" />
+            <SP />
+            <String ID="B1_L2_W11" CONTENT="introduced" HPOS="1716" VPOS="413" WIDTH="297" HEIGHT="47" WC="0.9678" />
+            <SP />
+            <String ID="B1_L2_W12" CONTENT="to" HPOS="2048" VPOS="413" WIDTH="58" HEIGHT="47" WC="0.9939" />
+          </TextLine>
+          <TextLine ID="B1_L3" HPOS="602" VPOS="495" WIDTH="653" HEIGHT="43">
+            <String ID="B1_L3_W1" CONTENT="the" HPOS="602" VPOS="495" WIDTH="86" HEIGHT="43" WC="0.9898" />
+            <SP />
+            <String ID="B1_L3_W2" CONTENT="salinity" HPOS="724" VPOS="495" WIDTH="237" HEIGHT="43" WC="0.9868" />
+            <SP />
+            <String ID="B1_L3_W3" CONTENT="gradient" HPOS="993" VPOS="495" WIDTH="238" HEIGHT="43" WC="0.9895" />
+            <String ID="B1_L3_W4" CONTENT="." HPOS="1241" VPOS="495" WIDTH="14" HEIGHT="43" WC="0.9726" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

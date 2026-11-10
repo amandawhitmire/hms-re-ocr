@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>qh567vb8521_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2497" HEIGHT="3225" PHYSICAL_IMG_NR="1" PC="0.8464">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2497" HEIGHT="3225">
+        <TextBlock ID="B1" HPOS="415" VPOS="1066" WIDTH="370" HEIGHT="77">
+          <TextLine ID="B1_L1" HPOS="415" VPOS="1066" WIDTH="370" HEIGHT="77">
+            <String ID="B1_L1_W1" CONTENT="Osphradium" HPOS="415" VPOS="1066" WIDTH="370" HEIGHT="77" WC="0.9334" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="768" VPOS="1318" WIDTH="163" HEIGHT="65">
+          <TextLine ID="B2_L1" HPOS="768" VPOS="1318" WIDTH="163" HEIGHT="65">
+            <String ID="B2_L1_W1" CONTENT="Osph" HPOS="768" VPOS="1318" WIDTH="163" HEIGHT="65" WC="0.9454" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="899" VPOS="1448" WIDTH="203" HEIGHT="59">
+          <TextLine ID="B3_L1" HPOS="899" VPOS="1448" WIDTH="203" HEIGHT="59">
+            <String ID="B3_L1_W1" CONTENT="Nerve" HPOS="899" VPOS="1448" WIDTH="203" HEIGHT="59" WC="0.9924" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="567" VPOS="1958" WIDTH="690" HEIGHT="78">
+          <TextLine ID="B4_L1" HPOS="567" VPOS="1958" WIDTH="690" HEIGHT="78">
+            <String ID="B4_L1_W1" CONTENT="Recording" HPOS="567" VPOS="1958" WIDTH="323" HEIGHT="72" WC="0.9810" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="Electrode" HPOS="924" VPOS="1964" WIDTH="333" HEIGHT="72" WC="0.9735" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="2396" VPOS="1827" WIDTH="30" HEIGHT="254">
+          <TextLine ID="B5_L1" HPOS="2396" VPOS="1827" WIDTH="29" HEIGHT="255">
+            <String ID="B5_L1_W1" CONTENT="UA" HPOS="2396" VPOS="1827" WIDTH="26" HEIGHT="78" WC="0.3722" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="UTA" HPOS="2399" VPOS="1975" WIDTH="26" HEIGHT="107" WC="0.3909" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

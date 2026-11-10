@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sh113mk7232_0014</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2512" HEIGHT="3262" PHYSICAL_IMG_NR="1" PC="0.9861">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2512" HEIGHT="3262">
+        <TextBlock ID="B1" HPOS="705" VPOS="242" WIDTH="1075" HEIGHT="49">
+          <TextLine ID="B1_L1" HPOS="705" VPOS="242" WIDTH="1075" HEIGHT="49">
+            <String ID="B1_L1_W1" CONTENT="Tealia" HPOS="705" VPOS="248" WIDTH="175" HEIGHT="43" WC="0.9855" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Nematocyst" HPOS="911" VPOS="246" WIDTH="298" HEIGHT="43" WC="0.9837" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Toxin" HPOS="1246" VPOS="244" WIDTH="145" HEIGHT="43" WC="0.9906" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Purification" HPOS="1424" VPOS="242" WIDTH="356" HEIGHT="44" WC="0.9834" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1006" VPOS="449" WIDTH="419" HEIGHT="36">
+          <TextLine ID="B2_L1" HPOS="1006" VPOS="449" WIDTH="419" HEIGHT="36">
+            <String ID="B2_L1_W1" CONTENT="TABLE" HPOS="1006" VPOS="449" WIDTH="150" HEIGHT="36" WC="0.9902" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="CAPTIONS" HPOS="1187" VPOS="449" WIDTH="238" HEIGHT="36" WC="0.9910" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="314" VPOS="654" WIDTH="206" HEIGHT="37">
+          <TextLine ID="B3_L1" HPOS="314" VPOS="655" WIDTH="206" HEIGHT="36">
+            <String ID="B3_L1_W1" CONTENT="Table" HPOS="314" VPOS="655" WIDTH="143" HEIGHT="36" WC="0.9920" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="1" HPOS="494" VPOS="655" WIDTH="26" HEIGHT="35" WC="0.9749" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="461" VPOS="745" WIDTH="1773" HEIGHT="51">
+          <TextLine ID="B4_L1" HPOS="461" VPOS="746" WIDTH="1773" HEIGHT="50">
+            <String ID="B4_L1_W1" CONTENT="Results" HPOS="461" VPOS="751" WIDTH="205" HEIGHT="45" WC="0.9531" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="of" HPOS="704" VPOS="751" WIDTH="56" HEIGHT="44" WC="0.9873" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="nematocyst" HPOS="790" VPOS="750" WIDTH="302" HEIGHT="45" WC="0.9890" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="toxicity" HPOS="1127" VPOS="749" WIDTH="233" HEIGHT="44" WC="0.9900" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="using" HPOS="1395" VPOS="747" WIDTH="148" HEIGHT="45" WC="0.9798" />
+            <SP />
+            <String ID="B4_L1_W6" CONTENT="the" HPOS="1577" VPOS="748" WIDTH="85" HEIGHT="43" WC="0.9857" />
+            <SP />
+            <String ID="B4_L1_W7" CONTENT="crab" HPOS="1696" VPOS="747" WIDTH="117" HEIGHT="44" WC="0.9905" />
+            <String ID="B4_L1_W8" CONTENT="," HPOS="1821" VPOS="747" WIDTH="15" HEIGHT="43" WC="0.9879" />
+            <SP />
+            <String ID="B4_L1_W9" CONTENT="Pachygrapsus" HPOS="1877" VPOS="746" WIDTH="357" HEIGHT="45" WC="0.9776" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="462" VPOS="856" WIDTH="293" HEIGHT="36">
+          <TextLine ID="B5_L1" HPOS="462" VPOS="856" WIDTH="293" HEIGHT="36">
+            <String ID="B5_L1_W1" CONTENT="crassipes" HPOS="462" VPOS="856" WIDTH="267" HEIGHT="36" WC="0.9868" />
+            <String ID="B5_L1_W2" CONTENT="." HPOS="739" VPOS="856" WIDTH="16" HEIGHT="34" WC="0.9719" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

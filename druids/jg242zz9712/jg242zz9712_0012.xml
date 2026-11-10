@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jg242zz9712_0012</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2540" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9833">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2540" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="668" VPOS="1462" WIDTH="218" HEIGHT="42">
+          <TextLine ID="B1_L1" HPOS="668" VPOS="1463" WIDTH="218" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="668" VPOS="1464" WIDTH="149" HEIGHT="40" WC="0.9930" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="1" HPOS="846" VPOS="1463" WIDTH="22" HEIGHT="36" WC="0.9327" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="873" VPOS="1463" WIDTH="13" HEIGHT="36" WC="0.9735" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="944" VPOS="1457" WIDTH="907" HEIGHT="47">
+          <TextLine ID="B2_L1" HPOS="944" VPOS="1457" WIDTH="907" HEIGHT="47">
+            <String ID="B2_L1_W1" CONTENT="Photograph" HPOS="944" VPOS="1462" WIDTH="258" HEIGHT="42" WC="0.9864" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1226" VPOS="1462" WIDTH="48" HEIGHT="39" WC="0.9825" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="artificial" HPOS="1304" VPOS="1459" WIDTH="249" HEIGHT="42" WC="0.9892" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="tide" HPOS="1583" VPOS="1458" WIDTH="98" HEIGHT="41" WC="0.9916" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="pools" HPOS="1704" VPOS="1457" WIDTH="129" HEIGHT="41" WC="0.9626" />
+            <String ID="B2_L1_W6" CONTENT="." HPOS="1836" VPOS="1457" WIDTH="15" HEIGHT="39" WC="0.9732" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

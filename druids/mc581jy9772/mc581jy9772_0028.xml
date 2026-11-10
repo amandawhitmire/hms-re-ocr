@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>mc581jy9772_0028</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2522" HEIGHT="3257" PHYSICAL_IMG_NR="1" PC="0.9845">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2522" HEIGHT="3257">
+        <TextBlock ID="B1" HPOS="502" VPOS="308" WIDTH="238" HEIGHT="44">
+          <TextLine ID="B1_L1" HPOS="502" VPOS="308" WIDTH="238" HEIGHT="44">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="502" VPOS="308" WIDTH="162" HEIGHT="44" WC="0.9872" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="5" HPOS="711" VPOS="309" WIDTH="29" HEIGHT="42" WC="0.9815" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="769" VPOS="628" WIDTH="1073" HEIGHT="62">
+          <TextLine ID="B2_L1" HPOS="769" VPOS="628" WIDTH="1073" HEIGHT="62">
+            <String ID="B2_L1_W1" CONTENT="Isolation" HPOS="769" VPOS="628" WIDTH="318" HEIGHT="58" WC="0.9765" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1153" VPOS="631" WIDTH="74" HEIGHT="55" WC="0.9897" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="Genomic" HPOS="1284" VPOS="631" WIDTH="323" HEIGHT="58" WC="0.9847" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="DNA" HPOS="1666" VPOS="633" WIDTH="176" HEIGHT="57" WC="0.9846" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="732" VPOS="1004" WIDTH="1091" HEIGHT="77">
+          <TextLine ID="B3_L1" HPOS="732" VPOS="1004" WIDTH="1091" HEIGHT="76">
+            <String ID="B3_L1_W1" CONTENT="Double" HPOS="732" VPOS="1004" WIDTH="267" HEIGHT="66" WC="0.9866" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Restriction" HPOS="1079" VPOS="1008" WIDTH="425" HEIGHT="68" WC="0.9611" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="Digest" HPOS="1582" VPOS="1015" WIDTH="241" HEIGHT="65" WC="0.9694" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="852" VPOS="1398" WIDTH="876" HEIGHT="73">
+          <TextLine ID="B4_L1" HPOS="852" VPOS="1398" WIDTH="876" HEIGHT="73">
+            <String ID="B4_L1_W1" CONTENT="Ligation" HPOS="852" VPOS="1398" WIDTH="318" HEIGHT="68" WC="0.9882" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="of" HPOS="1241" VPOS="1402" WIDTH="76" HEIGHT="65" WC="0.9876" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="Adapters" HPOS="1380" VPOS="1403" WIDTH="348" HEIGHT="68" WC="0.9858" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="926" VPOS="1786" WIDTH="711" HEIGHT="66">
+          <TextLine ID="B5_L1" HPOS="926" VPOS="1786" WIDTH="711" HEIGHT="66">
+            <String ID="B5_L1_W1" CONTENT="Preamplification" HPOS="926" VPOS="1786" WIDTH="711" HEIGHT="66" WC="0.9919" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="795" VPOS="2115" WIDTH="832" HEIGHT="177">
+          <TextLine ID="B6_L1" HPOS="797" VPOS="2118" WIDTH="830" HEIGHT="80">
+            <String ID="B6_L1_W1" CONTENT="Selective" HPOS="797" VPOS="2118" WIDTH="305" HEIGHT="71" WC="0.9930" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="Amplification" HPOS="1143" VPOS="2124" WIDTH="484" HEIGHT="74" WC="0.9900" />
+          </TextLine>
+          <TextLine ID="B6_L2" HPOS="962" VPOS="2213" WIDTH="538" HEIGHT="77">
+            <String ID="B6_L2_W1" CONTENT="and" HPOS="962" VPOS="2213" WIDTH="135" HEIGHT="67" WC="0.9913" />
+            <SP />
+            <String ID="B6_L2_W2" CONTENT="Labeling" HPOS="1169" VPOS="2218" WIDTH="331" HEIGHT="72" WC="0.9901" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B7" TYPE="text" HPOS="909" VPOS="2561" WIDTH="742" HEIGHT="175">
+          <TextBlock ID="B7_P1" HPOS="909" VPOS="2563" WIDTH="740" HEIGHT="76">
+            <TextLine ID="B7_P1_L1" HPOS="909" VPOS="2563" WIDTH="740" HEIGHT="76">
+              <String ID="B7_P1_L1_W1" CONTENT="Polyacrylamide" HPOS="909" VPOS="2564" WIDTH="563" HEIGHT="75" WC="0.9895" />
+              <SP />
+              <String ID="B7_P1_L1_W2" CONTENT="Gel" HPOS="1527" VPOS="2563" WIDTH="122" HEIGHT="71" WC="0.9912" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B7_P2" HPOS="943" VPOS="2658" WIDTH="665" HEIGHT="78">
+            <TextLine ID="B7_P2_L1" HPOS="943" VPOS="2658" WIDTH="665" HEIGHT="78">
+              <String ID="B7_P2_L1_W1" CONTENT="Electrophoresis" HPOS="943" VPOS="2658" WIDTH="665" HEIGHT="78" WC="0.9823" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B8" HPOS="961" VPOS="2950" WIDTH="721" HEIGHT="77">
+          <TextLine ID="B8_L1" HPOS="961" VPOS="2950" WIDTH="721" HEIGHT="77">
+            <String ID="B8_L1_W1" CONTENT="Autoradiography" HPOS="961" VPOS="2950" WIDTH="721" HEIGHT="77" WC="0.9818" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

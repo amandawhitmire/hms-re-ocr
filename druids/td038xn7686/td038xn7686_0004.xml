@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>td038xn7686_0004</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2508" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9820">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2508" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="398" VPOS="345" WIDTH="1732" HEIGHT="46">
+          <TextLine ID="B1_L1" HPOS="398" VPOS="345" WIDTH="1732" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="triggered" HPOS="398" VPOS="345" WIDTH="235" HEIGHT="46" WC="0.9919" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="by" HPOS="657" VPOS="345" WIDTH="55" HEIGHT="46" WC="0.9822" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="chemical" HPOS="737" VPOS="345" WIDTH="222" HEIGHT="46" WC="0.9932" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="cues" HPOS="986" VPOS="345" WIDTH="109" HEIGHT="46" WC="0.9722" />
+            <String ID="B1_L1_W5" CONTENT="," HPOS="1098" VPOS="345" WIDTH="14" HEIGHT="46" WC="0.9680" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="and" HPOS="1135" VPOS="345" WIDTH="80" HEIGHT="46" WC="0.9852" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="to" HPOS="1240" VPOS="345" WIDTH="48" HEIGHT="46" WC="0.9818" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="locate" HPOS="1312" VPOS="345" WIDTH="152" HEIGHT="46" WC="0.9794" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="the" HPOS="1488" VPOS="345" WIDTH="78" HEIGHT="46" WC="0.9765" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="anatomical" HPOS="1592" VPOS="345" WIDTH="278" HEIGHT="46" WC="0.9849" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="basis" HPOS="1893" VPOS="345" WIDTH="136" HEIGHT="46" WC="0.9759" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="for" HPOS="2052" VPOS="345" WIDTH="78" HEIGHT="46" WC="0.9647" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="399" VPOS="443" WIDTH="725" HEIGHT="43">
+          <TextLine ID="B2_L1" HPOS="399" VPOS="443" WIDTH="725" HEIGHT="42">
+            <String ID="B2_L1_W1" CONTENT="the" HPOS="399" VPOS="444" WIDTH="76" HEIGHT="39" WC="0.9826" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="detection" HPOS="500" VPOS="443" WIDTH="243" HEIGHT="41" WC="0.9861" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="of" HPOS="764" VPOS="445" WIDTH="53" HEIGHT="39" WC="0.9834" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="these" HPOS="838" VPOS="445" WIDTH="138" HEIGHT="39" WC="0.9924" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="cues" HPOS="998" VPOS="446" WIDTH="110" HEIGHT="39" WC="0.9710" />
+            <String ID="B2_L1_W6" CONTENT="." HPOS="1106" VPOS="446" WIDTH="18" HEIGHT="39" WC="0.9102" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

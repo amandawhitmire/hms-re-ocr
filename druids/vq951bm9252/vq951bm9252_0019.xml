@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vq951bm9252_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2496" HEIGHT="3217" PHYSICAL_IMG_NR="1" PC="0.9769">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2496" HEIGHT="3217">
+        <TextBlock ID="B1" HPOS="1979" VPOS="2768" WIDTH="76" HEIGHT="406">
+          <TextLine ID="B1_L1" HPOS="1979" VPOS="2768" WIDTH="75" HEIGHT="406">
+            <String ID="B1_L1_W1" CONTENT="FIGURE" HPOS="1979" VPOS="2884" WIDTH="74" HEIGHT="290" WC="0.9503" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="1985" VPOS="2768" WIDTH="69" HEIGHT="57" WC="0.9723" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="154" VPOS="1296" WIDTH="83" HEIGHT="952">
+          <TextLine ID="B2_L1" HPOS="154" VPOS="1296" WIDTH="82" HEIGHT="952">
+            <String ID="B2_L1_W1" CONTENT="HALF" HPOS="154" VPOS="2007" WIDTH="79" HEIGHT="241" WC="0.9860" />
+            <String ID="B2_L1_W2" CONTENT="-" HPOS="156" VPOS="1942" WIDTH="77" HEIGHT="61" WC="0.9637" />
+            <String ID="B2_L1_W3" CONTENT="PURSE" HPOS="156" VPOS="1628" WIDTH="79" HEIGHT="304" WC="0.9895" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="SEINE" HPOS="158" VPOS="1296" WIDTH="78" HEIGHT="272" WC="0.9894" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="297" VPOS="1598" WIDTH="78" HEIGHT="398">
+          <TextLine ID="B3_L1" HPOS="297" VPOS="1598" WIDTH="77" HEIGHT="398">
+            <String ID="B3_L1_W1" CONTENT="side" HPOS="297" VPOS="1841" WIDTH="75" HEIGHT="155" WC="0.9874" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="view" HPOS="300" VPOS="1598" WIDTH="74" HEIGHT="173" WC="0.9933" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

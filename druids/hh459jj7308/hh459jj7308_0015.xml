@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>hh459jj7308_0015</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2526" HEIGHT="3271" PHYSICAL_IMG_NR="1" PC="0.9825">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2526" HEIGHT="3271">
+        <TextBlock ID="B1" HPOS="814" VPOS="271" WIDTH="305" HEIGHT="28">
+          <TextLine ID="B1_L1" HPOS="814" VPOS="271" WIDTH="305" HEIGHT="28">
+            <String ID="B1_L1_W1" CONTENT="TABLE" HPOS="814" VPOS="271" WIDTH="126" HEIGHT="28" WC="0.9920" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="LEGEND" HPOS="969" VPOS="271" WIDTH="150" HEIGHT="28" WC="0.9870" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1704" VPOS="116" WIDTH="256" HEIGHT="33">
+          <TextLine ID="B2_L1" HPOS="1704" VPOS="116" WIDTH="256" HEIGHT="33">
+            <String ID="B2_L1_W1" CONTENT="CONNOR" HPOS="1704" VPOS="120" WIDTH="153" HEIGHT="29" WC="0.9899" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="16" HPOS="1913" VPOS="116" WIDTH="47" HEIGHT="31" WC="0.9932" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="273" VPOS="421" WIDTH="1632" HEIGHT="39">
+          <TextLine ID="B3_L1" HPOS="273" VPOS="421" WIDTH="1632" HEIGHT="39">
+            <String ID="B3_L1_W1" CONTENT="Table" HPOS="273" VPOS="421" WIDTH="131" HEIGHT="39" WC="0.9884" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="I" HPOS="432" VPOS="421" WIDTH="20" HEIGHT="39" WC="0.9422" />
+            <String ID="B3_L1_W3" CONTENT=":" HPOS="458" VPOS="421" WIDTH="12" HEIGHT="39" WC="0.8472" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="Ecological" HPOS="506" VPOS="421" WIDTH="253" HEIGHT="39" WC="0.9771" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="and" HPOS="789" VPOS="421" WIDTH="75" HEIGHT="39" WC="0.9884" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="behavioral" HPOS="891" VPOS="421" WIDTH="252" HEIGHT="39" WC="0.9916" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="differences" HPOS="1171" VPOS="421" WIDTH="279" HEIGHT="39" WC="0.9919" />
+            <SP />
+            <String ID="B3_L1_W8" CONTENT="in" HPOS="1479" VPOS="421" WIDTH="47" HEIGHT="39" WC="0.9856" />
+            <SP />
+            <String ID="B3_L1_W9" CONTENT="four" HPOS="1556" VPOS="421" WIDTH="96" HEIGHT="39" WC="0.9540" />
+            <SP />
+            <String ID="B3_L1_W10" CONTENT="Pelvetia-" HPOS="1680" VPOS="421" WIDTH="225" HEIGHT="39" WC="0.9882" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="355" VPOS="521" WIDTH="646" HEIGHT="37">
+          <TextLine ID="B4_L1" HPOS="355" VPOS="521" WIDTH="646" HEIGHT="37">
+            <String ID="B4_L1_W1" CONTENT="zone" HPOS="355" VPOS="525" WIDTH="99" HEIGHT="33" WC="0.9365" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="herbivorous" HPOS="478" VPOS="523" WIDTH="282" HEIGHT="34" WC="0.9794" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="molluscs" HPOS="785" VPOS="521" WIDTH="205" HEIGHT="33" WC="0.9799" />
+            <String ID="B4_L1_W4" CONTENT="." HPOS="992" VPOS="521" WIDTH="9" HEIGHT="31" WC="0.8801" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

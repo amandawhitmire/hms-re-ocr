@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>xz871ws0977_0009</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2517" HEIGHT="3248" PHYSICAL_IMG_NR="1" PC="0.9808">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2517" HEIGHT="3248">
+        <TextBlock ID="B1" HPOS="362" VPOS="474" WIDTH="1822" HEIGHT="97">
+          <TextLine ID="B1_L1" HPOS="363" VPOS="479" WIDTH="1821" HEIGHT="38">
+            <String ID="B1_L1_W1" CONTENT="Van" HPOS="363" VPOS="479" WIDTH="91" HEIGHT="38" WC="0.9686" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Dykhuizen" HPOS="488" VPOS="479" WIDTH="273" HEIGHT="38" WC="0.9897" />
+            <String ID="B1_L1_W3" CONTENT="," HPOS="772" VPOS="479" WIDTH="15" HEIGHT="38" WC="0.9806" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Gilbert" HPOS="826" VPOS="479" WIDTH="205" HEIGHT="38" WC="0.9865" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="(" HPOS="1069" VPOS="479" WIDTH="15" HEIGHT="38" WC="0.9878" />
+            <String ID="B1_L1_W6" CONTENT="1990" HPOS="1095" VPOS="479" WIDTH="114" HEIGHT="38" WC="0.9910" />
+            <String ID="B1_L1_W7" CONTENT=")" HPOS="1221" VPOS="479" WIDTH="19" HEIGHT="38" WC="0.9842" />
+            <String ID="B1_L1_W8" CONTENT="." HPOS="1252" VPOS="479" WIDTH="18" HEIGHT="38" WC="0.9588" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="Senior" HPOS="1307" VPOS="479" WIDTH="176" HEIGHT="38" WC="0.9917" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="Aquarist" HPOS="1518" VPOS="479" WIDTH="240" HEIGHT="38" WC="0.9860" />
+            <String ID="B1_L1_W11" CONTENT="," HPOS="1766" VPOS="479" WIDTH="18" HEIGHT="38" WC="0.9499" />
+            <SP />
+            <String ID="B1_L1_W12" CONTENT="Monterey" HPOS="1822" VPOS="479" WIDTH="243" HEIGHT="38" WC="0.9823" />
+            <SP />
+            <String ID="B1_L1_W13" CONTENT="Bay" HPOS="2096" VPOS="479" WIDTH="88" HEIGHT="38" WC="0.9916" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="362" VPOS="529" WIDTH="1084" HEIGHT="42">
+            <String ID="B1_L2_W1" CONTENT="Aquarium" HPOS="362" VPOS="533" WIDTH="242" HEIGHT="38" WC="0.9867" />
+            <String ID="B1_L2_W2" CONTENT="." HPOS="613" VPOS="533" WIDTH="15" HEIGHT="36" WC="0.9610" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="Telephone" HPOS="669" VPOS="531" WIDTH="270" HEIGHT="38" WC="0.9832" />
+            <String ID="B1_L2_W4" CONTENT=":" HPOS="948" VPOS="532" WIDTH="17" HEIGHT="36" WC="0.9613" />
+            <SP />
+            <String ID="B1_L2_W5" CONTENT="(" HPOS="1006" VPOS="531" WIDTH="15" HEIGHT="36" WC="0.9852" />
+            <String ID="B1_L2_W6" CONTENT="408" HPOS="1029" VPOS="531" WIDTH="85" HEIGHT="36" WC="0.9884" />
+            <String ID="B1_L2_W7" CONTENT=")" HPOS="1124" VPOS="531" WIDTH="17" HEIGHT="36" WC="0.9823" />
+            <SP />
+            <String ID="B1_L2_W8" CONTENT="648-4810" HPOS="1180" VPOS="529" WIDTH="242" HEIGHT="38" WC="0.9762" />
+            <String ID="B1_L2_W9" CONTENT="." HPOS="1432" VPOS="529" WIDTH="14" HEIGHT="36" WC="0.9803" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1311" VPOS="3107" WIDTH="53" HEIGHT="28">
+          <TextLine ID="B2_L1" HPOS="1311" VPOS="3107" WIDTH="53" HEIGHT="28">
+            <String ID="B2_L1_W1" CONTENT="10" HPOS="1311" VPOS="3107" WIDTH="53" HEIGHT="28" WC="0.9779" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

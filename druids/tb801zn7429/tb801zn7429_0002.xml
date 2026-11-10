@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tb801zn7429_0002</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2530" HEIGHT="3288" PHYSICAL_IMG_NR="1" PC="0.9839">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2530" HEIGHT="3288">
+        <TextBlock ID="B1" HPOS="612" VPOS="825" WIDTH="1334" HEIGHT="45">
+          <TextLine ID="B1_L1" HPOS="612" VPOS="825" WIDTH="1334" HEIGHT="45">
+            <String ID="B1_L1_W1" CONTENT="My" HPOS="612" VPOS="825" WIDTH="68" HEIGHT="45" WC="0.9751" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="thanks" HPOS="686" VPOS="825" WIDTH="148" HEIGHT="45" WC="0.9889" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="to" HPOS="841" VPOS="825" WIDTH="42" HEIGHT="45" WC="0.9931" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Rob" HPOS="890" VPOS="825" WIDTH="77" HEIGHT="45" WC="0.9900" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="Swezey" HPOS="976" VPOS="825" WIDTH="150" HEIGHT="45" WC="0.9892" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="for" HPOS="1134" VPOS="825" WIDTH="65" HEIGHT="45" WC="0.9885" />
+            <SP />
+            <String ID="B1_L1_W7" CONTENT="his" HPOS="1213" VPOS="825" WIDTH="62" HEIGHT="45" WC="0.9770" />
+            <SP />
+            <String ID="B1_L1_W8" CONTENT="advice" HPOS="1289" VPOS="825" WIDTH="130" HEIGHT="45" WC="0.9829" />
+            <SP />
+            <String ID="B1_L1_W9" CONTENT="and" HPOS="1430" VPOS="825" WIDTH="76" HEIGHT="45" WC="0.9917" />
+            <SP />
+            <String ID="B1_L1_W10" CONTENT="humorous" HPOS="1520" VPOS="825" WIDTH="206" HEIGHT="45" WC="0.9687" />
+            <SP />
+            <String ID="B1_L1_W11" CONTENT="comments" HPOS="1738" VPOS="825" WIDTH="208" HEIGHT="45" WC="0.9879" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

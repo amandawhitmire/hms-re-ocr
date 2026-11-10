@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wp009br6936_0001</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2530" HEIGHT="3267" PHYSICAL_IMG_NR="1" PC="0.9739">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2530" HEIGHT="3267">
+        <TextBlock ID="B1" HPOS="659" VPOS="1330" WIDTH="1351" HEIGHT="124">
+          <TextLine ID="B1_L1" HPOS="727" VPOS="1330" WIDTH="1204" HEIGHT="46">
+            <String ID="B1_L1_W1" CONTENT="GLUTAMATE" HPOS="727" VPOS="1334" WIDTH="303" HEIGHT="42" WC="0.9914" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="NEUROTOXICITY" HPOS="1050" VPOS="1332" WIDTH="404" HEIGHT="43" WC="0.9888" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="IN" HPOS="1478" VPOS="1333" WIDTH="50" HEIGHT="40" WC="0.9893" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="CNS" HPOS="1552" VPOS="1332" WIDTH="98" HEIGHT="40" WC="0.9874" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="CULTURES" HPOS="1671" VPOS="1330" WIDTH="260" HEIGHT="42" WC="0.9689" />
+          </TextLine>
+          <TextLine ID="B1_L2" HPOS="659" VPOS="1400" WIDTH="1351" HEIGHT="51">
+            <String ID="B1_L2_W1" CONTENT="OF" HPOS="659" VPOS="1400" WIDTH="61" HEIGHT="51" WC="0.9668" />
+            <SP />
+            <String ID="B1_L2_W2" CONTENT="MARINE" HPOS="742" VPOS="1400" WIDTH="192" HEIGHT="51" WC="0.9918" />
+            <SP />
+            <String ID="B1_L2_W3" CONTENT="SURFPERCH" HPOS="954" VPOS="1400" WIDTH="295" HEIGHT="51" WC="0.9888" />
+            <SP />
+            <String ID="B1_L2_W4" CONTENT="Cymatogaster" HPOS="1274" VPOS="1400" WIDTH="420" HEIGHT="51" WC="0.8807" />
+            <SP />
+            <String ID="B1_L2_W5" CONTENT="aggregata" HPOS="1715" VPOS="1400" WIDTH="295" HEIGHT="51" WC="0.9835" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B2" TYPE="text" HPOS="1141" VPOS="1933" WIDTH="398" HEIGHT="113">
+          <TextBlock ID="B2_P1" HPOS="1141" VPOS="1933" WIDTH="398" HEIGHT="42">
+            <TextLine ID="B2_P1_L1" HPOS="1141" VPOS="1933" WIDTH="398" HEIGHT="42">
+              <String ID="B2_P1_L1_W1" CONTENT="Hindola" HPOS="1141" VPOS="1933" WIDTH="168" HEIGHT="40" WC="0.9884" />
+              <SP />
+              <String ID="B2_P1_L1_W2" CONTENT="DasGupta" HPOS="1327" VPOS="1934" WIDTH="212" HEIGHT="41" WC="0.9846" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B2_P2" HPOS="1189" VPOS="2003" WIDTH="299" HEIGHT="42">
+            <TextLine ID="B2_P2_L1" HPOS="1189" VPOS="2003" WIDTH="299" HEIGHT="42">
+              <String ID="B2_P2_L1_W1" CONTENT="June" HPOS="1189" VPOS="2003" WIDTH="104" HEIGHT="42" WC="0.9871" />
+              <SP />
+              <String ID="B2_P2_L1_W2" CONTENT="9" HPOS="1311" VPOS="2003" WIDTH="26" HEIGHT="42" WC="0.9755" />
+              <String ID="B2_P2_L1_W3" CONTENT="," HPOS="1343" VPOS="2003" WIDTH="11" HEIGHT="42" WC="0.9579" />
+              <SP />
+              <String ID="B2_P2_L1_W4" CONTENT="1989" HPOS="1379" VPOS="2003" WIDTH="109" HEIGHT="42" WC="0.9931" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <ComposedBlock ID="B3" TYPE="text" HPOS="1023" VPOS="2063" WIDTH="636" HEIGHT="117">
+          <TextBlock ID="B3_P1" HPOS="1023" VPOS="2065" WIDTH="636" HEIGHT="44">
+            <TextLine ID="B3_P1_L1" HPOS="1023" VPOS="2065" WIDTH="636" HEIGHT="44">
+              <String ID="B3_P1_L1_W1" CONTENT="Professor" HPOS="1023" VPOS="2065" WIDTH="228" HEIGHT="42" WC="0.9772" />
+              <SP />
+              <String ID="B3_P1_L1_W2" CONTENT="Stuart" HPOS="1268" VPOS="2066" WIDTH="146" HEIGHT="42" WC="0.9864" />
+              <SP />
+              <String ID="B3_P1_L1_W3" CONTENT="Thompson" HPOS="1428" VPOS="2067" WIDTH="231" HEIGHT="42" WC="0.9923" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B3_P2" HPOS="1073" VPOS="2130" WIDTH="539" HEIGHT="50">
+            <TextLine ID="B3_P2_L1" HPOS="1073" VPOS="2130" WIDTH="539" HEIGHT="50">
+              <String ID="B3_P2_L1_W1" CONTENT="Hopkins" HPOS="1073" VPOS="2134" WIDTH="174" HEIGHT="46" WC="0.9911" />
+              <SP />
+              <String ID="B3_P2_L1_W2" CONTENT="Marine" HPOS="1266" VPOS="2132" WIDTH="153" HEIGHT="46" WC="0.9892" />
+              <SP />
+              <String ID="B3_P2_L1_W3" CONTENT="Station" HPOS="1435" VPOS="2130" WIDTH="171" HEIGHT="46" WC="0.9553" />
+              <String ID="B3_P2_L1_W4" CONTENT="." HPOS="1596" VPOS="2131" WIDTH="16" HEIGHT="43" WC="0.3675" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

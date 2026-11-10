@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nb100nt1777_0020</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2524" HEIGHT="3285" PHYSICAL_IMG_NR="1" PC="0.9834">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2524" HEIGHT="3285">
+        <TextBlock ID="B1" HPOS="238" VPOS="720" WIDTH="818" HEIGHT="51">
+          <TextLine ID="B1_L1" HPOS="238" VPOS="720" WIDTH="818" HEIGHT="51">
+            <String ID="B1_L1_W1" CONTENT="Receptor" HPOS="238" VPOS="720" WIDTH="251" HEIGHT="51" WC="0.9771" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Model" HPOS="513" VPOS="720" WIDTH="160" HEIGHT="51" WC="0.9909" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="of" HPOS="698" VPOS="720" WIDTH="55" HEIGHT="51" WC="0.9674" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="Activation" HPOS="775" VPOS="720" WIDTH="270" HEIGHT="51" WC="0.9564" />
+            <String ID="B1_L1_W5" CONTENT=":" HPOS="1045" VPOS="720" WIDTH="11" HEIGHT="51" WC="0.8822" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="412" VPOS="1214" WIDTH="326" HEIGHT="33">
+          <TextLine ID="B2_L1" HPOS="412" VPOS="1214" WIDTH="326" HEIGHT="33">
+            <String ID="B2_L1_W1" CONTENT="plasma" HPOS="412" VPOS="1214" WIDTH="125" HEIGHT="33" WC="0.9906" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="membrane" HPOS="555" VPOS="1214" WIDTH="183" HEIGHT="33" WC="0.9922" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="556" VPOS="2503" WIDTH="186" HEIGHT="50">
+          <TextLine ID="B3_L1" HPOS="556" VPOS="2504" WIDTH="186" HEIGHT="49">
+            <String ID="B3_L1_W1" CONTENT="Figure" HPOS="556" VPOS="2504" WIDTH="146" HEIGHT="49" WC="0.9905" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="1" HPOS="724" VPOS="2504" WIDTH="18" HEIGHT="46" WC="0.9819" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="852" VPOS="1403" WIDTH="116" HEIGHT="24">
+          <TextLine ID="B4_L1" HPOS="852" VPOS="1403" WIDTH="116" HEIGHT="24">
+            <String ID="B4_L1_W1" CONTENT="receptor" HPOS="852" VPOS="1403" WIDTH="116" HEIGHT="24" WC="0.9899" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="1438" VPOS="1108" WIDTH="225" HEIGHT="26">
+          <TextLine ID="B5_L1" HPOS="1438" VPOS="1108" WIDTH="225" HEIGHT="26">
+            <String ID="B5_L1_W1" CONTENT="phospholipase" HPOS="1438" VPOS="1108" WIDTH="193" HEIGHT="26" WC="0.9911" />
+            <SP />
+            <String ID="B5_L1_W2" CONTENT="C" HPOS="1642" VPOS="1108" WIDTH="21" HEIGHT="26" WC="0.9320" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B6" HPOS="1021" VPOS="1367" WIDTH="128" HEIGHT="24">
+          <TextLine ID="B6_L1" HPOS="1021" VPOS="1367" WIDTH="128" HEIGHT="24">
+            <String ID="B6_L1_W1" CONTENT="G" HPOS="1021" VPOS="1367" WIDTH="19" HEIGHT="24" WC="0.9810" />
+            <String ID="B6_L1_W2" CONTENT="-" HPOS="1042" VPOS="1367" WIDTH="14" HEIGHT="24" WC="0.9652" />
+            <String ID="B6_L1_W3" CONTENT="protein" HPOS="1057" VPOS="1367" WIDTH="92" HEIGHT="24" WC="0.9925" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1616" VPOS="1436" WIDTH="90" HEIGHT="48">
+          <TextLine ID="B7_L1" HPOS="1616" VPOS="1436" WIDTH="90" HEIGHT="48">
+            <String ID="B7_L1_W1" CONTENT="IP3" HPOS="1616" VPOS="1436" WIDTH="90" HEIGHT="48" WC="0.9653" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1460" VPOS="1793" WIDTH="195" HEIGHT="43">
+          <TextLine ID="B8_L1" HPOS="1460" VPOS="1793" WIDTH="195" HEIGHT="43">
+            <String ID="B8_L1_W1" CONTENT="Calcium" HPOS="1460" VPOS="1793" WIDTH="195" HEIGHT="43" WC="0.9904" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B9" HPOS="1783" VPOS="1164" WIDTH="445" HEIGHT="39">
+          <TextLine ID="B9_L1" HPOS="1783" VPOS="1164" WIDTH="445" HEIGHT="39">
+            <String ID="B9_L1_W1" CONTENT="polyphosphatidyl" HPOS="1783" VPOS="1165" WIDTH="304" HEIGHT="38" WC="0.9888" />
+            <SP />
+            <String ID="B9_L1_W2" CONTENT="inositol" HPOS="2100" VPOS="1164" WIDTH="128" HEIGHT="37" WC="0.9453" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B10" HPOS="1806" VPOS="1303" WIDTH="78" HEIGHT="28">
+          <TextLine ID="B10_L1" HPOS="1806" VPOS="1303" WIDTH="78" HEIGHT="28">
+            <String ID="B10_L1_W1" CONTENT="DAG" HPOS="1806" VPOS="1303" WIDTH="78" HEIGHT="28" WC="0.9900" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B11" HPOS="2053" VPOS="1296" WIDTH="294" HEIGHT="35">
+          <TextLine ID="B11_L1" HPOS="2053" VPOS="1296" WIDTH="294" HEIGHT="35">
+            <String ID="B11_L1_W1" CONTENT="protein" HPOS="2053" VPOS="1298" WIDTH="123" HEIGHT="33" WC="0.9917" />
+            <SP />
+            <String ID="B11_L1_W2" CONTENT="kinase" HPOS="2192" VPOS="1296" WIDTH="115" HEIGHT="33" WC="0.9898" />
+            <SP />
+            <String ID="B11_L1_W3" CONTENT="C" HPOS="2320" VPOS="1297" WIDTH="27" HEIGHT="30" WC="0.9228" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B12" HPOS="2075" VPOS="1495" WIDTH="213" HEIGHT="38">
+          <TextLine ID="B12_L1" HPOS="2075" VPOS="1495" WIDTH="213" HEIGHT="38">
+            <String ID="B12_L1_W1" CONTENT="pH" HPOS="2075" VPOS="1498" WIDTH="47" HEIGHT="35" WC="0.9696" />
+            <SP />
+            <String ID="B12_L1_W2" CONTENT="increase" HPOS="2132" VPOS="1495" WIDTH="156" HEIGHT="37" WC="0.9787" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B13" TYPE="text" HPOS="1818" VPOS="2082" WIDTH="498" HEIGHT="112">
+          <TextBlock ID="B13_P1" HPOS="1818" VPOS="2082" WIDTH="498" HEIGHT="46">
+            <TextLine ID="B13_P1_L1" HPOS="1818" VPOS="2082" WIDTH="498" HEIGHT="46">
+              <String ID="B13_P1_L1_W1" CONTENT="cortical" HPOS="1818" VPOS="2082" WIDTH="140" HEIGHT="40" WC="0.9884" />
+              <SP />
+              <String ID="B13_P1_L1_W2" CONTENT="granule" HPOS="1969" VPOS="2084" WIDTH="133" HEIGHT="40" WC="0.9916" />
+              <SP />
+              <String ID="B13_P1_L1_W3" CONTENT="exocytosis" HPOS="2116" VPOS="2087" WIDTH="200" HEIGHT="41" WC="0.9895" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B13_P2" HPOS="1824" VPOS="2156" WIDTH="487" HEIGHT="34">
+            <TextLine ID="B13_P2_L1" HPOS="1824" VPOS="2156" WIDTH="487" HEIGHT="34">
+              <String ID="B13_P2_L1_W1" CONTENT="protein" HPOS="1824" VPOS="2156" WIDTH="128" HEIGHT="34" WC="0.9877" />
+              <SP />
+              <String ID="B13_P2_L1_W2" CONTENT="and" HPOS="1968" VPOS="2156" WIDTH="61" HEIGHT="34" WC="0.9842" />
+              <SP />
+              <String ID="B13_P2_L1_W3" CONTENT="DNA" HPOS="2046" VPOS="2156" WIDTH="78" HEIGHT="34" WC="0.9777" />
+              <SP />
+              <String ID="B13_P2_L1_W4" CONTENT="synthesis" HPOS="2142" VPOS="2156" WIDTH="169" HEIGHT="34" WC="0.9869" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

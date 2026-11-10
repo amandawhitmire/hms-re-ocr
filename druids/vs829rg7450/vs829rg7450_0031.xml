@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>vs829rg7450_0031</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2520" HEIGHT="3281" PHYSICAL_IMG_NR="1" PC="0.9695">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2520" HEIGHT="3281">
+        <TextBlock ID="B1" HPOS="916" VPOS="234" WIDTH="880" HEIGHT="69">
+          <TextLine ID="B1_L1" HPOS="916" VPOS="234" WIDTH="880" HEIGHT="69">
+            <String ID="B1_L1_W1" CONTENT="Armadillidium" HPOS="916" VPOS="236" WIDTH="512" HEIGHT="67" WC="0.9863" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="vulgare" HPOS="1508" VPOS="234" WIDTH="288" HEIGHT="65" WC="0.9927" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="989" VPOS="1647" WIDTH="680" HEIGHT="71">
+          <TextLine ID="B2_L1" HPOS="989" VPOS="1648" WIDTH="680" HEIGHT="70">
+            <String ID="B2_L1_W1" CONTENT="Idotea" HPOS="989" VPOS="1653" WIDTH="251" HEIGHT="65" WC="0.8989" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="resecata" HPOS="1322" VPOS="1648" WIDTH="347" HEIGHT="65" WC="0.9889" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>cx996bj7104_0010</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2513" HEIGHT="3287" PHYSICAL_IMG_NR="1" PC="0.9493">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2513" HEIGHT="3287">
+        <TextBlock ID="B1" HPOS="1260" VPOS="1239" WIDTH="29" HEIGHT="32">
+          <TextLine ID="B1_L1" HPOS="1260" VPOS="1239" WIDTH="29" HEIGHT="32">
+            <String ID="B1_L1_W1" CONTENT="a" HPOS="1260" VPOS="1239" WIDTH="29" HEIGHT="32" WC="0.9506" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1229" VPOS="2481" WIDTH="27" HEIGHT="30">
+          <TextLine ID="B2_L1" HPOS="1229" VPOS="2481" WIDTH="27" HEIGHT="30">
+            <String ID="B2_L1_W1" CONTENT="a" HPOS="1229" VPOS="2481" WIDTH="27" HEIGHT="30" WC="0.9460" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1237" VPOS="2581" WIDTH="26" HEIGHT="26">
+          <TextLine ID="B3_L1" HPOS="1237" VPOS="2581" WIDTH="26" HEIGHT="26">
+            <String ID="B3_L1_W1" CONTENT="r" HPOS="1237" VPOS="2581" WIDTH="26" HEIGHT="26" WC="0.9189" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1237" VPOS="2672" WIDTH="20" HEIGHT="31">
+          <TextLine ID="B4_L1" HPOS="1237" VPOS="2672" WIDTH="20" HEIGHT="31">
+            <String ID="B4_L1_W1" CONTENT="S" HPOS="1237" VPOS="2672" WIDTH="20" HEIGHT="31" WC="0.9193" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B5" TYPE="text" HPOS="1367" VPOS="2347" WIDTH="449" HEIGHT="262">
+          <TextBlock ID="B5_P1" HPOS="1368" VPOS="2351" WIDTH="357" HEIGHT="160">
+            <TextLine ID="B5_P1_L1" HPOS="1373" VPOS="2352" WIDTH="349" HEIGHT="49">
+              <String ID="B5_P1_L1_W1" CONTENT="infundibulum" HPOS="1373" VPOS="2352" WIDTH="349" HEIGHT="49" WC="0.9885" />
+            </TextLine>
+            <TextLine ID="B5_P1_L2" HPOS="1371" VPOS="2458" WIDTH="355" HEIGHT="53">
+              <String ID="B5_P1_L2_W1" CONTENT="acetabulum" HPOS="1371" VPOS="2458" WIDTH="355" HEIGHT="53" WC="0.9936" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B5_P2" HPOS="1382" VPOS="2552" WIDTH="434" HEIGHT="57">
+            <TextLine ID="B5_P2_L1" HPOS="1382" VPOS="2552" WIDTH="434" HEIGHT="57">
+              <String ID="B5_P2_L1_W1" CONTENT="radial" HPOS="1382" VPOS="2560" WIDTH="184" HEIGHT="49" WC="0.9856" />
+              <SP />
+              <String ID="B5_P2_L1_W2" CONTENT="muscle" HPOS="1621" VPOS="2552" WIDTH="195" HEIGHT="49" WC="0.9935" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B6" HPOS="1379" VPOS="2645" WIDTH="478" HEIGHT="71">
+          <TextLine ID="B6_L1" HPOS="1379" VPOS="2645" WIDTH="478" HEIGHT="71">
+            <String ID="B6_L1_W1" CONTENT="sphincter" HPOS="1379" VPOS="2654" WIDTH="262" HEIGHT="62" WC="0.9823" />
+            <SP />
+            <String ID="B6_L1_W2" CONTENT="muscle" HPOS="1675" VPOS="2645" WIDTH="182" HEIGHT="59" WC="0.9908" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="1936" VPOS="3015" WIDTH="271" HEIGHT="81">
+          <TextLine ID="B7_L1" HPOS="1936" VPOS="3016" WIDTH="270" HEIGHT="80">
+            <String ID="B7_L1_W1" CONTENT="plate" HPOS="1936" VPOS="3022" WIDTH="176" HEIGHT="74" WC="0.9888" />
+            <SP />
+            <String ID="B7_L1_W2" CONTENT="I" HPOS="2176" VPOS="3016" WIDTH="30" HEIGHT="63" WC="0.6621" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

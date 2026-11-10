@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wd531qx6560_0019</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2533" HEIGHT="3283" PHYSICAL_IMG_NR="1" PC="0.9729">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2533" HEIGHT="3283">
+        <TextBlock ID="B1" HPOS="1032" VPOS="428" WIDTH="433" HEIGHT="50">
+          <TextLine ID="B1_L1" HPOS="1032" VPOS="428" WIDTH="433" HEIGHT="50">
+            <String ID="B1_L1_W1" CONTENT="High" HPOS="1032" VPOS="432" WIDTH="98" HEIGHT="46" WC="0.9880" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="Intensity" HPOS="1143" VPOS="430" WIDTH="176" HEIGHT="47" WC="0.9705" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="Waves" HPOS="1328" VPOS="428" WIDTH="137" HEIGHT="46" WC="0.9926" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1109" VPOS="2609" WIDTH="295" HEIGHT="40">
+          <TextLine ID="B2_L1" HPOS="1109" VPOS="2609" WIDTH="295" HEIGHT="40">
+            <String ID="B2_L1_W1" CONTENT="Annihilation" HPOS="1109" VPOS="2609" WIDTH="295" HEIGHT="40" WC="0.9926" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="440" VPOS="2735" WIDTH="923" HEIGHT="49">
+          <TextLine ID="B3_L1" HPOS="440" VPOS="2735" WIDTH="923" HEIGHT="49">
+            <String ID="B3_L1_W1" CONTENT="Figure" HPOS="440" VPOS="2735" WIDTH="133" HEIGHT="46" WC="0.9915" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="5." HPOS="584" VPOS="2736" WIDTH="40" HEIGHT="44" WC="0.9696" />
+            <SP />
+            <String ID="B3_L1_W3" CONTENT="Annihilation" HPOS="649" VPOS="2736" WIDTH="255" HEIGHT="46" WC="0.9816" />
+            <SP />
+            <String ID="B3_L1_W4" CONTENT="of" HPOS="917" VPOS="2738" WIDTH="44" HEIGHT="44" WC="0.9812" />
+            <SP />
+            <String ID="B3_L1_W5" CONTENT="high" HPOS="970" VPOS="2738" WIDTH="89" HEIGHT="44" WC="0.9881" />
+            <SP />
+            <String ID="B3_L1_W6" CONTENT="intensity" HPOS="1072" VPOS="2738" WIDTH="174" HEIGHT="46" WC="0.9796" />
+            <SP />
+            <String ID="B3_L1_W7" CONTENT="wave" HPOS="1257" VPOS="2739" WIDTH="106" HEIGHT="45" WC="0.9779" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="1742" VPOS="1524" WIDTH="90" HEIGHT="36">
+          <TextLine ID="B4_L1" HPOS="1742" VPOS="1525" WIDTH="90" HEIGHT="35">
+            <String ID="B4_L1_W1" CONTENT="1" HPOS="1742" VPOS="1525" WIDTH="19" HEIGHT="31" WC="0.8317" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="cm" HPOS="1776" VPOS="1526" WIDTH="56" HEIGHT="34" WC="0.9887" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

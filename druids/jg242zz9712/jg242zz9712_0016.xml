@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jg242zz9712_0016</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2540" HEIGHT="3266" PHYSICAL_IMG_NR="1" PC="0.9845">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2540" HEIGHT="3266">
+        <TextBlock ID="B1" HPOS="693" VPOS="1420" WIDTH="219" HEIGHT="41">
+          <TextLine ID="B1_L1" HPOS="693" VPOS="1420" WIDTH="219" HEIGHT="41">
+            <String ID="B1_L1_W1" CONTENT="Figure" HPOS="693" VPOS="1422" WIDTH="150" HEIGHT="39" WC="0.9929" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="3" HPOS="871" VPOS="1420" WIDTH="24" HEIGHT="36" WC="0.9875" />
+            <String ID="B1_L1_W3" CONTENT="." HPOS="899" VPOS="1421" WIDTH="13" HEIGHT="35" WC="0.9284" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="971" VPOS="1414" WIDTH="931" HEIGHT="147">
+          <TextLine ID="B2_L1" HPOS="972" VPOS="1415" WIDTH="930" HEIGHT="46">
+            <String ID="B2_L1_W1" CONTENT="Graph" HPOS="972" VPOS="1421" WIDTH="126" HEIGHT="40" WC="0.9784" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="of" HPOS="1125" VPOS="1421" WIDTH="47" HEIGHT="38" WC="0.9727" />
+            <SP />
+            <String ID="B2_L1_W3" CONTENT="single" HPOS="1200" VPOS="1419" WIDTH="151" HEIGHT="40" WC="0.9750" />
+            <SP />
+            <String ID="B2_L1_W4" CONTENT="substrate" HPOS="1378" VPOS="1417" WIDTH="227" HEIGHT="41" WC="0.9915" />
+            <SP />
+            <String ID="B2_L1_W5" CONTENT="experiment" HPOS="1630" VPOS="1415" WIDTH="254" HEIGHT="41" WC="0.9917" />
+            <String ID="B2_L1_W6" CONTENT="." HPOS="1889" VPOS="1415" WIDTH="13" HEIGHT="38" WC="0.9570" />
+          </TextLine>
+          <TextLine ID="B2_L2" HPOS="971" VPOS="1469" WIDTH="856" HEIGHT="35">
+            <String ID="B2_L2_W1" CONTENT="Number" HPOS="971" VPOS="1471" WIDTH="150" HEIGHT="33" WC="0.9921" />
+            <SP />
+            <String ID="B2_L2_W2" CONTENT="of" HPOS="1151" VPOS="1472" WIDTH="47" HEIGHT="31" WC="0.9892" />
+            <SP />
+            <String ID="B2_L2_W3" CONTENT="animals" HPOS="1228" VPOS="1470" WIDTH="172" HEIGHT="33" WC="0.9871" />
+            <SP />
+            <String ID="B2_L2_W4" CONTENT="on" HPOS="1432" VPOS="1471" WIDTH="48" HEIGHT="31" WC="0.9915" />
+            <SP />
+            <String ID="B2_L2_W5" CONTENT="substrate" HPOS="1507" VPOS="1469" WIDTH="227" HEIGHT="33" WC="0.9853" />
+            <SP />
+            <String ID="B2_L2_W6" CONTENT="vs." HPOS="1758" VPOS="1469" WIDTH="69" HEIGHT="32" WC="0.9786" />
+          </TextLine>
+          <TextLine ID="B2_L3" HPOS="973" VPOS="1519" WIDTH="297" HEIGHT="41">
+            <String ID="B2_L3_W1" CONTENT="time" HPOS="973" VPOS="1519" WIDTH="99" HEIGHT="38" WC="0.9892" />
+            <SP />
+            <String ID="B2_L3_W2" CONTENT="of" HPOS="1101" VPOS="1521" WIDTH="48" HEIGHT="38" WC="0.9707" />
+            <SP />
+            <String ID="B2_L3_W3" CONTENT="day" HPOS="1179" VPOS="1522" WIDTH="74" HEIGHT="38" WC="0.9904" />
+            <String ID="B2_L3_W4" CONTENT="." HPOS="1256" VPOS="1524" WIDTH="14" HEIGHT="36" WC="0.9191" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

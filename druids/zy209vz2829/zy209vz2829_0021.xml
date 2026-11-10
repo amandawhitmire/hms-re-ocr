@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zy209vz2829_0021</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2555" HEIGHT="3291" PHYSICAL_IMG_NR="1" PC="0.8818">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2555" HEIGHT="3291">
+        <TextBlock ID="B1" HPOS="292" VPOS="299" WIDTH="125" HEIGHT="55">
+          <TextLine ID="B1_L1" HPOS="292" VPOS="300" WIDTH="125" HEIGHT="54">
+            <String ID="B1_L1_W1" CONTENT="Fig" HPOS="292" VPOS="302" WIDTH="66" HEIGHT="52" WC="0.9878" />
+            <String ID="B1_L1_W2" CONTENT="." HPOS="361" VPOS="302" WIDTH="8" HEIGHT="49" WC="0.9872" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="5" HPOS="383" VPOS="300" WIDTH="24" HEIGHT="50" WC="0.9806" />
+            <String ID="B1_L1_W4" CONTENT="." HPOS="411" VPOS="300" WIDTH="6" HEIGHT="49" WC="0.9400" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="294" VPOS="419" WIDTH="49" HEIGHT="45">
+          <TextLine ID="B2_L1" HPOS="294" VPOS="419" WIDTH="49" HEIGHT="45">
+            <String ID="B2_L1_W1" CONTENT="A" HPOS="294" VPOS="420" WIDTH="34" HEIGHT="44" WC="0.9433" />
+            <String ID="B2_L1_W2" CONTENT=")" HPOS="329" VPOS="419" WIDTH="14" HEIGHT="44" WC="0.9557" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="291" VPOS="1684" WIDTH="48" HEIGHT="36">
+          <TextLine ID="B3_L1" HPOS="291" VPOS="1684" WIDTH="48" HEIGHT="36">
+            <String ID="B3_L1_W1" CONTENT="B" HPOS="291" VPOS="1684" WIDTH="32" HEIGHT="36" WC="0.9795" />
+            <String ID="B3_L1_W2" CONTENT=")" HPOS="322" VPOS="1684" WIDTH="17" HEIGHT="36" WC="0.9594" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="311" VPOS="1784" WIDTH="1925" HEIGHT="35">
+          <TextLine ID="B4_L1" HPOS="311" VPOS="1784" WIDTH="1925" HEIGHT="35">
+            <String ID="B4_L1_W1" CONTENT="GCTTTATTGTCTGAGCTCAT" HPOS="311" VPOS="1784" WIDTH="946" HEIGHT="35" WC="0.9750" />
+            <SP />
+            <String ID="B4_L1_W2" CONTENT="CATA" HPOS="1276" VPOS="1784" WIDTH="163" HEIGHT="35" WC="0.9758" />
+            <SP />
+            <String ID="B4_L1_W3" CONTENT="TATT" HPOS="1464" VPOS="1784" WIDTH="178" HEIGHT="35" WC="0.9712" />
+            <SP />
+            <String ID="B4_L1_W4" CONTENT="TA" HPOS="1661" VPOS="1784" WIDTH="73" HEIGHT="35" WC="0.9205" />
+            <SP />
+            <String ID="B4_L1_W5" CONTENT="CAGTGGGAAT" HPOS="1755" VPOS="1784" WIDTH="481" HEIGHT="35" WC="0.9814" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B5" HPOS="387" VPOS="2019" WIDTH="225" HEIGHT="161">
+          <TextLine ID="B5_L1" HPOS="387" VPOS="2019" WIDTH="225" HEIGHT="161">
+            <String ID="B5_L1_W1" CONTENT="MA" HPOS="387" VPOS="2019" WIDTH="225" HEIGHT="161" WC="0.5377" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

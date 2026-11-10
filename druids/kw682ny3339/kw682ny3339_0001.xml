@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kw682ny3339_0001</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2528" HEIGHT="3242" PHYSICAL_IMG_NR="1" PC="0.8193">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2528" HEIGHT="3242">
+        <TextBlock ID="B1" HPOS="343" VPOS="1412" WIDTH="1414" HEIGHT="47">
+          <TextLine ID="B1_L1" HPOS="343" VPOS="1412" WIDTH="1414" HEIGHT="47">
+            <String ID="B1_L1_W1" CONTENT="ATTRITION" HPOS="343" VPOS="1412" WIDTH="279" HEIGHT="37" WC="0.9913" />
+            <SP />
+            <String ID="B1_L1_W2" CONTENT="ON" HPOS="653" VPOS="1415" WIDTH="59" HEIGHT="34" WC="0.9701" />
+            <SP />
+            <String ID="B1_L1_W3" CONTENT="THE" HPOS="744" VPOS="1415" WIDTH="91" HEIGHT="36" WC="0.9894" />
+            <SP />
+            <String ID="B1_L1_W4" CONTENT="LITTORINA" HPOS="868" VPOS="1416" WIDTH="271" HEIGHT="37" WC="0.9927" />
+            <SP />
+            <String ID="B1_L1_W5" CONTENT="PLANAXIS" HPOS="1177" VPOS="1419" WIDTH="241" HEIGHT="37" WC="0.9895" />
+            <SP />
+            <String ID="B1_L1_W6" CONTENT="POPULATION" HPOS="1453" VPOS="1421" WIDTH="304" HEIGHT="38" WC="0.9868" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="923" VPOS="2957" WIDTH="614" HEIGHT="83">
+          <TextLine ID="B2_L1" HPOS="923" VPOS="2957" WIDTH="614" HEIGHT="83">
+            <String ID="B2_L1_W1" CONTENT="СОДВОЙ" HPOS="923" VPOS="2959" WIDTH="333" HEIGHT="81" WC="0.4330" />
+            <SP />
+            <String ID="B2_L1_W2" CONTENT="СОЙД" HPOS="1318" VPOS="2957" WIDTH="219" HEIGHT="80" WC="0.6036" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1719" VPOS="1897" WIDTH="525" HEIGHT="206">
+          <TextLine ID="B3_L1" HPOS="1725" VPOS="1897" WIDTH="336" HEIGHT="49">
+            <String ID="B3_L1_W1" CONTENT="Fric" HPOS="1725" VPOS="1897" WIDTH="117" HEIGHT="43" WC="0.8870" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="Bigler" HPOS="1879" VPOS="1901" WIDTH="182" HEIGHT="45" WC="0.9893" />
+          </TextLine>
+          <TextLine ID="B3_L2" HPOS="1724" VPOS="1950" WIDTH="519" HEIGHT="42">
+            <String ID="B3_L2_W1" CONTENT="for" HPOS="1724" VPOS="1950" WIDTH="87" HEIGHT="37" WC="0.9849" />
+            <SP />
+            <String ID="B3_L2_W2" CONTENT="Dr." HPOS="1849" VPOS="1952" WIDTH="80" HEIGHT="36" WC="0.9696" />
+            <SP />
+            <String ID="B3_L2_W3" CONTENT="D." HPOS="1969" VPOS="1953" WIDTH="53" HEIGHT="37" WC="0.9835" />
+            <SP />
+            <String ID="B3_L2_W4" CONTENT="Abbott" HPOS="2060" VPOS="1954" WIDTH="183" HEIGHT="38" WC="0.9506" />
+          </TextLine>
+          <TextLine ID="B3_L3" HPOS="1724" VPOS="1996" WIDTH="245" HEIGHT="49">
+            <String ID="B3_L3_W1" CONTENT="Bio" HPOS="1724" VPOS="1996" WIDTH="88" HEIGHT="43" WC="0.9527" />
+            <SP />
+            <String ID="B3_L3_W2" CONTENT="175h" HPOS="1846" VPOS="2000" WIDTH="123" HEIGHT="45" WC="0.9918" />
+          </TextLine>
+          <TextLine ID="B3_L4" HPOS="1720" VPOS="2046" WIDTH="244" HEIGHT="49">
+            <String ID="B3_L4_W1" CONTENT="May" HPOS="1720" VPOS="2050" WIDTH="93" HEIGHT="45" WC="0.9930" />
+            <SP />
+            <String ID="B3_L4_W2" CONTENT="1964" HPOS="1847" VPOS="2046" WIDTH="117" HEIGHT="46" WC="0.9884" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

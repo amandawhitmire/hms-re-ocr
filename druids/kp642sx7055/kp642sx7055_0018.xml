@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kp642sx7055_0018</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="OCR1">
+      <ocrProcessingStep>
+        <processingSoftware>
+          <softwareCreator>Google</softwareCreator>
+          <softwareName>Cloud Vision API DOCUMENT_TEXT_DETECTION</softwareName>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2544" HEIGHT="3299" PHYSICAL_IMG_NR="1" PC="0.9177">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2544" HEIGHT="3299">
+        <TextBlock ID="B1" HPOS="810" VPOS="189" WIDTH="522" HEIGHT="52">
+          <TextLine ID="B1_L1" HPOS="810" VPOS="189" WIDTH="522" HEIGHT="52">
+            <String ID="B1_L1_W1" CONTENT="FLUORESCENCE" HPOS="810" VPOS="189" WIDTH="522" HEIGHT="52" WC="0.9835" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B2" HPOS="1514" VPOS="188" WIDTH="217" HEIGHT="50">
+          <TextLine ID="B2_L1" HPOS="1514" VPOS="188" WIDTH="217" HEIGHT="50">
+            <String ID="B2_L1_W1" CONTENT="ASSAY" HPOS="1514" VPOS="188" WIDTH="217" HEIGHT="50" WC="0.9928" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B3" HPOS="1542" VPOS="675" WIDTH="138" HEIGHT="39">
+          <TextLine ID="B3_L1" HPOS="1543" VPOS="676" WIDTH="137" HEIGHT="38">
+            <String ID="B3_L1_W1" CONTENT="1" HPOS="1543" VPOS="676" WIDTH="17" HEIGHT="32" WC="0.4688" />
+            <SP />
+            <String ID="B3_L1_W2" CONTENT="hour" HPOS="1580" VPOS="677" WIDTH="100" HEIGHT="37" WC="0.9780" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B4" HPOS="652" VPOS="694" WIDTH="246" HEIGHT="42">
+          <TextLine ID="B4_L1" HPOS="652" VPOS="694" WIDTH="246" HEIGHT="42">
+            <String ID="B4_L1_W1" CONTENT="Rhodamine" HPOS="652" VPOS="694" WIDTH="246" HEIGHT="42" WC="0.9638" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="B5" TYPE="text" HPOS="121" VPOS="515" WIDTH="556" HEIGHT="1426">
+          <TextBlock ID="B5_P1" HPOS="154" VPOS="515" WIDTH="504" HEIGHT="515">
+            <TextLine ID="B5_P1_L1" HPOS="154" VPOS="515" WIDTH="504" HEIGHT="515">
+              <String ID="B5_P1_L1_W1" CONTENT="о" HPOS="154" VPOS="515" WIDTH="504" HEIGHT="515" WC="0.6332" />
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="B5_P2" HPOS="132" VPOS="1467" WIDTH="510" HEIGHT="461">
+            <TextLine ID="B5_P2_L1" HPOS="132" VPOS="1467" WIDTH="510" HEIGHT="461">
+              <String ID="B5_P2_L1_W1" CONTENT="о" HPOS="132" VPOS="1467" WIDTH="510" HEIGHT="461" WC="0.7212" />
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="B6" HPOS="653" VPOS="1765" WIDTH="236" HEIGHT="42">
+          <TextLine ID="B6_L1" HPOS="653" VPOS="1765" WIDTH="236" HEIGHT="42">
+            <String ID="B6_L1_W1" CONTENT="Verapamil" HPOS="653" VPOS="1765" WIDTH="236" HEIGHT="42" WC="0.9893" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B7" HPOS="653" VPOS="1619" WIDTH="245" HEIGHT="43">
+          <TextLine ID="B7_L1" HPOS="653" VPOS="1619" WIDTH="245" HEIGHT="43">
+            <String ID="B7_L1_W1" CONTENT="Rhodamine" HPOS="653" VPOS="1619" WIDTH="245" HEIGHT="43" WC="0.9789" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="B8" HPOS="1517" VPOS="1639" WIDTH="141" HEIGHT="39">
+          <TextLine ID="B8_L1" HPOS="1517" VPOS="1640" WIDTH="141" HEIGHT="38">
+            <String ID="B8_L1_W1" CONTENT="1" HPOS="1517" VPOS="1640" WIDTH="15" HEIGHT="36" WC="0.4902" />
+            <SP />
+            <String ID="B8_L1_W2" CONTENT="hour" HPOS="1551" VPOS="1640" WIDTH="107" HEIGHT="38" WC="0.9773" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
