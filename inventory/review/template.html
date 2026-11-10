@@ -95,11 +95,33 @@ main { padding-block: 16px 64px; display: flex; flex-direction: column; gap: 14p
   .keys { display: none }
 }
 @media (prefers-reduced-motion: no-preference) { .card { transition: border-color .15s, box-shadow .15s } }
+.clips { border-right: 1px solid var(--line); display: flex; flex-direction: column; gap: 1px; background: var(--line); min-width: 0 }
+.clips.many { max-height: 680px; overflow-y: auto }
+.clip { margin: 0; background: var(--surface); display: flex; flex-direction: column }
+.clip .scan { border-right: 0 }
+.clip.separate { outline: 2px dashed var(--s-unsure); outline-offset: -2px }
+.clip figcaption { padding: 6px 10px 8px; font-size: 12px; color: var(--muted); display: flex; flex-direction: column; gap: 6px }
+.cap-line { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center }
+.cap-line b { color: var(--ink); font-weight: 600 }
+.cap-line a { color: var(--accent) }
+.mono { font-family: var(--f-mono) }
+.linkish { background: none; border: 0; padding: 0; color: var(--accent); font: 500 12px var(--f-ui); cursor: pointer; text-decoration: underline; text-underline-offset: 2px }
+.badge { font-size: 11px; padding: 1px 8px; border-radius: 999px; color: #fff; font-weight: 600 }
+.badge[data-v="ocr_error"] { background: var(--s-error) } .badge[data-v="on_page"] { background: var(--s-page) }
+.badge[data-v="not_a_name"] { background: var(--s-notname) } .badge[data-v="cant_tell"] { background: var(--s-unsure) }
+.mini { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px }
+.mini-choice { font-size: 12px; padding: 4px 6px; justify-content: center; text-align: center }
+.mini-input { font: italic 13px var(--f-name); padding: 4px 6px; width: 100%; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink) }
+.repeat { margin: 0; font-size: 13px; padding: 8px 10px; border-radius: 6px; background: var(--accent-soft); color: var(--ink) }
+.mixed { margin: 0; font-size: 13px; color: var(--s-unsure) }
+.small { font-size: 12px; color: var(--muted) }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap }
+@media (max-width: 720px) { .clips { border-right: 0; border-bottom: 1px solid var(--line) } .clips.many { max-height: none } }
 </style>
 
 <header class="intro wrap">
   <h1>HMS Name Review</h1>
-  <p class="lede">Each card shows where a taxonomic name sits on the page image, what Google Vision read there, and the closest verified name. Decide what the page actually shows. Choices save automatically and are shared with anyone who can edit this page.</p>
+  <p class="lede">Each card shows where a taxonomic name sits on the page image, what Google Vision read there, and the closest verified name. When a paper has the same reading on several pages, they share one card with every clip shown; one choice covers them all, and any clip that differs can be decided separately. Decide what the page actually shows. Choices save automatically and are shared with anyone who can edit this page.</p>
   <div id="notice" class="notice" hidden></div>
   <ul class="legend">
     <li><b>OCR error:</b> the page shows something other than what Vision read.</li>
@@ -108,7 +130,7 @@ main { padding-block: 16px 64px; display: flex; flex-direction: column; gap: 14p
     <li><b>Can't tell:</b> too faint, cut off or illegible to decide.</li>
     <li><b>Use closest name for search:</b> a separate choice. It records the name people should find the paper by, whatever the page says.</li>
   </ul>
-  <div class="keys"><kbd>J</kbd> <kbd>K</kbd> next / previous &nbsp;·&nbsp; <kbd>1</kbd> OCR error &nbsp;<kbd>2</kbd> on the page &nbsp;<kbd>3</kbd> not a name &nbsp;<kbd>4</kbd> can't tell &nbsp;·&nbsp; <kbd>5</kbd> use closest name for search &nbsp;·&nbsp; the next undecided card opens after choices 1–4</div>
+  <div class="keys"><kbd>J</kbd> <kbd>K</kbd> next / previous &nbsp;·&nbsp; <kbd>1</kbd> OCR error &nbsp;<kbd>2</kbd> on the page &nbsp;<kbd>3</kbd> not a name &nbsp;<kbd>4</kbd> can't tell &nbsp;·&nbsp; <kbd>5</kbd> use closest name for search &nbsp;·&nbsp; the next undecided card opens once a card is done</div>
 </header>
 
 <div class="bar">
@@ -128,244 +150,5 @@ main { padding-block: 16px 64px; display: flex; flex-direction: column; gap: 14p
 <script id="items" type="application/json">__ITEMS__</script>
 <script id="crops" type="application/json">__CROPS__</script>
 <script>
-const ITEMS = JSON.parse(document.getElementById('items').textContent);
-const CHOICES = [
-  { v: 'ocr_error', label: 'OCR error', hint: 'page shows the correct name' },
-  { v: 'on_page', label: 'On the page', hint: 'author wrote it this way' },
-  { v: 'not_a_name', label: 'Not a name', hint: '' },
-  { v: 'cant_tell', label: "Can't tell", hint: '' },
-];
-const GROUPS = [
-  { id: 'low', label: 'Low confidence', note: 'Vision word confidence below 0.90' },
-  { id: 'mid', label: 'Uncertain', note: 'confidence 0.90 to 0.95' },
-  { id: 'high', label: 'High-confidence sample', note: '100 random flags at 0.95 and up' },
-  { id: 'garbled', label: 'Heavily garbled', note: 'loose match only' },
-];
-const state = { decisions: {}, filter: 'all', onlyOpen: false, focus: null, db: null, uid: null, saving: {} };
-const $ = (s, el = document) => el.querySelector(s);
-const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-
-// Mark characters of the OCR reading that differ from the suggestion (LCS alignment).
-function diffMarkup(a, b) {
-  const n = a.length, m = b.length, L = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
-  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--)
-    L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
-  let i = 0, j = 0, out = '', run = '';
-  const flush = () => { if (run) { out += '<mark>' + esc(run) + '</mark>'; run = ''; } };
-  while (i < n) {
-    if (j < m && a[i] === b[j]) { flush(); out += esc(a[i]); i++; j++; }
-    else if (j < m && L[i][j + 1] >= L[i + 1][j]) { j++; }
-    else { run += a[i]; i++; }
-  }
-  flush();
-  return out;
-}
-
-function visible() {
-  return ITEMS.filter(it => (state.filter === 'all' || it.group === state.filter) && (!state.onlyOpen || !state.decisions[it.id]?.decision));
-}
-
-function renderFilters() {
-  const counts = g => ITEMS.filter(it => g === 'all' || it.group === g);
-  const done = arr => arr.filter(it => state.decisions[it.id]?.decision).length;
-  const all = [{ id: 'all', label: 'All' }, ...GROUPS];
-  $('#filters').innerHTML = all.map(g => {
-    const arr = counts(g.id);
-    return `<button class="chip" type="button" data-g="${g.id}" aria-pressed="${state.filter === g.id}">${esc(g.label)} ${done(arr)}/${arr.length}</button>`;
-  }).join('');
-  const total = ITEMS.length, decided = done(ITEMS);
-  const by = v => ITEMS.filter(it => state.decisions[it.id]?.decision === v).length;
-  $('#progress-label').innerHTML = `<strong>${decided}</strong> of ${total} reviewed · OCR error ${by('ocr_error')} · on the page ${by('on_page')} · not a name ${by('not_a_name')} · can't tell ${by('cant_tell')}`;
-  const colors = { ocr_error: 'var(--s-error)', on_page: 'var(--s-page)', not_a_name: 'var(--s-notname)', cant_tell: 'var(--s-unsure)' };
-  $('#meter').innerHTML = CHOICES.map(c => `<span style="width:${(100 * by(c.v) / total).toFixed(2)}%;background:${colors[c.v]}"></span>`).join('');
-}
-
-function cardHTML(it) {
-  const d = state.decisions[it.id] || {};
-  const ptype = it.pageType.startsWith('sparse') ? 'figure / table / short page' : 'text page';
-  return `<article class="card" tabindex="0" id="c-${esc(it.id)}" data-id="${esc(it.id)}" ${d.decision ? `data-decision="${esc(d.decision)}"` : ''}>
-    <div class="scan"><img data-id="${esc(it.id)}" alt="Page image region for ${esc(it.ocr)}" loading="lazy"></div>
-    <div class="body">
-      <dl class="readings">
-        <dt>OCR read</dt><dd class="ocr">${diffMarkup(it.ocr, it.suggestion || it.ocr)}</dd>
-        <dt>Closest name</dt><dd class="sugg">${esc(it.suggestion || '—')}</dd>
-      </dl>
-      <div class="meta"><span>${esc(it.page)}</span><span>${esc(it.year)}</span><span class="conf">conf ${it.wc.toFixed(2)}</span><span>${ptype}</span></div>
-      <p class="paper">${esc(it.title)}</p>
-      <div class="links"><a href="${esc(it.fullPage)}" target="_blank" rel="noopener">Full page image</a><a href="https://purl.stanford.edu/${esc(it.druid)}" target="_blank" rel="noopener">Paper in SearchWorks</a></div>
-      <div class="choices" role="group" aria-label="What does the page show?">
-        ${CHOICES.map((c, k) => `<button type="button" class="choice" data-v="${c.v}" aria-pressed="${d.decision === c.v}" title="${esc(c.hint)}"><kbd>${k + 1}</kbd>${esc(c.label)}</button>`).join('')}
-      </div>
-      <div class="search-name">
-        <button type="button" class="closest" aria-pressed="${!!d.useClosest}"><span class="tick" aria-hidden="true">${d.useClosest ? '✓' : ''}</span><kbd>5</kbd>Use closest name for search</button>
-        <label for="pref-${esc(it.id)}" style="font-size:12px;color:var(--muted)">Or type a different name to use for search</label>
-        <input class="name-input" id="pref-${esc(it.id)}" data-f="preferredName" value="${esc(d.preferredName || '')}" placeholder="${esc(it.suggestion || '')}">
-      </div>
-      <div class="fields">
-        <label for="shows-${esc(it.id)}">Page shows (leave blank if it matches the closest name)</label>
-        <input class="name-input" id="shows-${esc(it.id)}" data-f="pageShows" value="${esc(d.pageShows || '')}" placeholder="${esc(it.suggestion || '')}">
-        <label for="note-${esc(it.id)}">Note</label>
-        <input id="note-${esc(it.id)}" data-f="note" value="${esc(d.note || '')}" placeholder="handwritten, underlined, rotated, cut off…">
-      </div>
-      <div class="status" id="st-${esc(it.id)}">${d.decision ? 'Saved' : ''}</div>
-    </div>
-  </article>`;
-}
-
-function renderList() {
-  const items = visible();
-  if (!items.length) { $('#list').innerHTML = `<p class="empty">Nothing left in this view. Pick another group or turn off “Undecided only”.</p>`; return; }
-  let html = '', last = null;
-  for (const it of items) {
-    if (it.group !== last) {
-      const g = GROUPS.find(g => g.id === it.group);
-      html += `<h2 class="group-head">${esc(g.label)} <small>${esc(g.note)}</small></h2>`;
-      last = it.group;
-    }
-    html += cardHTML(it);
-  }
-  $('#list').innerHTML = html;
-  hydrateImages();
-  if (state.focus) $('#c-' + CSS.escape(state.focus))?.classList.add('focused');
-}
-
-// Scan crops are embedded as base64; attach each one only when its card nears the viewport.
-const CROPS = JSON.parse(document.getElementById('crops').textContent);
-const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { show(e.target); io.unobserve(e.target); } }), { rootMargin: '800px 0px' }) : null;
-function show(img) { const b = CROPS[img.dataset.id]; if (b && !img.src) img.src = 'data:image/jpeg;base64,' + b; }
-function hydrateImages() { document.querySelectorAll('.scan img[data-id]').forEach(img => io ? io.observe(img) : show(img)); }
-
-function refreshCard(id) {
-  const el = $('#c-' + CSS.escape(id)); if (!el) return;
-  const d = state.decisions[id] || {};
-  if (d.decision) el.dataset.decision = d.decision; else delete el.dataset.decision;
-  el.querySelectorAll('.choice').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.v === d.decision)));
-  const cb = el.querySelector('.closest');
-  if (cb) { cb.setAttribute('aria-pressed', String(!!d.useClosest)); cb.querySelector('.tick').textContent = d.useClosest ? '✓' : ''; }
-  for (const inp of el.querySelectorAll('input[data-f]')) if (document.activeElement !== inp) inp.value = d[inp.dataset.f] || '';
-}
-
-function setStatus(id, text) { const s = $('#st-' + CSS.escape(id)); if (s) s.textContent = text; }
-
-async function save(id, patch) {
-  const cur = { ...(state.decisions[id] || {}), ...patch };
-  state.decisions[id] = cur;
-  refreshCard(id); renderFilters();
-  if (!state.db) { setStatus(id, 'Not saved: saving is unavailable in this view'); return; }
-  const it = ITEMS.find(x => x.id === id);
-  const body = { decision: cur.decision || '', pageShows: cur.pageShows || '', note: cur.note || '',
-    useClosest: !!cur.useClosest, preferredName: cur.preferredName || '',
-    page: it.page, druid: it.druid, ocr: it.ocr, suggestion: it.suggestion || '', group: it.group,
-    updatedAt: new Date().toISOString(), by: state.uid || '' };
-  // one write at a time per document; the latest value wins
-  state.saving[id] = body;
-  if (state.saving[id + ':busy']) return;
-  state.saving[id + ':busy'] = true;
-  setStatus(id, 'Saving…');
-  try {
-    while (state.saving[id]) {
-      const b = state.saving[id]; state.saving[id] = null;
-      await state.db.collection('decisions').doc(id).set(b);
-    }
-    setStatus(id, 'Saved');
-  } catch (e) {
-    setStatus(id, e?.code === 'invalid_argument' ? 'Not saved: you can view this page but not change it' : 'Not saved: the save failed. Choose again to retry.');
-  } finally { state.saving[id + ':busy'] = false; }
-}
-
-function focusCard(id, scroll = true) {
-  document.querySelectorAll('.card.focused').forEach(c => c.classList.remove('focused'));
-  state.focus = id;
-  const el = $('#c-' + CSS.escape(id));
-  if (el) { el.classList.add('focused'); if (scroll) el.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); el.focus({ preventScroll: true }); }
-}
-function step(dir) {
-  const ids = visible().map(i => i.id); if (!ids.length) return;
-  const k = ids.indexOf(state.focus);
-  focusCard(ids[k < 0 ? 0 : Math.min(ids.length - 1, Math.max(0, k + dir))]);
-}
-function nextOpen(fromId) {
-  const ids = visible().map(i => i.id); const k = ids.indexOf(fromId);
-  const rest = ids.slice(k + 1).concat(ids.slice(0, k + 1));
-  const nxt = rest.find(id => !state.decisions[id]?.decision);
-  if (nxt) focusCard(nxt);
-}
-
-function decide(id, v) {
-  const cur = state.decisions[id]?.decision;
-  save(id, { decision: cur === v ? '' : v });
-  if (cur !== v) {
-    if (state.onlyOpen) { const ids = visible().map(i => i.id); setTimeout(() => { renderList(); const n = ids.find(x => x !== id && !state.decisions[x]?.decision); if (n) focusCard(n); }, 250); }
-    else nextOpen(id);
-  }
-}
-
-function toggleClosest(id) {
-  const on = !state.decisions[id]?.useClosest;
-  // choosing the closest name replaces a typed alternative, so the two never disagree
-  save(id, on ? { useClosest: true, preferredName: '' } : { useClosest: false });
-}
-
-document.addEventListener('click', e => {
-  const chip = e.target.closest('.chip');
-  if (chip) { state.filter = chip.dataset.g; renderFilters(); renderList(); return; }
-  const cl = e.target.closest('.closest');
-  if (cl) { const id = cl.closest('.card').dataset.id; state.focus = id; toggleClosest(id); return; }
-  const btn = e.target.closest('.choice');
-  if (btn) { const id = btn.closest('.card').dataset.id; state.focus = id; decide(id, btn.dataset.v); return; }
-  const card = e.target.closest('.card');
-  if (card && !e.target.closest('a,input')) focusCard(card.dataset.id, false);
-});
-const timers = {};
-document.addEventListener('input', e => {
-  const inp = e.target.closest('input[data-f]'); if (!inp) return;
-  const id = inp.closest('.card').dataset.id, f = inp.dataset.f, val = inp.value;
-  // typing a different search name switches off "use closest name"
-  const patch = f === 'preferredName' && val.trim() ? { [f]: val, useClosest: false } : { [f]: val };
-  state.decisions[id] = { ...(state.decisions[id] || {}), ...patch };
-  if (patch.useClosest === false) refreshCard(id);
-  clearTimeout(timers[id + f]); setStatus(id, 'Typing…');
-  timers[id + f] = setTimeout(() => save(id, patch), 700);
-});
-document.addEventListener('focusin', e => { const c = e.target.closest('.card'); if (c && c.dataset.id !== state.focus) { document.querySelectorAll('.card.focused').forEach(x => x.classList.remove('focused')); state.focus = c.dataset.id; c.classList.add('focused'); } });
-document.addEventListener('keydown', e => {
-  if (e.target.closest('input') || e.metaKey || e.ctrlKey || e.altKey) return;
-  if (e.key === 'j') { e.preventDefault(); step(1); }
-  else if (e.key === 'k') { e.preventDefault(); step(-1); }
-  else if (/^[1-4]$/.test(e.key) && state.focus) { e.preventDefault(); decide(state.focus, CHOICES[+e.key - 1].v); }
-  else if (e.key === '5' && state.focus) { e.preventDefault(); toggleClosest(state.focus); }
-});
-$('#only-open').addEventListener('change', e => { state.onlyOpen = e.target.checked; renderList(); });
-$('#copy-csv').addEventListener('click', async e => {
-  const cols = ['page', 'druid', 'group', 'ocr', 'suggestion', 'wc', 'decision', 'pageShows', 'searchName', 'note'];
-  const q = v => '"' + String(v ?? '').replace(/"/g, '""') + '"';
-  const lines = [cols.join(',')].concat(ITEMS.map(it => { const d = state.decisions[it.id] || {}; const sn = d.preferredName || (d.useClosest ? it.suggestion : ''); return [it.page, it.druid, it.group, it.ocr, it.suggestion, it.wc, d.decision, d.pageShows, sn, d.note].map(q).join(','); }));
-  const btn = e.currentTarget;
-  try { await navigator.clipboard.writeText(lines.join('\n')); btn.textContent = 'Copied'; }
-  catch { btn.textContent = 'Copy failed'; }
-  setTimeout(() => { btn.textContent = 'Copy results as CSV'; }, 1800);
-});
-
-function notice(text) { const n = $('#notice'); n.textContent = text; n.hidden = !text; }
-
-renderFilters(); renderList();
-
-(async () => {
-  const db = await window.claude?.use?.('db');
-  if (!db) { notice('Saving is unavailable in this view, so choices made here will be lost when you close the page. Open the page signed in to claude.ai to save them.'); $('#progress-label').innerHTML = `<strong>0</strong> of ${ITEMS.length} reviewed`; return; }
-  state.db = db;
-  try { const user = await window.claude.use('user'); state.uid = user ? await user.id() : null;
-        if (user && (await user.can('data.write')) === false) notice('You can view these choices but not change them.'); } catch {}
-  const timer = setTimeout(() => notice('Saved choices cannot be reached yet. New choices will save once the connection returns.'), 10000);
-  db.collection('decisions').onSnapshot(snap => {
-    if (!snap.metadata.fromCache) { clearTimeout(timer); if ($('#notice').textContent.startsWith('Saved choices cannot')) notice(''); }
-    for (const ch of snap.docChanges()) {
-      const id = ch.doc.id;
-      if (ch.type === 'removed') delete state.decisions[id];
-      else if (!state.saving[id + ':busy']) { const d = ch.doc.data(); state.decisions[id] = { decision: d.decision, pageShows: d.pageShows, note: d.note, useClosest: !!d.useClosest, preferredName: d.preferredName || '' }; }
-      refreshCard(id);
-    }
-    renderFilters();
-  }, err => { clearTimeout(timer); notice('Saved choices could not be loaded (' + err.code + '). Reload the page to try again.'); });
-})();
+__APP__
 </script>
